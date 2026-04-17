@@ -106,6 +106,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - CASE_REPORT.md
   - vendor/
   - .bundle/
   - node_modules/
