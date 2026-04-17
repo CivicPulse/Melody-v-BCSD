@@ -111,7 +111,7 @@ Defense counsel Bryan's USCR 16.1 leave‑of‑absence notice (filed 3/26/2026).
 ### C. Rule Nisi Litigation (Fall 2025)
 
 #### [Macon_Melody_Motion.pdf]({{ site.baseurl }}/pdfs/Macon_Melody_Motion.pdf)
-**Plaintiff's Rule Nisi Motion**, filed 8/5/2025 by Ramsingh. Seeks an early show‑cause hearing to compress the case into a single merits proceeding per the ORA's "just, speedy, and inexpensive" directive. Relies on *Appen Media Grp. v. City of Sandy Springs*, 374 Ga. App. 841 (2025); *Napper v. Ga. Television Co.* Attaches two out‑of‑state trial court decisions (*Herald Publ'g v. Coopersville Area Public Schools* (Mich.); *Heller v. Safford USD* (Ariz.)) plus the AG letter.
+**Plaintiff's Rule Nisi Motion**, filed 8/5/2025 by Ramsingh. Seeks an early show‑cause hearing to compress the case into a single merits proceeding per the ORA's "just, speedy, and inexpensive" directive. Relies on [*Appen Media Grp. v. City of Sandy Springs*, 374 Ga. App. 841 (2025)](https://law.justia.com/cases/georgia/court-of-appeals/2025/a24a1357.html); *Napper v. Ga. Television Co.* Attaches two out‑of‑state trial court decisions (*Herald Publ'g v. Coopersville Area Public Schools* (Mich.); *Heller v. Safford USD* (Ariz.)) plus the AG letter.
 
 #### [Macon_Melody_Stipulation_CLS_edits_JR_edits.pdf]({{ site.baseurl }}/pdfs/Macon_Melody_Stipulation_CLS_edits_JR_edits.pdf)
 Joint stipulation (8/14/2025) — BCSD waives service; plaintiff extends response deadline to 10/13/2025. Collegial drafting ("CLS edits JR edits" in filename reflects negotiated exchange).
@@ -169,7 +169,7 @@ Receipt for 26 documents / 229 pages purchased for **$117.88**. Maps UUID → fi
 
 ## Legal Landscape & Precedent Review
 
-### *Mullins v. City of Griffin*, 886 F. Supp. 21 (N.D. Ga. 1995) — BCSD's fig leaf
+### [*Mullins v. City of Griffin*, 886 F. Supp. 21 (N.D. Ga. 1995)](https://law.justia.com/cases/federal/district-courts/FSupp/886/21/1797050/) — BCSD's fig leaf
 BCSD cited *Mullins* to the AG in April 2025 as authority for withholding. A reading of *Mullins* shows it:
 
 1. involved an **adult** city employee's sexual‑harassment suit — no student, no FERPA;
@@ -181,8 +181,8 @@ In other words, *Mullins* actually **favors the Melody**. The AG's pre‑suit le
 ### Georgia precedent governing "education record" scope
 - ***Red & Black Publ'g v. Bd. of Regents***, 262 Ga. 848 (1993) — narrow reading of FERPA: education records are about "academic performance, financial aid, or scholastic probation." Directly on point.
 - ***Bd. of Regents v. Atlanta Journal***, 259 Ga. 214 (1989) — expenditure of public funds is public; foundational ORA/transparency case.
-- ***Smith v. Northside Hosp.***, 347 Ga. App. 700 (2018) — agency cannot use discovery to examine the requester's motive or identity.
-- ***Appen Media Grp. v. City of Sandy Springs***, 374 Ga. App. 841 (2025) — recent authority reaffirming the agency's burden to justify withholding.
+- [***Smith v. Northside Hosp.***, 347 Ga. App. 700 (2018)](https://scholar.google.com/scholar_case?case=12417488551498498880) — agency cannot use discovery to examine the requester's motive or identity.
+- [***Appen Media Grp. v. City of Sandy Springs***, 374 Ga. App. 841 (2025)](https://law.justia.com/cases/georgia/court-of-appeals/2025/a24a1357.html) — recent authority reaffirming the agency's burden to justify withholding.
 
 ### Directly analogous out‑of‑state authority (attached to MSJ)
 - ***Herald Publ'g Co. v. Coopersville Area Public Schools*** (Mich. Cir. Ct. 2010) — school settlement dollar amounts are NOT education records even when a student is the victim or witness.
@@ -199,7 +199,7 @@ The statute is **mandatory absent special circumstances** if the agency "acted w
 - ***Wallace v. Greene County***, 274 Ga. App. 776 (2005) — sets the two‑prong test.
 - **Fulton County DA (March 2025 order, for 2024 ORA violations)** — **$54,264** fee award to attorney Ashleigh Merchant after Judge Rachel Krause found the DA's office acted in a "substantially groundless" manner.
 - **Forsyth County Schools (2024)** — $107,500 fee award. Note: this was a federal First Amendment § 1983 case (public-comment censorship), not an ORA case — included only to illustrate that Georgia courts do enforce fee-shifting against public bodies in adjacent transparency contexts.
-- ***Atlanta Community Press Collective v. Atlanta Police Foundation*** (Fulton 2025) — plaintiffs **won on the merits** (Judge Jane Barwick ruled APF is subject to the ORA and violated it). Fee disposition not independently confirmed; cited here as a recent ORA enforcement data point, not as a fee denial.
+- ***Atlanta Community Press Collective v. Atlanta Police Foundation*** (Fulton 2025) — plaintiffs **won on the merits** (Judge Jane Barwick ruled APF is subject to the ORA and violated it); see [Georgia Recorder coverage](https://georgiarecorder.com/2025/06/04/atlanta-police-foundation-ordered-to-comply-with-open-records-requests-over-cop-city-documents/). Fee disposition not independently confirmed; cited here as a recent ORA enforcement data point, not as a fee denial.
 
 ---
 

@@ -48,7 +48,7 @@ The plaintiff's **Motion for Partial Summary Judgment**, filed March 10, 2026, i
 
 - **Transparency vs. privacy.** FERPA was designed to protect academic records — not to conceal taxpayer expenditures. This case tests which side of that line a settlement dollar figure falls on.
 - **Public dollars, public right to know.** The Georgia Open Records Act is built on the premise that citizens must be able to "evaluate the expenditure of public funds."
-- **Georgia-specific precedent.** The Georgia Supreme Court's *Red & Black* decision (1993) reads FERPA narrowly. This case is likely the first time a Georgia appellate court will address whether a bare settlement dollar amount qualifies as a protected "education record."
+- **Georgia-specific precedent.** The Georgia Supreme Court's [*Red & Black*](https://law.justia.com/cases/georgia/supreme-court/1993/s92a1111-1.html) decision (1993) reads FERPA narrowly. This case is likely the first time a Georgia appellate court will address whether a bare settlement dollar amount qualifies as a protected "education record."
 
 ---
 
