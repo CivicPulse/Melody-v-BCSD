@@ -24,7 +24,7 @@ This is a short procedural agreement between the two sides' lawyers, filed joint
 
 A stipulation is not a motion — nobody is asking the judge to decide anything contested. Both sides have already agreed. The filing formalizes that agreement so it appears in the court record and binds everyone going forward.
 
-Two names appear on the stipulation: Lucas W. Andrews, lead counsel for The Macon Melody, and Caroline L. Scalf of Parker Poe, appearing for the school district. The stipulation does not move the April 29 hearing date. The practical effect is that BCSD's written brief lands just six days before Judge Smith hears oral argument.
+Two names appear on the stipulation: Lucas W. Andrews, lead counsel for [The Macon Melody](https://maconmelody.com/), and Caroline L. Scalf of Parker Poe, appearing for the school district. The stipulation does not move the April 29 hearing date. The practical effect is that BCSD's written brief lands just six days before Judge Smith hears oral argument.
 
 That tight window is itself a signal. When a briefing deadline falls so close to a hearing, it usually means both sides expect the hearing — the face-to-face oral argument before the judge — to do the heavy lifting, rather than the written briefs alone.
 

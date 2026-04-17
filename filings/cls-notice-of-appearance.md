@@ -61,7 +61,7 @@ The hourly-rate math is worth pausing on. If this lawsuit is about refusing to t
 
 ## Why this matters
 
-Read together with Bryan's notice, Scalf's appearance shows that BCSD is not planning to concede the records request. A single attorney of record from a local general-counsel firm would suggest a lighter-weight defense. Two attorneys of record from a regional specialty firm, appearing within the same two-minute window, suggests BCSD intends to litigate every issue — and to treat the *Macon Melody*'s Open Records Act lawsuit as a serious test of FERPA and IDEA's reach.
+Read together with Bryan's notice, Scalf's appearance shows that BCSD is not planning to concede the records request. A single attorney of record from a local general-counsel firm would suggest a lighter-weight defense. Two attorneys of record from a regional specialty firm, appearing within the same two-minute window, suggests BCSD intends to litigate every issue — and to treat the [*Macon Melody*](https://maconmelody.com/)'s Open Records Act lawsuit as a serious test of FERPA and IDEA's reach.
 
 ## Read the original
 

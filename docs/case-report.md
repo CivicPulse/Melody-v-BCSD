@@ -18,14 +18,14 @@ Report prepared 2026‑04‑17.
 
 ## TL;DR — Status Summary
 
-A local Macon newspaper, **The Macon Melody** (operating as Georgia Trust for Local News, LLC), sued **Bibb County School District (BCSD)** on **August 4, 2025** under Georgia's Open Records Act (O.C.G.A. § 50‑18‑70 *et seq.*) after BCSD refused to disclose **the dollar amount of a single 2024 board‑approved settlement** (involving minor student "JH"). BCSD claims the dollar figure is a FERPA/IDEA‑protected "education record" because the requester allegedly can identify the student.
+A local Macon newspaper, [**The Macon Melody**](https://maconmelody.com/) (operating as Georgia Trust for Local News, LLC), sued **Bibb County School District (BCSD)** on **August 4, 2025** under Georgia's Open Records Act ([O.C.G.A. § 50‑18‑70](https://law.justia.com/codes/georgia/2024/title-50/chapter-18/article-4/section-50-18-70/) *et seq.*) after BCSD refused to disclose **the dollar amount of a single 2024 board‑approved settlement** (involving minor student "JH"). BCSD claims the dollar figure is a FERPA/IDEA‑protected "education record" because the requester allegedly can identify the student.
 
-- **Reporter:** Laura Corley sent the Open Records Request (ORR) on 6/2/2025; BCSD denied on 6/5/2025.
-- **Plaintiff theory:** A bare settlement dollar amount paid from public funds is a public record, not an "education record" under FERPA. The Georgia Attorney General informally agreed in April 2025 that BCSD's reliance on *Mullins v. City of Griffin*, 886 F. Supp. 21 (N.D. Ga. 1995) — citation reads volume 886 of the Federal Supplement (a book of federal trial court decisions), page 21, decided 1995 in the Northern District of Georgia (a federal trial court) — is misplaced.
-- **Defense theory:** The amount, combined with BCSD's own voluntary disclosure of "JH" in the 7/18/2024 public board minutes, makes the amount "personally identifiable information" (PII) under 34 C.F.R. § 99.3 (Code of Federal Regulations) and IDEA. BCSD has also raised an **indispensable party** defense suggesting JH/parents must be joined.
+- **Reporter:** [Laura Corley](https://maconmelody.com/author/laura-corley/) sent the Open Records Request (ORR) on 6/2/2025; BCSD denied on 6/5/2025.
+- **Plaintiff theory:** A bare settlement dollar amount paid from public funds is a public record, not an "education record" under FERPA. The Georgia Attorney General informally agreed in April 2025 that BCSD's reliance on [*Mullins v. City of Griffin*, 886 F. Supp. 21 (N.D. Ga. 1995)](https://law.justia.com/cases/federal/district-courts/FSupp/886/21/1797050/) — citation reads volume 886 of the Federal Supplement (a book of federal trial court decisions), page 21, decided 1995 in the Northern District of Georgia (a federal trial court) — is misplaced.
+- **Defense theory:** The amount, combined with BCSD's own voluntary disclosure of "JH" in the 7/18/2024 public board minutes, makes the amount "personally identifiable information" (PII) under [34 C.F.R. § 99.3](https://www.ecfr.gov/current/title-34/section-99.3) (Code of Federal Regulations) and IDEA. BCSD has also raised an **indispensable party** defense suggesting JH/parents must be joined.
 - **Procedural posture:** Plaintiff filed a **Motion for Partial Summary Judgment (MPSJ)** on 3/10/2026 targeting BCSD's Sixth (FERPA/IDEA) and Ninth (indispensable party) Defenses. **Motions hearing scheduled for April 29, 2026, 2:00 p.m.**, Courtroom E, before Judge Ken Smith. **Calendar Call** is 5/5/2026. **Discovery extended** by court order to 7/13/2026.
 - **Counsel:** Plaintiff — originally Joy Ramsingh (Ramsingh Legal, Macon); substituted 1/7–1/8/2026 by **Lucas W. Andrews & Erika Pitzel, Stanton Law LLC** (Atlanta); the LLC's signatory on plaintiff's filings is **DuBose Porter** (Publisher Emeritus, Georgia Trust for Local News; former Georgia House Minority Leader). Defendant — **Bennett D. Bryan (BDB) & Caroline L. Scalf (CLS), Parker Poe Adams & Bernstein LLP** (Atlanta).
-- **Likely outcome:** Merits favor the Melody strongly. *Red & Black Publ. v. Bd. of Regents*, 262 Ga. 848 (1993) — citation reads: volume 262 of the Georgia Reports, page 848, decided 1993 — narrowly construes "education record"; *Herald Publ'g v. Coopersville* (Mich. 2010) and *Heller v. Safford USD* (Ariz. 2011) are directly on point and are exhibits to the MSJ. The AG's (Attorney General's) pre‑suit opinion undermines BCSD's "substantial justification" defense for attorney‑fee purposes. **Attorney fees under O.C.G.A. § 50‑18‑73(b) are probable but not certain** in light of recent Georgia practice.
+- **Likely outcome:** Merits favor the Melody strongly. [*Red & Black Publ. v. Bd. of Regents*, 262 Ga. 848 (1993)](https://law.justia.com/cases/georgia/supreme-court/1993/s92a1111-1.html) — citation reads: volume 262 of the Georgia Reports, page 848, decided 1993 — narrowly construes "education record"; *Herald Publ'g v. Coopersville* (Mich. 2010) and *Heller v. Safford USD* (Ariz. 2011) are directly on point and are exhibits to the MSJ. The AG's (Attorney General's) pre‑suit opinion undermines BCSD's "substantial justification" defense for attorney‑fee purposes. **Attorney fees under [O.C.G.A. § 50‑18‑73(b)](https://law.justia.com/codes/georgia/2024/title-50/chapter-18/article-4/section-50-18-73/) are probable but not certain** in light of recent Georgia practice.
 
 ---
 
@@ -46,7 +46,7 @@ A local Macon newspaper, **The Macon Melody** (operating as Georgia Trust for Lo
 
 | Date | Event |
 |------|------|
-| 2025‑06‑02 | Laura Corley (reporter) sends ORA (Open Records Act) request for 2024 settlement **dollar amounts only**. |
+| 2025‑06‑02 | [Laura Corley](https://maconmelody.com/author/laura-corley/) (reporter) sends ORA (Open Records Act) request for 2024 settlement **dollar amounts only**. |
 | 2025‑06‑05 | BCSD denies — cites FERPA/IDEA; discloses unsolicited "JH" initials. |
 | 2025‑04‑24 (prior req.) | Georgia AG letter rejecting BCSD's reliance on *Mullins v. City of Griffin*. |
 | **2025‑08‑04** | **Complaint filed** (Ramsingh Legal) — Rule Nisi Motion filed the next day. |
@@ -134,16 +134,16 @@ Plaintiff's COS (filename reads "280128" but actual date is 1/28/2026). Certifie
 USCR 5.2 COS — BCSD serves **First Continuing Interrogatories** on 4/3/2026, **10 days before discovery closes**. Since interrogatory responses are due in 30 days, they cannot be timely completed — this filing is the structural predicate for the discovery extension motion that followed.
 
 #### [2026.04.13_BCSD_Motion_to_Extend_Discovery.pdf]({{ site.baseurl }}/pdfs/2026.04.13_BCSD_Motion_to_Extend_Discovery.pdf)
-BCSD moves on 4/13/2026 (the discovery cutoff day) to extend discovery ~90 days through 7/13/2026. Grounds: develop the FERPA "requester‑knowledge" PII theory; depose reporters **Laura Corley and Casey Choung** and non‑party sources; compel adequate responses after claimed deficient amended responses (3/19/2026); and develop the indispensable‑party argument. Implicit threat to reporter's privilege under O.C.G.A. § 24‑5‑508. Paragraph 1 footnote shifts blame for case delay to the court's non‑ruling on Rule Nisi — a subtle rhetorical move.
+BCSD moves on 4/13/2026 (the discovery cutoff day) to extend discovery ~90 days through 7/13/2026. Grounds: develop the FERPA "requester‑knowledge" PII theory; depose reporters [**Laura Corley**](https://maconmelody.com/author/laura-corley/) and [**Casey Choung**](https://maconmelody.com/author/caseymaconmelody-com/) and non‑party sources; compel adequate responses after claimed deficient amended responses (3/19/2026); and develop the indispensable‑party argument. Implicit threat to reporter's privilege under O.C.G.A. § 24‑5‑508. Paragraph 1 footnote shifts blame for case delay to the court's non‑ruling on Rule Nisi — a subtle rhetorical move.
 
 ### E. Partial Motion for Summary Judgment
 
 #### [260310_MPSJ_w_EXHIBITS.pdf]({{ site.baseurl }}/pdfs/260310_MPSJ_w_EXHIBITS.pdf)
 **The most important filing in the case.** Plaintiff's **Motion for Partial Summary Judgment as to Defendant's Sixth and Ninth Defenses**, filed 3/10/2026 by Lucas W. Andrews (Stanton Law). 35 pages total (19‑page memorandum + two appended exhibits). Core holdings pressed:
 
-1. FERPA/IDEA protect only **"education records"** (20 U.S.C. § 1232g(a)(4)(A)). A dollar amount paid to settle a tort claim is not an education record — it does not "directly relate" to a student and does not concern "education." *Red & Black Publ'g v. Bd. of Regents*, 262 Ga. 848 (1993) limits FERPA to records of "academic performance, financial aid, or scholastic probation."
-2. Even if it were, **34 C.F.R. § 99.31(b)(1)** permits release of de‑identified records.
-3. BCSD's PII‑by‑identification theory fails because BCSD **itself voluntarily published JH's initials** in public board minutes — "cannot take advantage of its own violation to evade its obligations" (*K.L. v. Evesham Twp. Bd. of Educ.*, 423 N.J. Super. 337; *The Fla. Star v. B.J.F.*, 491 U.S. 524 (1989)).
+1. FERPA/IDEA protect only **"education records"** ([20 U.S.C. § 1232g(a)(4)(A)](https://www.law.cornell.edu/uscode/text/20/1232g)). A dollar amount paid to settle a tort claim is not an education record — it does not "directly relate" to a student and does not concern "education." *Red & Black Publ'g v. Bd. of Regents*, 262 Ga. 848 (1993) limits FERPA to records of "academic performance, financial aid, or scholastic probation."
+2. Even if it were, **[34 C.F.R. § 99.31(b)(1)](https://www.ecfr.gov/current/title-34/section-99.31)** permits release of de‑identified records.
+3. BCSD's PII‑by‑identification theory fails because BCSD **itself voluntarily published JH's initials** in public board minutes — "cannot take advantage of its own violation to evade its obligations" (*K.L. v. Evesham Twp. Bd. of Educ.*, 423 N.J. Super. 337; [*The Fla. Star v. B.J.F.*, 491 U.S. 524 (1989)](https://supreme.justia.com/cases/federal/us/491/524/)).
 4. If the records aren't education records, the student/parents have no joinable interest (Ninth Defense collapses).
 
 **Relief sought:** dismiss Sixth and Ninth Defenses; rule BCSD is an "agency" and the records are "public records" under the ORA. **Exhibits:** Ex. A = *Herald Publishing Co. v. Coopersville Area Public Schools* (Mich. Cir. Ct., 2010) full opinion ordering disclosure; Ex. B = *Heller v. Safford USD* (Ariz. Super. Ct., 2011) order. Authorities marshaled include *Dahmer v. W. Ky. Univ.*, *Wallace v. Cranbrook Educ. Cmty.*, *Ellis v. Cleveland Mun. Sch. Dist.*, *Bauer v. Kincaid*, *Poway USD v. Superior Ct.*
@@ -191,7 +191,7 @@ In other words, *Mullins* actually **favors the Melody**. The AG's pre‑suit le
 ### FERPA/PII scope
 - 34 C.F.R. § 99.3 defines PII by enumerated categories (name, DOB, SSN, etc.) plus the catch‑all "linked or linkable" test. A bare dollar amount, standing alone, fits no category.
 - 34 C.F.R. § 99.31(b)(1) expressly permits release of de‑identified records — FERPA itself contemplates redaction as cure.
-- ***Owasso ISD v. Falvo***, 534 U.S. 426 (2002) — Supreme Court reads "education records" narrowly.
+- [***Owasso ISD v. Falvo***, 534 U.S. 426 (2002)](https://supreme.justia.com/cases/federal/us/534/426/) — Supreme Court reads "education records" narrowly.
 - U.S. Dep't of Education 2009 informal guidance suggests settlements arising from student attendance *may* be FERPA‑protected, but it is agency guidance (not binding) and has been criticized (ABA Commc'ns Law. 2022, "Removing FERPA's 'Invisibility Cloak'").
 
 ### Attorney fees under O.C.G.A. § 50‑18‑73(b)
@@ -244,7 +244,7 @@ This is not an agency running out the clock through neglect. It is building a pa
 1. *Mullins* is inapposite and actually favors plaintiff.
 2. A bare dollar amount fails 34 C.F.R. § 99.3 as PII; redaction is a recognized cure.
 3. Georgia's *Red & Black* narrowly construes FERPA.
-4. The amount was approved at a public meeting under the Open Meetings Act (O.C.G.A. § 50‑14‑1 et seq.), so material terms were required to be public.
+4. The amount was approved at a public meeting under the Open Meetings Act ([O.C.G.A. § 50‑14‑1](https://law.justia.com/codes/georgia/2024/title-50/chapter-14/article-1/section-50-14-1/) et seq.), so material terms were required to be public.
 5. Confidentiality clauses cannot override the ORA.
 
 **On attorney fees — probable but not certain.** The AG's pre‑suit opinion, reliance on *Mullins*, and the pattern of delay support a fee award. Georgia trial judges sometimes excuse "legal misunderstanding" on the substantial-justification prong — the outcome on fees can lag the outcome on the merits.
@@ -266,6 +266,8 @@ This is not an agency running out the clock through neglect. It is building a pa
 
 ## Sources & Further Reading
 
+See also the [full References page]({{ site.baseurl }}/docs/references/) for a comprehensive index of every legal authority cited on this site.
+
 **Press / background**
 - [Kerry Hatcher — Still Waiting: A Transparency Update from Bibb County Schools](https://www.kerryhatcher.com/still-waiting-a-transparency-update-from-bibb-county-schools-and-the-state-superintendent/)
 - [Kerry Hatcher — Delayed, But Determined](https://www.kerryhatcher.com/delayed-but-determined/)
@@ -280,12 +282,22 @@ This is not an agency running out the clock through neglect. It is building a pa
 - [*Bd. of Regents v. Atlanta Journal*, 259 Ga. 214 (1989)](https://law.justia.com/cases/georgia/supreme-court/1989/46821-1.html)
 - [*Wallace v. Greene County*, 274 Ga. App. 776 (2005)](https://law.justia.com/cases/georgia/court-of-appeals/2005/a05a0754-0.html)
 - [*Owasso ISD v. Falvo*, 534 U.S. 426 (2002)](https://supreme.justia.com/cases/federal/us/534/426/)
-- [*Gonzaga Univ. v. Doe*, 536 U.S. 273 (2002)](https://supreme.justia.com/cases/federal/us/536/273/case.pdf)
+- [*Gonzaga Univ. v. Doe*, 536 U.S. 273 (2002)](https://supreme.justia.com/cases/federal/us/536/273/)
+- [*The Florida Star v. B.J.F.*, 491 U.S. 524 (1989)](https://supreme.justia.com/cases/federal/us/491/524/)
 - [*U.S. v. Miami University*, 294 F.3d 797 (6th Cir. 2002)](https://law.justia.com/cases/federal/appellate-courts/F3/294/797/545772/)
 
 **Statutes, regulations & secondary authority**
-- [O.C.G.A. § 50‑18‑71](https://law.justia.com/codes/georgia/title-50/chapter-18/article-4/section-50-18-71/)
-- [O.C.G.A. § 50‑18‑73](https://law.justia.com/codes/georgia/2021/title-50/chapter-18/article-4/section-50-18-73/)
+- [O.C.G.A. § 50‑18‑70 (Open Records Act)](https://law.justia.com/codes/georgia/2024/title-50/chapter-18/article-4/section-50-18-70/)
+- [O.C.G.A. § 50‑18‑71](https://law.justia.com/codes/georgia/2024/title-50/chapter-18/article-4/section-50-18-71/)
+- [O.C.G.A. § 50‑18‑73](https://law.justia.com/codes/georgia/2024/title-50/chapter-18/article-4/section-50-18-73/)
+- [O.C.G.A. § 50‑14‑1 (Open Meetings Act)](https://law.justia.com/codes/georgia/2024/title-50/chapter-14/article-1/section-50-14-1/)
+- [O.C.G.A. § 24‑5‑508 (Reporter's Shield)](https://law.justia.com/codes/georgia/2024/title-24/chapter-5/article-5/section-24-5-508/)
+- [O.C.G.A. § 9‑11‑56 (Summary Judgment)](https://law.justia.com/codes/georgia/2024/title-9/chapter-11/article-7/section-9-11-56/)
+- [O.C.G.A. § 9‑11‑19 (Joinder of Parties)](https://law.justia.com/codes/georgia/2024/title-9/chapter-11/article-3/section-9-11-19/)
+- [20 U.S.C. § 1232g (FERPA)](https://www.law.cornell.edu/uscode/text/20/1232g)
+- [20 U.S.C. § 1400 (IDEA)](https://www.law.cornell.edu/uscode/text/20/1400)
+- [34 C.F.R. § 99.3 (FERPA PII definition)](https://www.ecfr.gov/current/title-34/section-99.3)
+- [34 C.F.R. § 99.31 (FERPA de-identification)](https://www.ecfr.gov/current/title-34/section-99.31)
 - [Georgia AG — Open Records Act Guide (PDF)](https://law.georgia.gov/document/publication/186385699r1pdf/download)
 - [Georgia AG — Open Government Mediation Program](https://law.georgia.gov/open-government-mediation-program)
 - [Georgia AG — Guide to Access of School Records (PDF)](https://law.georgia.gov/document/document/110054237guide-access-school-records-citizenspdf/download)

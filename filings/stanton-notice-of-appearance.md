@@ -20,7 +20,7 @@ doc_type: "Notice of Appearance"
 
 ## What is this document?
 
-On January 7, 2026 — nearly five months after BCSD's (the Bibb County School District's) defense team appeared — two new attorneys from an Atlanta firm called **Stanton Law LLC** filed a notice entering their appearance for the plaintiff, *Georgia Trust for Local News LLC d/b/a* (doing business as) *The Macon Melody*. The two attorneys are **Lucas W. Andrews** and **Erika Pitzel**.
+On January 7, 2026 — nearly five months after BCSD's (the Bibb County School District's) defense team appeared — two new attorneys from an Atlanta firm called **Stanton Law LLC** filed a notice entering their appearance for the plaintiff, *Georgia Trust for Local News LLC d/b/a* (doing business as) [*The Macon Melody*](https://maconmelody.com/). The two attorneys are **Lucas W. Andrews** and **Erika Pitzel**.
 
 Up to this point, the *Macon Melody* had been represented by attorney **Joy Ramsingh** of Ramsingh Legal, a solo practitioner based in Macon. As of this filing, Stanton Law is on the case. The following day (January 8, 2026), a separate Substitution of Counsel formalizes Ramsingh's withdrawal — but for one day there were technically three attorneys on the plaintiff's side, because this notice lands first.
 

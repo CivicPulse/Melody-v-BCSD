@@ -7,9 +7,9 @@ Report prepared 2026‑04‑17.
 
 ## TL;DR — Status Summary
 
-A local Macon newspaper, **The Macon Melody** (operating as Georgia Trust for Local News, LLC), sued **Bibb County School District (BCSD)** on **August 4, 2025** under Georgia's Open Records Act (O.C.G.A. § 50‑18‑70 *et seq.*) after BCSD refused to disclose **the dollar amount of a single 2024 board‑approved settlement** (involving minor student "JH"). BCSD claims the dollar figure is a FERPA/IDEA‑protected "education record" because the requester allegedly can identify the student.
+A local Macon newspaper, [**The Macon Melody**](https://maconmelody.com/) (operating as Georgia Trust for Local News, LLC), sued **Bibb County School District (BCSD)** on **August 4, 2025** under Georgia's Open Records Act (O.C.G.A. § 50‑18‑70 *et seq.*) after BCSD refused to disclose **the dollar amount of a single 2024 board‑approved settlement** (involving minor student "JH"). BCSD claims the dollar figure is a FERPA/IDEA‑protected "education record" because the requester allegedly can identify the student.
 
-- **Reporter:** Laura Corley sent the Open Records request on 6/2/2025; BCSD denied on 6/5/2025.
+- **Reporter:** [Laura Corley](https://maconmelody.com/author/laura-corley/) sent the Open Records request on 6/2/2025; BCSD denied on 6/5/2025.
 - **Plaintiff theory:** A bare settlement dollar amount paid from public funds is a public record, not an "education record" under FERPA. The Georgia Attorney General informally agreed in April 2025 that BCSD's reliance on *Mullins v. City of Griffin*, 886 F. Supp. 21 (N.D. Ga. 1995) is misplaced.
 - **Defense theory:** The amount, combined with BCSD's own voluntary disclosure of "JH" in the 7/18/2024 public board minutes, makes the amount "personally identifiable information" under 34 C.F.R. § 99.3 and IDEA. BCSD has also raised an **indispensable party** defense suggesting JH/parents must be joined.
 - **Procedural posture:** Plaintiff filed a **Motion for Partial Summary Judgment** on 3/10/2026 targeting BCSD's Sixth (FERPA/IDEA) and Ninth (indispensable party) Defenses. **Motions hearing scheduled for April 29, 2026, 2:00 p.m.**, Courtroom E, before Judge Ken Smith. **Calendar Call** is 5/5/2026. **Discovery extended** by court order to 7/13/2026.
@@ -35,7 +35,7 @@ A local Macon newspaper, **The Macon Melody** (operating as Georgia Trust for Lo
 
 | Date | Event |
 |------|------|
-| 2025‑06‑02 | Laura Corley (reporter) sends ORA request for 2024 settlement **dollar amounts only**. |
+| 2025‑06‑02 | [Laura Corley](https://maconmelody.com/author/laura-corley/) (reporter) sends ORA request for 2024 settlement **dollar amounts only**. |
 | 2025‑06‑05 | BCSD denies — cites FERPA/IDEA; discloses unsolicited "JH" initials. |
 | 2025‑04‑24 (prior req.) | Georgia AG letter rejecting BCSD's reliance on *Mullins v. City of Griffin*. |
 | **2025‑08‑04** | **Complaint filed** (Ramsingh Legal) — Rule Nisi Motion filed the next day. |
@@ -123,7 +123,7 @@ Plaintiff's COS (filename reads "280128" but actual date is 1/28/2026). Certifie
 USCR 5.2 COS — BCSD serves **First Continuing Interrogatories** on 4/3/2026, **10 days before discovery closes**. Since interrogatory responses are due in 30 days, they cannot be timely completed — this filing is the structural predicate for the discovery extension motion that followed.
 
 #### [2026.04.13_BCSD_Motion_to_Extend_Discovery.pdf](./2026.04.13_BCSD_Motion_to_Extend_Discovery.pdf)
-BCSD moves on 4/13/2026 (the discovery cutoff day) to extend discovery ~90 days through 7/13/2026. Grounds: develop the FERPA "requester‑knowledge" PII theory; depose reporters **Laura Corley and Casey Choung** and non‑party sources; compel adequate responses after claimed deficient amended responses (3/19/2026); and develop the indispensable‑party argument. Implicit threat to reporter's privilege under O.C.G.A. § 24‑5‑508. Paragraph 1 footnote shifts blame for case delay to the court's non‑ruling on Rule Nisi — a subtle rhetorical move.
+BCSD moves on 4/13/2026 (the discovery cutoff day) to extend discovery ~90 days through 7/13/2026. Grounds: develop the FERPA "requester‑knowledge" PII theory; depose reporters [**Laura Corley**](https://maconmelody.com/author/laura-corley/) and [**Casey Choung**](https://maconmelody.com/author/caseymaconmelody-com/) and non‑party sources; compel adequate responses after claimed deficient amended responses (3/19/2026); and develop the indispensable‑party argument. Implicit threat to reporter's privilege under O.C.G.A. § 24‑5‑508. Paragraph 1 footnote shifts blame for case delay to the court's non‑ruling on Rule Nisi — a subtle rhetorical move.
 
 ### E. Partial Motion for Summary Judgment
 

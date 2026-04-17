@@ -17,13 +17,13 @@ A chronological record of every significant event in *Melody v. (versus) BCSD* (
 
 | Date | Event |
 |------|------|
-| **early 2025** (exact date not specified in the pleadings) | Reporter **Laura Corley** submits an earlier, broader Open Records Request to Bibb County School District (BCSD) concerning the July 18, 2024 board-approved settlement. BCSD denies, citing *Mullins v. City of Griffin*. Corley files a complaint with the Georgia Attorney General's (AG) Open Government Mediation Program. (Complaint ¶¶ 23–27.) |
+| **early 2025** (exact date not specified in the pleadings) | Reporter [**Laura Corley**](https://maconmelody.com/author/laura-corley/) submits an earlier, broader Open Records Request to Bibb County School District (BCSD) concerning the July 18, 2024 board-approved settlement. BCSD denies, citing *Mullins v. City of Griffin*. Corley files a complaint with the Georgia Attorney General's (AG) Open Government Mediation Program. (Complaint ¶¶ 23–27.) |
 | **2025-04-24** | **Georgia Attorney General's Office issues an informal opinion** to Corley and BCSD's pre-litigation counsel (Andrew Davidson of Jones Cork LLP) rejecting BCSD's reliance on *Mullins v. City of Griffin*, 886 F. Supp. 21 (N.D. Ga. 1995) (citation = volume 886 of the Federal Supplement — a book of federal trial court decisions — page 21, decided 1995 in the Northern District of Georgia, a federal trial court). The AG tells BCSD the case does not support non-disclosure. (Complaint Ex. F.) |
 | **2025-06-02** | Corley submits a narrower, follow-up Open Records Request asking for *just* the dollar amounts of 2024 settlements. |
 | **2025-06-05** | BCSD formally denies through Chief Communications Officer **Stephanie Hartley**, citing FERPA (Family Educational Rights and Privacy Act) and IDEA (Individuals with Disabilities Education Act), and voluntarily discloses the student's initials ("JH") in its denial letter. |
 
 {: .note }
-> **A separate, parallel records dispute ran on a different track.** Kerry Hatcher — the builder of this site, a Bibb parent, and a 2026 Board of Education candidate — filed his own Open Records Requests with BCSD during early 2025 concerning **Alexander II Magnet School safety and policing records**. Hatcher's dispute is distinct from the Macon Melody's settlement-amount dispute documented on this timeline, but Hatcher separately complained to the AG's Open Government Mediation Program around the same time. His personal blog covers that parallel dispute in detail.
+> **A separate, parallel records dispute ran on a different track.** Kerry Hatcher — the builder of this site, a Bibb parent, and a 2026 Board of Education candidate — filed his own Open Records Requests with BCSD during early 2025 concerning **Alexander II Magnet School safety and policing records**. Hatcher's dispute is distinct from the [Macon Melody's](https://maconmelody.com/) settlement-amount dispute documented on this timeline, but Hatcher separately complained to the AG's Open Government Mediation Program around the same time. His personal blog covers that parallel dispute in detail.
 
 ## The lawsuit begins (August – October 2025)
 

@@ -20,7 +20,7 @@ doc_type: "USCR 5.2 Certificate of Service"
 
 ## What is this document?
 
-This is a short certificate filed by the Macon Melody's (MM's) new lead counsel, Lucas W. Andrews of Stanton Law LLC in Atlanta, telling the court that on January 28, 2026, the newspaper served its responses to two sets of BCSD (Bibb County School District) discovery: the First Requests for Admission (RFAs — sworn written fact-admit-or-deny questions) and the First Requests for Production (RFPs — document demands).
+This is a short certificate filed by the [Macon Melody's](https://maconmelody.com/) (MM's) new lead counsel, Lucas W. Andrews of Stanton Law LLC in Atlanta, telling the court that on January 28, 2026, the newspaper served its responses to two sets of BCSD (Bibb County School District) discovery: the First Requests for Admission (RFAs — sworn written fact-admit-or-deny questions) and the First Requests for Production (RFPs — document demands).
 
 Like the BCSD certificate that kicked off this exchange a month earlier, this one does not contain the responses themselves. Under Georgia's Uniform Superior Court Rule 5.2 (USCR 5.2 — part of the Uniform Superior Court Rules, the procedural rulebook for Georgia Superior Court), actual discovery documents are exchanged between counsel and stay off the public docket unless a dispute brings them into a motion. This is the record that the responses were served on time.
 

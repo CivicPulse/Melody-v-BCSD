@@ -20,7 +20,7 @@ doc_type: "USCR 5.2 Certificate of Service"
 
 ## What is this document?
 
-This is a one-page certificate. It doesn't contain the discovery requests themselves — it just tells the court, on the public record, that BCSD served two sets of written discovery on the Macon Melody. Specifically: BCSD's First Requests for Production of Documents (RFPs) and BCSD's First Requests for Admission (RFAs).
+This is a one-page certificate. It doesn't contain the discovery requests themselves — it just tells the court, on the public record, that BCSD served two sets of written discovery on the [Macon Melody](https://maconmelody.com/). Specifically: BCSD's First Requests for Production of Documents (RFPs) and BCSD's First Requests for Admission (RFAs).
 
 The actual discovery — the lists of questions and document demands — was emailed and mailed to plaintiff's counsel and is not filed with the court. That's a feature of Georgia practice, not a bug; see the USCR 5.2 explanation below.
 
@@ -61,7 +61,7 @@ USCR 5.2 exists so courts aren't swamped. But it has a side effect that matters 
 
 In this case, we can reconstruct a lot of the content of the First RFAs by reading BCSD's **later** Motion to Extend Discovery (filed April 13, 2026), which quotes several of them. Specifically:
 
-- **RFA 8** asked the Melody to admit that it had published a "Weekly Beat" column by reporter Laura Corley describing the newspaper as being "stonewalled by the district." The Melody **admitted** this.
+- **RFA 8** asked the Melody to admit that it had published a "Weekly Beat" column by reporter [Laura Corley](https://maconmelody.com/author/laura-corley/) describing the newspaper as being "stonewalled by the district." The Melody **admitted** this.
 - **RFA 9** asked the Melody to admit it had taken the editorial position that the JH settlement and the Alexander II Magnet School principal firings are related events. The Melody **denied** this.
 - A parallel RFA asked about reporter Corley's own position on that same question. Also **denied**.
 

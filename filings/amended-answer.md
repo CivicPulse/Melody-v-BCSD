@@ -20,7 +20,7 @@ doc_type: "Amended Answer"
 
 ## What is this document?
 
-This is the Bibb County School District's updated formal response to the Macon Melody's lawsuit. When someone sues you, you file an "Answer" — a document that goes through the Complaint line by line and either admits, denies, or says the defendant doesn't know enough to admit or deny each accusation. The Answer also lists "defenses" — reasons the defendant believes the case should fail even if everything in the Complaint were true.
+This is the Bibb County School District's updated formal response to the [Macon Melody's](https://maconmelody.com/) lawsuit. When someone sues you, you file an "Answer" — a document that goes through the Complaint line by line and either admits, denies, or says the defendant doesn't know enough to admit or deny each accusation. The Answer also lists "defenses" — reasons the defendant believes the case should fail even if everything in the Complaint were true.
 
 BCSD filed its original Answer earlier in the case with eight defenses. On December 29, 2025, at 1:07 PM, BCSD filed this Amended Answer. An amended pleading replaces the original. The only meaningful change is a brand-new **Ninth Defense**: that the Melody "failed to join an indispensable party necessary for full adjudication of this case."
 
@@ -47,13 +47,13 @@ Amendment isn't rare or dramatic. It's routine. But what a lawyer chooses to add
 
 ### O.C.G.A. § 9-11-15 — the right to amend
 
-Georgia's Civil Practice Act (Ga. CPA — the state court procedure rules), Section 9-11-15, governs when and how parties can amend their pleadings. Before a pretrial order is entered, a party can amend "as a matter of course" — meaning they don't need the judge's permission or the other side's consent. After that point, they need leave of court or written consent from the opposing party, though leave "shall be freely given when justice so requires."
+Georgia's Civil Practice Act (Ga. CPA — the state court procedure rules), [Section 9-11-15](https://law.justia.com/codes/georgia/2024/title-9/chapter-11/article-3/section-9-11-15/), governs when and how parties can amend their pleadings. Before a pretrial order is entered, a party can amend "as a matter of course" — meaning they don't need the judge's permission or the other side's consent. After that point, they need leave of court or written consent from the opposing party, though leave "shall be freely given when justice so requires."
 
 Here the case is still early — no pretrial order has been entered — so BCSD didn't need anyone's blessing. They just filed.
 
 ### Failure to join an indispensable party (Rule 19) — what it means and how BCSD is using it
 
-This is the interesting part. Georgia's O.C.G.A. § 9-11-19 (modeled on federal Rule 19) divides potentially-missing parties into two categories:
+This is the interesting part. Georgia's [O.C.G.A. § 9-11-19](https://law.justia.com/codes/georgia/2024/title-9/chapter-11/article-3/section-9-11-19/) (modeled on federal Rule 19) divides potentially-missing parties into two categories:
 
 - **Necessary** parties: people who should be in the case if possible, because deciding without them would prejudice someone.
 - **Indispensable** parties: people whose absence is so serious that the case cannot proceed at all without them. If an indispensable party can't be joined (for example, because the court lacks jurisdiction over them), the lawsuit must be dismissed.

@@ -12,7 +12,7 @@ doc_type: "Reply Brief"
 # Plaintiff's Reply in Support of Rule Nisi
 
 {: .note }
-> **Filed** 2025-10-17 · **By** Joy Ramsingh, counsel for The Macon Melody · **Document type** Reply Brief in Support of Motion, with five exhibits
+> **Filed** 2025-10-17 · **By** Joy Ramsingh, counsel for [The Macon Melody](https://maconmelody.com/) · **Document type** Reply Brief in Support of Motion, with five exhibits
 > **[View the PDF →]({{ site.baseurl }}/pdfs/Macon_Melody_Reply_and_Exhibits.pdf){: .btn .btn-outline }**
 
 {: .note }
@@ -72,7 +72,7 @@ This doctrine is also why BCSD's § 99.3 "requester knows the student" theory is
 
 ### Georgia's reporter's shield (O.C.G.A. § 24-5-508)
 
-Georgia's reporter's-privilege statute, O.C.G.A. § 24-5-508, protects journalists from being forced to reveal sources or unpublished newsgathering materials. A party that wants to pierce the privilege must show three things: (1) the information is material and relevant, (2) it cannot reasonably be obtained from another source, and (3) there is a compelling need for it. That is a hard test — deliberately so, because the Legislature and the courts recognized that forcing reporters to testify about sources chills newsgathering and therefore chills the public's access to information.
+Georgia's reporter's-privilege statute, [O.C.G.A. § 24-5-508](https://law.justia.com/codes/georgia/2024/title-24/chapter-5/article-5/section-24-5-508/), protects journalists from being forced to reveal sources or unpublished newsgathering materials. A party that wants to pierce the privilege must show three things: (1) the information is material and relevant, (2) it cannot reasonably be obtained from another source, and (3) there is a compelling need for it. That is a hard test — deliberately so, because the Legislature and the courts recognized that forcing reporters to testify about sources chills newsgathering and therefore chills the public's access to information.
 
 *Atlanta Journal-Constitution v. Jewell*, 251 Ga. App. 808, is the leading Georgia application of this principle. The reply invokes § 24-5-508 and *Jewell* as a backstop: even if a court were somehow inclined to allow discovery against the Melody (which *Smith* and *Atchison* say it should not), BCSD would still have to satisfy the three-part reporter's-shield test before taking a single deposition of a Melody journalist. The District has not attempted that showing, and given what it is looking for — what reporters know about a student — it almost certainly cannot make it.
 

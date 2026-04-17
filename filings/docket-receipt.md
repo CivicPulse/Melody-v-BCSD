@@ -54,7 +54,7 @@ The **docket** — the list of what's been filed — is free to view on re:Searc
 
 This is the uncomfortable arithmetic of open courts in the digital era. The records *are* open, in the legal sense. Anyone with an internet connection and a credit card can reach them. But cost is a filter, and filters shape who participates. A wealthy media outlet or a law firm can easily absorb $117.88 to read one case. A retired citizen on a fixed income, a high-school journalism class, a small local blogger — they cannot absorb it at scale. The result is that Georgia's public records are, in practice, more available to some members of the public than to others.
 
-The Macon Melody's underlying lawsuit is a fight about *another* kind of fee (whether BCSD can charge fees to frustrate an open-records request). The question is the same: who can afford to watch the government?
+The [Macon Melody's](https://maconmelody.com/) underlying lawsuit is a fight about *another* kind of fee (whether BCSD can charge fees to frustrate an open-records request). The question is the same: who can afford to watch the government?
 
 ### Tyler Technologies / Odyssey eFileGA's role
 

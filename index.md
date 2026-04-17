@@ -23,7 +23,7 @@ A citizen's guide to Georgia's latest high-profile **Open Records Act** case —
 
 ## What this case is about, in 60 seconds
 
-In June 2025, a reporter for *The Macon Melody* — a Macon, Georgia newspaper — asked the **Bibb County School District (BCSD)** a simple question under the Georgia Open Records Act:
+In June 2025, a reporter for [*The Macon Melody*](https://maconmelody.com/) — a Macon, Georgia newspaper — asked the **Bibb County School District (BCSD)** a simple question under the Georgia Open Records Act:
 
 > **"How much money did the school board spend to settle lawsuits in 2024?"**
 
@@ -58,6 +58,7 @@ The plaintiff's **Motion for Partial Summary Judgment**, filed March 10, 2026, i
 | **[Parties & Counsel]({{ site.baseurl }}/docs/parties/)** | Who's who — attorneys, their firms, and the judge. |
 | **[Legal Background]({{ site.baseurl }}/docs/legal-background/)** | Plain-English primer on Georgia's Open Records Act, FERPA, IDEA, and the statutes cited in this case. |
 | **[Glossary]({{ site.baseurl }}/docs/glossary/)** | Every legal term of art used in the filings — defined for non-lawyers. |
+| **[References]({{ site.baseurl }}/docs/references/)** | Every statute, regulation, and case cited on this site — with links to full text and page locations. |
 | **[Court Filings]({{ site.baseurl }}/filings/)** | Every filed document with a plain-English summary, deep dive, and link to the original PDF. |
 
 ---
@@ -93,7 +94,7 @@ The plaintiff's **Motion for Partial Summary Judgment**, filed March 10, 2026, i
 
 ## About this site
 
-This site is a **citizen-journalism archive** built by [Kerry Hatcher](https://www.kerryhatcher.com) — a Bibb County parent, transparency blogger, and **2026 candidate for the Bibb County Board of Education (At-Large Post 7)**. Hatcher is **not affiliated with *The Macon Melody***; the paper is published by **Georgia Trust for Local News, LLC**, whose Publisher Emeritus is **DuBose Porter** and whose Executive Editor is **Caleb Slinkard**. The reporter whose June 2, 2025 Open Records Request drives this case is senior accountability reporter **Laura Corley**.
+This site is a **citizen-journalism archive** built by [Kerry Hatcher](https://www.kerryhatcher.com) — a Bibb County parent, transparency blogger, and **2026 candidate for the Bibb County Board of Education (At-Large Post 7)**. Hatcher is **not affiliated with *The Macon Melody***; the paper is published by **Georgia Trust for Local News, LLC**, whose Publisher Emeritus is **DuBose Porter** and whose Executive Editor is [**Caleb Slinkard**](https://maconmelody.com/author/caleb-slinkard/). The reporter whose June 2, 2025 Open Records Request drives this case is senior accountability reporter [**Laura Corley**](https://maconmelody.com/author/laura-corley/).
 
 Every court filing linked here was obtained from Tyler re:SearchGA (the official Georgia court records portal) and costs are documented in the [receipt]({{ site.baseurl }}/filings/docket-receipt/). Every legal concept is explained for non-lawyers.
 

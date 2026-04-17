@@ -20,7 +20,7 @@ doc_type: "USCR 5.2 Certificate of Service"
 
 ## What is this document?
 
-This is another one-page certificate of service, similar to the one BCSD filed on December 29, 2025. It tells the court that on April 3, 2026, at 4:38 PM, BCSD served its **First Continuing Interrogatories** (written questions the other side must answer in writing, under oath) on the Macon Melody. The interrogatories themselves — the actual list of written questions — are not attached; under Uniform Superior Court Rule 5.2 (USCR 5.2 — part of the Uniform Superior Court Rules, Georgia Superior Court's procedural rulebook), discovery requests stay off the public docket and are exchanged privately between counsel.
+This is another one-page certificate of service, similar to the one BCSD filed on December 29, 2025. It tells the court that on April 3, 2026, at 4:38 PM, BCSD served its **First Continuing Interrogatories** (written questions the other side must answer in writing, under oath) on the [Macon Melody](https://maconmelody.com/). The interrogatories themselves — the actual list of written questions — are not attached; under Uniform Superior Court Rule 5.2 (USCR 5.2 — part of the Uniform Superior Court Rules, Georgia Superior Court's procedural rulebook), discovery requests stay off the public docket and are exchanged privately between counsel.
 
 What makes this filing strategically interesting is its timing. The court's existing scheduling order set the discovery cutoff at April 13, 2026. By serving interrogatories on April 3 — exactly ten days before that cutoff — BCSD created a problem that could only be solved one way: by extending discovery.
 

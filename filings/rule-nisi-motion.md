@@ -20,7 +20,7 @@ doc_type: "Motion"
 
 ## What is this document?
 
-This is the very first substantive motion The Macon Melody filed after suing the Bibb County School District (BCSD). Instead of waiting the usual year-plus that a civil case can take to reach a hearing, the newspaper's attorney, Joy Ramsingh, is asking the court to do something simple and unusual: set an early, short hearing where BCSD has to stand up and explain — on the record — why it can legally refuse to hand over the dollar amount of a settlement its own Board already approved in open session.
+This is the very first substantive motion [The Macon Melody](https://maconmelody.com/) filed after suing the Bibb County School District (BCSD). Instead of waiting the usual year-plus that a civil case can take to reach a hearing, the newspaper's attorney, Joy Ramsingh, is asking the court to do something simple and unusual: set an early, short hearing where BCSD has to stand up and explain — on the record — why it can legally refuse to hand over the dollar amount of a settlement its own Board already approved in open session.
 
 In plain terms: the Melody is saying, "There is nothing to try. There is no fact dispute. There is only a legal question — does FERPA (the Family Educational Rights and Privacy Act, the federal law protecting student education records) shield a dollar figure? Let us argue that question now, quickly, the way the Open Records Act (ORA) says this is supposed to work."
 

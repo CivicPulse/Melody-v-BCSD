@@ -12,7 +12,7 @@ This page explains, for non-lawyers, the laws at the heart of *Melody v. BCSD*. 
 
 ---
 
-## 1. Georgia's Open Records Act (ORA) — O.C.G.A. § 50-18-70 *et seq.*
+## 1. Georgia's Open Records Act (ORA) — [O.C.G.A. § 50-18-70](https://law.justia.com/codes/georgia/2024/title-50/chapter-18/article-4/section-50-18-70/) *et seq.*
 
 *(O.C.G.A. = Official Code of Georgia Annotated — Georgia's compiled state statutes. § means "section." *et seq.* is Latin for "and following" — meaning "and the sections after this one.")*
 
@@ -35,7 +35,7 @@ The law's opening section (O.C.G.A. § 50-18-70(a)) actually puts it more formal
 3. **Exemptions are narrow.** Georgia law lists specific types of records that *can* be withheld (active criminal investigations, attorney-client communications in limited circumstances, certain student records, etc.). These exemptions must be **interpreted narrowly**.
 4. **If the agency refuses, you can sue.** The case goes to Superior Court. If you win, the court can order the records released **and award you attorney's fees**.
 
-### The fee-shifting rule — O.C.G.A. § 50-18-73(b)
+### The fee-shifting rule — [O.C.G.A. § 50-18-73(b)](https://law.justia.com/codes/georgia/2024/title-50/chapter-18/article-4/section-50-18-73/)
 
 This is the part that keeps government agencies honest. If the court finds the agency "acted without substantial justification" in refusing to turn over records, the law says the court **"shall" award the requester their attorney's fees** — unless special circumstances exist.
 
@@ -52,11 +52,11 @@ The word "shall" is important. It's the difference between "may" (discretionary)
 
 ### What it is
 
-FERPA (20 U.S.C. § 1232g — U.S.C. = United States Code, the federal statute book) is the main federal law protecting student privacy. It was passed in 1974 because Congress was concerned that schools were sharing student records too freely — with employers, credit bureaus, police, and the public.
+FERPA ([20 U.S.C. § 1232g](https://www.law.cornell.edu/uscode/text/20/1232g) — U.S.C. = United States Code, the federal statute book) is the main federal law protecting student privacy. It was passed in 1974 because Congress was concerned that schools were sharing student records too freely — with employers, credit bureaus, police, and the public.
 
 ### What it actually protects
 
-FERPA protects "**education records**." The statute defines them as records that (a) **directly relate** to a student and (b) are **maintained by an educational agency**. The U.S. Supreme Court has read this narrowly (*Owasso ISD v. Falvo*, 534 U.S. 426 (2002) — case citations read: volume / reporter / page / year, so this is volume 534 of the United States Reports, page 426, decided 2002). The Georgia Supreme Court in *Red & Black Publ'g Co. v. Bd. of Regents*, 262 Ga. 848 (1993), similarly rejected an expansive reading, holding that student disciplinary records were not the type of records FERPA was "intended to protect." *Red & Black* is often paraphrased as limiting FERPA's scope to records about academic performance, financial aid, or scholastic probation — but that phrasing is a secondary-source summary, not a direct quote from the opinion.
+FERPA protects "**education records**." The statute defines them as records that (a) **directly relate** to a student and (b) are **maintained by an educational agency**. The U.S. Supreme Court has read this narrowly ([*Owasso ISD v. Falvo*, 534 U.S. 426 (2002)](https://supreme.justia.com/cases/federal/us/534/426/) — case citations read: volume / reporter / page / year, so this is volume 534 of the United States Reports, page 426, decided 2002). The Georgia Supreme Court in [*Red & Black Publ'g Co. v. Bd. of Regents*, 262 Ga. 848 (1993)](https://law.justia.com/cases/georgia/supreme-court/1993/s92a1111-1.html), similarly rejected an expansive reading, holding that student disciplinary records were not the type of records FERPA was "intended to protect." *Red & Black* is often paraphrased as limiting FERPA's scope to records about academic performance, financial aid, or scholastic probation — but that phrasing is a secondary-source summary, not a direct quote from the opinion.
 
 ### What it does NOT protect
 
@@ -67,7 +67,7 @@ FERPA protects "**education records**." The statute defines them as records that
 
 ### The "personally identifiable information" (PII) catch-all
 
-FERPA regulations (34 C.F.R. § 99.3 — C.F.R. = Code of Federal Regulations) define PII as:
+FERPA regulations ([34 C.F.R. § 99.3](https://www.ecfr.gov/current/title-34/section-99.3) — C.F.R. = Code of Federal Regulations) define PII as:
 
 1. The student's name.
 2. The name of the student's parent **or other family members**.
@@ -77,9 +77,9 @@ FERPA regulations (34 C.F.R. § 99.3 — C.F.R. = Code of Federal Regulations) d
 6. "Other information that, alone or in combination, is **linked or linkable to a specific student** that would allow a reasonable person in the school community, who does not have personal knowledge of the relevant circumstances, to identify the student with reasonable certainty."
 7. Information **requested by a person whom the educational agency reasonably believes knows the identity of the student** to whom the education record relates.
 
-The last two catch-alls — especially item 7 — are the core of the Bibb County School District's defense. BCSD argues that because the *Macon Melody* reporter allegedly knows or can infer who "JH" is, the dollar amount of the settlement *becomes* PII in the reporter's hands.
+The last two catch-alls — especially item 7 — are the core of the Bibb County School District's defense. BCSD argues that because the [*Macon Melody*](https://maconmelody.com/) reporter allegedly knows or can infer who "JH" is, the dollar amount of the settlement *becomes* PII in the reporter's hands.
 
-### The redaction safety valve — 34 C.F.R. § 99.31(b)(1)
+### The redaction safety valve — [34 C.F.R. § 99.31(b)(1)](https://www.ecfr.gov/current/title-34/section-99.31)
 
 FERPA itself provides an answer: if a record contains PII, the school can **redact** the PII and release the rest. That's how federal law contemplates the release of records that have some student information — strip the identifying bits and produce everything else.
 
@@ -91,11 +91,11 @@ A **bare dollar amount** — with name, initials, DOB, address, case number, and
 
 ### What it is
 
-IDEA (20 U.S.C. § 1400 *et seq.* — *et seq.* is Latin for "and following," meaning "and the sections after this one") requires public schools to provide a "free appropriate public education" to students with disabilities. It was passed in 1975.
+IDEA ([20 U.S.C. § 1400](https://www.law.cornell.edu/uscode/text/20/1400) *et seq.* — *et seq.* is Latin for "and following," meaning "and the sections after this one") requires public schools to provide a "free appropriate public education" to students with disabilities. It was passed in 1975.
 
 ### IDEA's confidentiality provisions
 
-IDEA's regulations (34 C.F.R. §§ 300.610–300.627) include their own confidentiality rules for special-education records, referred to in the regulations as "personally identifiable information" (defined in 34 C.F.R. § 300.32 using similar language to FERPA).
+IDEA's regulations ([34 C.F.R. §§ 300.610–300.627](https://www.ecfr.gov/current/title-34/part-300)) include their own confidentiality rules for special-education records, referred to in the regulations as "personally identifiable information" (defined in [34 C.F.R. § 300.32](https://www.ecfr.gov/current/title-34/section-300.32) using similar language to FERPA).
 
 ### Why BCSD raises IDEA
 
@@ -103,7 +103,7 @@ Public reporting suggests the underlying case that generated the 2024 settlement
 
 ---
 
-## 4. The Georgia Open Meetings Act — O.C.G.A. § 50-14-1 *et seq.*
+## 4. The Georgia Open Meetings Act — [O.C.G.A. § 50-14-1](https://law.justia.com/codes/georgia/2024/title-50/chapter-14/article-1/section-50-14-1/) *et seq.*
 
 This is the **companion** sunshine law to the ORA. It governs *meetings* of government bodies — including school board meetings.
 
@@ -127,7 +127,7 @@ Plaintiff's position is that a settlement dollar figure paid from the district's
 
 ---
 
-## 6. The case BCSD relies on: *Mullins v. City of Griffin*, 886 F. Supp. 21 (N.D. Ga. 1995)
+## 6. The case BCSD relies on: [*Mullins v. City of Griffin*, 886 F. Supp. 21 (N.D. Ga. 1995)](https://law.justia.com/cases/federal/district-courts/FSupp/886/21/1797050/)
 
 *(Citation reads: volume 886 of the Federal Supplement — a book of federal trial court decisions — page 21, decided 1995 by the Northern District of Georgia, a federal trial court.)*
 
@@ -151,7 +151,7 @@ This is significant because of the Open Records Act's fee-shifting rule: if the 
 
 In Georgia Superior Court, a **Rule Nisi** (Latin for "unless" — a show-cause order) is an order requiring a party to appear on a specific date and "show cause" why the requested relief should not be granted. It's a way to compress an ordinary lawsuit into a single evidentiary hearing rather than a yearlong case.
 
-Georgia law specifically contemplates Rule Nisi hearings in Open Records Act cases under O.C.G.A. § 50-18-73. Plaintiff's August 2025 Rule Nisi Motion asked for exactly that kind of fast-track hearing. BCSD opposed it, arguing the case involved disputed facts that required discovery. The court did not set an early hearing.
+Georgia law specifically contemplates Rule Nisi hearings in Open Records Act cases under [O.C.G.A. § 50-18-73](https://law.justia.com/codes/georgia/2024/title-50/chapter-18/article-4/section-50-18-73/). Plaintiff's August 2025 Rule Nisi Motion asked for exactly that kind of fast-track hearing. BCSD opposed it, arguing the case involved disputed facts that required discovery. The court did not set an early hearing.
 
 ---
 
@@ -172,11 +172,11 @@ Summary judgment on an **affirmative defense** is exactly this kind of legal que
 
 ---
 
-## 9. Reporter's Shield — O.C.G.A. § 24-5-508
+## 9. Reporter's Shield — [O.C.G.A. § 24-5-508](https://law.justia.com/codes/georgia/2024/title-24/chapter-5/article-5/section-24-5-508/)
 
 Georgia recognizes a qualified privilege protecting journalists from being compelled to disclose their sources. The statute covers anyone engaged in news gathering for a "news organization."
 
-Why it's relevant here: BCSD's April 2026 Motion to Extend Discovery signals an intent to depose *Macon Melody* reporters Laura Corley and Casey Choung, and possibly their "non-party sources." If those depositions probe source identity or unpublished source material, the reporter's shield becomes a live issue that could either shut down the depositions entirely or require lengthy motion practice.
+Why it's relevant here: BCSD's April 2026 Motion to Extend Discovery signals an intent to depose *Macon Melody* reporters [Laura Corley](https://maconmelody.com/author/laura-corley/) and [Casey Choung](https://maconmelody.com/author/caseymaconmelody-com/), and possibly their "non-party sources." If those depositions probe source identity or unpublished source material, the reporter's shield becomes a live issue that could either shut down the depositions entirely or require lengthy motion practice.
 
 ---
 
@@ -186,3 +186,4 @@ Why it's relevant here: BCSD's April 2026 Motion to Extend Discovery signals an 
 - **[Georgia AG (Attorney General) — Open Records Act Guide](https://law.georgia.gov/document/publication/186385699r1pdf/download)** — the state's official plain-language explainer.
 - **[Reporters Committee for Freedom of the Press (RCFP) — Georgia Open Government Guide](https://www.rcfp.org/open-government-guide/georgia/)** — comprehensive reference.
 - **[US Dept. of Education — FERPA Overview](https://studentprivacy.ed.gov/ferpa)** — the federal primer.
+- **[Full References List]({{ site.baseurl }}/docs/references/)** — every legal authority cited on this site, with links and page locations.

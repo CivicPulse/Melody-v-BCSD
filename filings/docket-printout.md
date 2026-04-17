@@ -59,7 +59,7 @@ Georgia's open-courts tradition is old. The state constitution and common law bo
 
 In practice, three overlapping systems govern what you can see:
 
-1. **The Georgia Open Records Act (O.C.G.A. § 50-18-70 et seq.)** (O.C.G.A. = Official Code of Georgia Annotated, Georgia's state statute book; § = "section"; *et seq.* is Latin for "and following") — this is the statute *The Macon Melody* is suing under. It governs records held by state and local government agencies (like a school district), not courts. It has a 3-business-day response deadline and allows agencies to charge reasonable copying fees.
+1. **The Georgia Open Records Act (O.C.G.A. § 50-18-70 et seq.)** (O.C.G.A. = Official Code of Georgia Annotated, Georgia's state statute book; § = "section"; *et seq.* is Latin for "and following") — this is the statute [*The Macon Melody*](https://maconmelody.com/) is suing under. It governs records held by state and local government agencies (like a school district), not courts. It has a 3-business-day response deadline and allows agencies to charge reasonable copying fees.
 2. **Uniform Superior Court Rules (USCR) Rule 21** — the USCR is the procedural rulebook for Georgia Superior Court. Rule 21 governs access to records held by the **courts themselves**. It says court filings are presumptively open, and if a party wants to seal something they have to file a motion and justify it on the record.
 3. **Tyler's re:SearchGA platform** — the technical layer that actually delivers the records. Rule 21 says filings are public; re:SearchGA is how "public" becomes something you can click on from your couch.
 

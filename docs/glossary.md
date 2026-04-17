@@ -44,7 +44,7 @@ Every legal term of art that appears in the *Melody v. BCSD* filings, defined fo
 
 ## E
 
-**Education Record (under FERPA)** — A record that (1) directly relates to a student and (2) is maintained by an educational agency. The Georgia Supreme Court in *Red & Black Publ'g v. Bd. of Regents* read this narrowly, holding that student disciplinary records were "not the type" of records FERPA was "intended to protect." The shorthand summary that FERPA is limited to "academic performance, financial aid, or scholastic probation" is a commentator's paraphrase, not a direct quote from the opinion.
+**Education Record (under FERPA)** — A record that (1) directly relates to a student and (2) is maintained by an educational agency. The Georgia Supreme Court in [*Red & Black Publ'g v. Bd. of Regents*](https://law.justia.com/cases/georgia/supreme-court/1993/s92a1111-1.html) read this narrowly, holding that student disciplinary records were "not the type" of records FERPA was "intended to protect." The shorthand summary that FERPA is limited to "academic performance, financial aid, or scholastic probation" is a commentator's paraphrase, not a direct quote from the opinion.
 
 **et al.** — Latin for "and others." Used in case captions when there are multiple parties on one side.
 
@@ -52,13 +52,13 @@ Every legal term of art that appears in the *Melody v. BCSD* filings, defined fo
 
 ## F
 
-**FERPA (Family Educational Rights and Privacy Act)** — Federal law (20 U.S.C. § 1232g) protecting student education records. See the [Legal Background]({{ site.baseurl }}/docs/legal-background/) page.
+**FERPA (Family Educational Rights and Privacy Act)** — Federal law ([20 U.S.C. § 1232g](https://www.law.cornell.edu/uscode/text/20/1232g)) protecting student education records. See the [Legal Background]({{ site.baseurl }}/docs/legal-background/) page.
 
 **F. Supp.** — Federal Supplement — a book of federal trial court decisions (example: "886 F. Supp. 21" = volume 886, page 21).
 
 ## I
 
-**IDEA (Individuals with Disabilities Education Act)** — Federal law (20 U.S.C. § 1400 *et seq.*) guaranteeing a "free appropriate public education" to students with disabilities. Has its own confidentiality rules for special-education records. (U.S.C. = United States Code, the federal statute book.)
+**IDEA (Individuals with Disabilities Education Act)** — Federal law ([20 U.S.C. § 1400](https://www.law.cornell.edu/uscode/text/20/1400) *et seq.*) guaranteeing a "free appropriate public education" to students with disabilities. Has its own confidentiality rules for special-education records. (U.S.C. = United States Code, the federal statute book.)
 
 **In Camera Review** — *In camera* is Latin for "in chambers." The judge reviews a document privately (judge-only) to decide whether it must be disclosed. Common in privilege disputes.
 
@@ -88,11 +88,11 @@ Every legal term of art that appears in the *Melody v. BCSD* filings, defined fo
 
 **O.C.G.A.** — Official Code of Georgia Annotated — the compilation of Georgia's statutes. Cited like "O.C.G.A. § 50-18-70." The "§" symbol means "section."
 
-**Open Records Act (ORA)** — Georgia's public-records law, codified at O.C.G.A. § 50-18-70 *et seq.* ("et seq." is Latin for "and following").
+**Open Records Act (ORA)** — Georgia's public-records law, codified at [O.C.G.A. § 50-18-70](https://law.justia.com/codes/georgia/2024/title-50/chapter-18/article-4/section-50-18-70/) *et seq.* ("et seq." is Latin for "and following").
 
 **Open Records Request (ORR)** — A written request sent to a government agency asking for records under the ORA.
 
-**Open Meetings Act** — Georgia's companion law for public-body meetings, codified at O.C.G.A. § 50-14-1 *et seq.*.
+**Open Meetings Act** — Georgia's companion law for public-body meetings, codified at [O.C.G.A. § 50-14-1](https://law.justia.com/codes/georgia/2024/title-50/chapter-14/article-1/section-50-14-1/) *et seq.*.
 
 ## P
 
@@ -100,9 +100,9 @@ Every legal term of art that appears in the *Melody v. BCSD* filings, defined fo
 
 **PII (Personally Identifiable Information)** — See "Personally Identifiable Information" below.
 
-**Personally Identifiable Information (PII)** — Information that, alone or in combination, identifies a specific person. Under FERPA (34 C.F.R. § 99.3), includes name, address, SSN, biometric records, and "other information linked or linkable to a specific student."
+**Personally Identifiable Information (PII)** — Information that, alone or in combination, identifies a specific person. Under FERPA ([34 C.F.R. § 99.3](https://www.ecfr.gov/current/title-34/section-99.3)), includes name, address, SSN, biometric records, and "other information linked or linkable to a specific student."
 
-**Plaintiff** — The party who filed the lawsuit. Here: Georgia Trust for Local News LLC d/b/a The Macon Melody.
+**Plaintiff** — The party who filed the lawsuit. Here: Georgia Trust for Local News LLC d/b/a [The Macon Melody](https://maconmelody.com/).
 
 **Pleading** — A formal filing that states claims or defenses. The Complaint, Answer, and Amended Answer are pleadings.
 
@@ -112,11 +112,11 @@ Every legal term of art that appears in the *Melody v. BCSD* filings, defined fo
 
 **Ga. App. / Ga. / F. Supp. (citation reporters)** — Case citations follow the pattern *volume / reporter / page / year*. "Ga." is the Georgia Supreme Court reporter; "Ga. App." is the Georgia Court of Appeals reporter; "F. Supp." is the Federal Supplement (federal trial court decisions); "U.S." is the United States Reports (U.S. Supreme Court). Example: *Red & Black*, 262 Ga. 848 (1993) = volume 262 of the Georgia Reports, page 848, decided 1993.
 
-**Redaction** — Blacking-out or removing specific information from a document before production. FERPA itself contemplates redaction as a way to release records that contain both public and private information (34 C.F.R. § 99.31(b)(1)).
+**Redaction** — Blacking-out or removing specific information from a document before production. FERPA itself contemplates redaction as a way to release records that contain both public and private information ([34 C.F.R. § 99.31(b)(1)](https://www.ecfr.gov/current/title-34/section-99.31)).
 
 **Reply** — The moving party's response to the opposing party's Response/Opposition.
 
-**Reporter's Shield / Reporter's Privilege** — Georgia law (O.C.G.A. § 24-5-508) giving journalists qualified protection from being compelled to identify sources.
+**Reporter's Shield / Reporter's Privilege** — Georgia law ([O.C.G.A. § 24-5-508](https://law.justia.com/codes/georgia/2024/title-24/chapter-5/article-5/section-24-5-508/)) giving journalists qualified protection from being compelled to identify sources.
 
 **Request for Admission (RFA)** — A discovery request asking the other side to admit or deny a specific fact under oath. Admissions conclusively establish the fact; denials that turn out to be incorrect can trigger sanctions.
 
@@ -136,7 +136,7 @@ Every legal term of art that appears in the *Melody v. BCSD* filings, defined fo
 
 **Stipulation** — A written agreement between the parties. Doesn't require a judge's signature to bind the parties but is usually filed with the court.
 
-**Substantial Justification** — The standard under O.C.G.A. § 50-18-73(b) that determines whether attorney's fees should be awarded. If the agency had a reasonable legal basis for its position — even if ultimately wrong — fees may be denied.
+**Substantial Justification** — The standard under [O.C.G.A. § 50-18-73(b)](https://law.justia.com/codes/georgia/2024/title-50/chapter-18/article-4/section-50-18-73/) that determines whether attorney's fees should be awarded. If the agency had a reasonable legal basis for its position — even if ultimately wrong — fees may be denied.
 
 **Substitution of Counsel** — The procedure for swapping attorneys mid-case.
 

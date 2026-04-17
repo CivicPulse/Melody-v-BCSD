@@ -19,7 +19,7 @@ doc_type: "Stipulation (Joint Procedural Filing)"
 
 This is a **joint stipulation** — an agreement signed by both sides and filed with the court — in which Bibb County School District formally waived its right to insist on traditional service of the Complaint. In exchange, the Plaintiff agreed to extend BCSD's (the Bibb County School District's) deadline to file an Answer until **October 13, 2025**.
 
-The document is short, procedural, and not about the merits of the case. Its filename — *Macon_Melody_Stipulation_CLS_edits_JR_edits.pdf* — is telling: the document was negotiated back and forth between Caroline L. Scalf (CLS — her initials) of Parker Poe, representing BCSD, and Joy Ramsingh (JR) of Ramsingh Legal, representing the Melody (MM — the Macon Melody, the newspaper plaintiff; NOT an attorney). Each set of initials marks a round of edits in the drafting process before both sides signed.
+The document is short, procedural, and not about the merits of the case. Its filename — *Macon_Melody_Stipulation_CLS_edits_JR_edits.pdf* — is telling: the document was negotiated back and forth between Caroline L. Scalf (CLS — her initials) of Parker Poe, representing BCSD, and Joy Ramsingh (JR) of Ramsingh Legal, representing the Melody (MM — the [Macon Melody](https://maconmelody.com/), the newspaper plaintiff; NOT an attorney). Each set of initials marks a round of edits in the drafting process before both sides signed.
 
 Once filed on August 14, 2025, this stipulation did two things at once:
 

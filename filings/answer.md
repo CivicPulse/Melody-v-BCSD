@@ -23,7 +23,7 @@ The Answer does two things. First, it lists **eight affirmative defenses** — s
 
 The headline defense is the **Sixth Defense**, which invokes both **FERPA** (the Family Educational Rights and Privacy Act — the federal law protecting student education records) *and* **IDEA** (the Individuals with Disabilities Education Act — the federal law governing special-education services) as federal statutes allegedly protecting the settlement dollar figure from disclosure. IDEA did not appear in BCSD's original ORA (Open Records Act) denial email (Exhibit B to the Complaint) or in its Attorney-General correspondence — so pairing it with FERPA here is a notable expansion of the District's legal theory.
 
-The **Seventh Defense** — that the District "acted with substantial justification" in its response to the Open Records Act request — is not about winning the case on the merits. It is aimed at the fee-shifting statute, O.C.G.A. § 50-18-73(b) (O.C.G.A. stands for "Official Code of Georgia Annotated" — Georgia's compiled state statutes; § means "section"), which requires the court to award attorney's fees to a prevailing ORA plaintiff *unless* the agency proves substantial justification. In other words, BCSD is laying the groundwork to avoid paying the Melody's legal bills even if BCSD loses.
+The **Seventh Defense** — that the District "acted with substantial justification" in its response to the Open Records Act request — is not about winning the case on the merits. It is aimed at the fee-shifting statute, [O.C.G.A. § 50-18-73(b)](https://law.justia.com/codes/georgia/2024/title-50/chapter-18/article-4/section-50-18-73/) (O.C.G.A. stands for "Official Code of Georgia Annotated" — Georgia's compiled state statutes; § means "section"), which requires the court to award attorney's fees to a prevailing ORA plaintiff *unless* the agency proves substantial justification. In other words, BCSD is laying the groundwork to avoid paying the Melody's legal bills even if BCSD loses.
 
 The Answer also contains several admissions that the Melody's counsel will use against the District at summary judgment. Most notably, BCSD admits that the July 18, 2024 Board of Education minutes publicly state, "Settlement for Student JH (ACTION). The Board voted unanimously to approve this action item," and it admits that *some* settlement amounts have in the past been disclosed on Bibb County Board of Education meeting minutes. It also admits it received the Georgia Attorney General's (AG — the state's chief lawyer) April 24, 2025 letter rejecting the District's reliance on *Mullins v. City of Griffin*.
 
@@ -75,8 +75,8 @@ BCSD's Sixth Defense is the heart of the case on the merits: it argues that FERP
 
 FERPA and IDEA are related but not identical federal statutes:
 
-- **FERPA** (20 U.S.C. § 1232g) protects the privacy of student "education records" held by schools that receive federal funding. It is the main federal student-privacy statute.
-- **IDEA** (20 U.S.C. § 1400 *et seq.* — U.S.C. is the "United States Code," the federal statute book; *et seq.* is Latin for "and following," meaning "section 1400 and the sections after it") governs how public schools provide special education and related services to students with disabilities. IDEA has its own confidentiality regulations (34 C.F.R. Part 300 — C.F.R. stands for "Code of Federal Regulations," where federal agency rules live) that in some respects run parallel to FERPA.
+- **FERPA** ([20 U.S.C. § 1232g](https://www.law.cornell.edu/uscode/text/20/1232g)) protects the privacy of student "education records" held by schools that receive federal funding. It is the main federal student-privacy statute.
+- **IDEA** ([20 U.S.C. § 1400](https://www.law.cornell.edu/uscode/text/20/1400) *et seq.* — U.S.C. is the "United States Code," the federal statute book; *et seq.* is Latin for "and following," meaning "section 1400 and the sections after it") governs how public schools provide special education and related services to students with disabilities. IDEA has its own confidentiality regulations ([34 C.F.R. Part 300](https://www.ecfr.gov/current/title-34/part-300) — C.F.R. stands for "Code of Federal Regulations," where federal agency rules live) that in some respects run parallel to FERPA.
 
 Adding IDEA to the Sixth Defense is strategically important. It signals, without stating outright, that the underlying "Student JH" matter may involve **special-education services**. If the JH settlement resolved an IDEA-related dispute, BCSD can argue that a second layer of federal confidentiality applies — not just FERPA's general student-records protections, but also IDEA's specific confidentiality rules for disability-related information.
 
@@ -96,7 +96,7 @@ That matters because attorney's fees in ORA cases can easily outstrip the underl
 
 Even though the Answer is a defensive document, BCSD admits several key facts that the Melody will cite at summary judgment:
 
-- **¶ 8** — admits Laura Corley sent the June 2, 2025 ORA request.
+- **¶ 8** — admits [Laura Corley](https://maconmelody.com/author/laura-corley/) sent the June 2, 2025 ORA request.
 - **¶ 9** — admits Stephanie Hartley responded for the District on June 5, 2025, and that Hartley's response is Exhibit B to the Complaint.
 - **¶ 14** — admits that "some settlement amounts have been disclosed on Bibb County Board of Education's meeting minutes." This is the admission that undercuts BCSD's current refusal — the District has historically done what it now claims is legally forbidden.
 - **¶ 15 and ¶ 17** — admits that the excerpts quoted in the Complaint accurately reflect portions of the 2019 and 2017 board minutes.
