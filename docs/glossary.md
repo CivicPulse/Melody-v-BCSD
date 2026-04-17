@@ -1,0 +1,139 @@
+---
+title: Glossary
+parent: Case Overview
+nav_order: 5
+layout: default
+permalink: /docs/glossary/
+---
+
+# Glossary
+
+Every legal term of art that appears in the *Melody v. BCSD* filings, defined for non-lawyers.
+
+## A
+
+**Affirmative Defense** — A reason why the defendant should win even if everything the plaintiff says is true. Example: "Yes, we denied the records request, but FERPA required us to." The defendant bears the burden of proving the defense.
+
+**Agency (under the Open Records Act)** — Any Georgia state or local government body, including school districts, counties, cities, police departments, and their boards. An agency is a "custodian" of public records.
+
+## B
+
+**Breach of Contract** — A claim that someone broke a binding agreement. Not directly at issue in this case, but referenced in settlement-document discussions.
+
+## C
+
+**Calendar Call** — A scheduled court session where the judge works through pending cases to set trial dates or confirm readiness. The *Melody v. BCSD* Calendar Call is 5/5/2026.
+
+**Case Initiation Form** — A cover sheet required by Georgia Superior Court rules that identifies the parties and the type of case. The first item on any Georgia civil docket.
+
+**Certificate of Service (COS)** — A one-page document swearing that a party served a pleading or discovery request on the other side. In Georgia, discovery requests themselves don't go on the public docket — only the COS does.
+
+**Civil Action Number** — The court's unique identifier for the case. Here: **2025-CV-083495**. The "CV" tells you it's a civil (non-criminal) case; "083495" is the sequential filing number.
+
+**Complaint** — The document that formally starts a lawsuit. Says who's suing whom, for what, and what relief is sought.
+
+## D
+
+**Discovery** — The formal pre-trial process for exchanging evidence. The main tools are interrogatories (written questions), requests for production (for documents), requests for admission (to lock in uncontested facts), and depositions (sworn oral testimony).
+
+**Docket** — The official chronological list of everything filed in a case. Accessible on Tyler re:SearchGA.
+
+## E
+
+**Education Record (under FERPA)** — A record that (1) directly relates to a student and (2) is maintained by an educational agency. The Georgia Supreme Court narrows this to records of "academic performance, financial aid, or scholastic probation."
+
+## F
+
+**FERPA (Family Educational Rights and Privacy Act)** — Federal law (20 U.S.C. § 1232g) protecting student education records. See the [Legal Background]({{ site.baseurl }}/docs/legal-background/) page.
+
+## I
+
+**IDEA (Individuals with Disabilities Education Act)** — Federal law (20 U.S.C. § 1400 *et seq.*) guaranteeing a "free appropriate public education" to students with disabilities. Has its own confidentiality rules for special-education records.
+
+**In Camera Review** — Latin for "in chambers." The judge reviews a document privately to decide whether it must be disclosed. Common in privilege disputes.
+
+**Indispensable Party** — Someone who has such a strong interest in the outcome of a lawsuit that the case cannot proceed fairly without them. BCSD's Ninth Defense asserts the student "JH" is an indispensable party.
+
+**Interrogatories** — Written questions one party serves on the other, answered under oath in writing.
+
+## L
+
+**Leave of Absence** — A Georgia court rule (USCR 16.1) letting attorneys formally block off time (vacation, holidays, conflicts) during which the court is asked not to schedule hearings.
+
+## M
+
+**Motion** — A written request for the court to do something — extend a deadline, rule on an issue, strike a defense, dismiss a claim, etc.
+
+**Motion for Summary Judgment (MSJ)** — A motion asking the court to decide the case (or a claim or defense) without a trial, on the ground that the law — not the disputed facts — determines the outcome. See [Legal Background]({{ site.baseurl }}/docs/legal-background/).
+
+## N
+
+**Notice of Appearance** — A short filing by which an attorney formally enters the case as counsel for a party.
+
+**Notice of Hearing (NoH)** — A filing setting a specific hearing date.
+
+## O
+
+**O.C.G.A.** — Official Code of Georgia Annotated — the compilation of Georgia's statutes. Cited like "O.C.G.A. § 50-18-70."
+
+**Open Records Act (ORA)** — Georgia's public-records law, codified at O.C.G.A. § 50-18-70 *et seq.*.
+
+**Open Meetings Act** — Georgia's companion law for public-body meetings, codified at O.C.G.A. § 50-14-1 *et seq.*.
+
+## P
+
+**Partial Summary Judgment** — Summary judgment on some but not all of the case. Doesn't end the lawsuit; narrows what's left to decide.
+
+**Personally Identifiable Information (PII)** — Information that, alone or in combination, identifies a specific person. Under FERPA (34 C.F.R. § 99.3), includes name, address, SSN, biometric records, and "other information linked or linkable to a specific student."
+
+**Plaintiff** — The party who filed the lawsuit. Here: Georgia Trust for Local News LLC d/b/a The Macon Melody.
+
+**Pleading** — A formal filing that states claims or defenses. The Complaint, Answer, and Amended Answer are pleadings.
+
+**Protective Order** — A court order limiting discovery (e.g., "this deposition must happen in a sealed setting").
+
+## R
+
+**Redaction** — Blacking-out or removing specific information from a document before production. FERPA itself contemplates redaction as a way to release records that contain both public and private information (34 C.F.R. § 99.31(b)(1)).
+
+**Reply** — The moving party's response to the opposing party's Response/Opposition.
+
+**Reporter's Shield / Reporter's Privilege** — Georgia law (O.C.G.A. § 24-5-508) giving journalists qualified protection from being compelled to identify sources.
+
+**Request for Admission (RFA)** — A discovery request asking the other side to admit or deny a specific fact under oath. Admissions conclusively establish the fact; denials that turn out to be incorrect can trigger sanctions.
+
+**Request for Production (RFP or RPD)** — A discovery request for documents.
+
+**Response / Opposition** — A party's written reply to a motion.
+
+**Rule 5.2 (Uniform Superior Court Rule)** — The rule saying discovery requests are not filed with the court — only a Certificate of Service is. Keeps the public docket uncluttered.
+
+**Rule Nisi** — A court order directing a party to appear on a set date to "show cause" why the requested relief should not be granted. Used to fast-track cases — especially Open Records cases.
+
+## S
+
+**Service of Process** — The formal delivery of the summons and complaint to the defendant. Without valid service, a court has no power over the defendant.
+
+**Special Damages** — Specific, quantifiable losses. Not at issue here.
+
+**Stipulation** — A written agreement between the parties. Doesn't require a judge's signature to bind the parties but is usually filed with the court.
+
+**Substantial Justification** — The standard under O.C.G.A. § 50-18-73(b) that determines whether attorney's fees should be awarded. If the agency had a reasonable legal basis for its position — even if ultimately wrong — fees may be denied.
+
+**Substitution of Counsel** — The procedure for swapping attorneys mid-case.
+
+**Summary Judgment** — See "Motion for Summary Judgment."
+
+**Summons** — The court's formal notice telling the defendant they've been sued. Triggers a response deadline (30 days in Georgia).
+
+## T
+
+**Tyler re:SearchGA** — The commercial court-records portal that hosts public Georgia Superior Court dockets.
+
+## U
+
+**USCR (Uniform Superior Court Rules)** — The procedural rules governing Georgia Superior Court practice. Think of them as the state-level analog to the Federal Rules of Civil Procedure.
+
+## W
+
+**Waiver of Service** — A defendant's agreement to accept service without requiring a physical delivery, usually in exchange for more time to answer.
