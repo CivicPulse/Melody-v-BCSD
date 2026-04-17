@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- Open Graph / Twitter card. Re-render via: scripts/build-og.sh -->
+
+  <!-- Background: deep court-navy, keeps headline legible on light+dark chat clients -->
+  <rect width="1200" height="630" fill="#0b1c3d"/>
+
+  <!-- Subtle left-edge rule for a "document" feel -->
+  <rect x="72" y="72" width="4" height="486" fill="#c9a23a"/>
+
+  <!-- Eyebrow: docket label -->
+  <text x="104" y="132"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="24" letter-spacing="4"
+        fill="#c9a23a">
+    CIVIL ACTION NO. 2025-CV-083495 &#xB7; BIBB COUNTY SUPERIOR COURT
+  </text>
+
+  <!-- Case name: primary headline -->
+  <text x="104" y="228"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-weight="700" font-size="76"
+        fill="#ffffff">
+    The Macon Melody
+  </text>
+  <text x="104" y="312"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-style="italic" font-size="44"
+        fill="#e6ecf5">
+    v. Bibb County School District
+  </text>
+
+  <!--
+    TAGLINE — the hook people read in chat previews.
+    Keep under ~95 characters so it fits without wrapping on Twitter/LinkedIn.
+    YOU WILL FILL THIS IN (see chat).
+  -->
+  <text x="104" y="428"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="34"
+        fill="#ffffff">
+    Public money. Public settlement. Public right to know?
+  </text>
+  <text x="104" y="476"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="34"
+        fill="#ffffff">
+    A Georgia Open Records Act case.
+  </text>
+
+  <!-- Footer strip: source attribution -->
+  <rect x="0" y="558" width="1200" height="72" fill="#081630"/>
+  <text x="104" y="602"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="22" letter-spacing="2"
+        fill="#c9a23a">
+    CIVICPULSE &#xB7; CITIZEN'S GUIDE &#xB7; ANNOTATED FILINGS
+  </text>
+</svg>

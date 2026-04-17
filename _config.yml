@@ -12,6 +12,21 @@ baseurl: "/Melody-v-BCSD"
 
 permalink: pretty
 
+# Social link previews (consumed by jekyll-seo-tag).
+# Note: jekyll-seo-tag reads og:image from page.image only, not site.image,
+# so we inject it via the `defaults:` block below. Keeping `logo:` here for
+# JSON-LD structured data. No twitter block until we have a real handle —
+# the template defaults twitter:card to summary_large_image on its own, and
+# adding twitter: without username produces a broken twitter:site meta.
+logo: /assets/images/og-default.png
+author:
+  name: Kerry Hatcher
+  url: https://www.kerryhatcher.com
+social:
+  name: CivicPulse
+  links:
+    - https://github.com/CivicPulse
+
 # just-the-docs settings
 search_enabled: true
 search:
@@ -64,6 +79,16 @@ collections:
     output: true
 
 defaults:
+  # Inject a default Open Graph / Twitter image onto every document.
+  # Per-page frontmatter `image:` overrides this.
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /assets/images/og-default.png
+        width: 1200
+        height: 630
+        alt: "The Macon Melody v. Bibb County School District — a Georgia Open Records Act case."
   - scope:
       path: ""
       type: "filings"
