@@ -4,6 +4,7 @@ parent: Case Overview
 nav_order: 1
 layout: default
 permalink: /docs/case-report/
+has_toc: true
 ---
 
 # Case Report — *Georgia Trust for Local News LLC d/b/a (doing business as) The Macon Melody v. (versus) Bibb County School District*

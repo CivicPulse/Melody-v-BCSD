@@ -18,7 +18,7 @@ permalink: pretty
 # JSON-LD structured data. No twitter block until we have a real handle —
 # the template defaults twitter:card to summary_large_image on its own, and
 # adding twitter: without username produces a broken twitter:site meta.
-logo: /assets/images/og-default.png
+logo: /assets/images/logo.svg
 author:
   name: Kerry Hatcher
   url: https://www.kerryhatcher.com

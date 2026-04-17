@@ -1,0 +1,9 @@
+// Brand token overrides for just-the-docs — Melody v. BCSD
+// This file is loaded BEFORE the theme's own variable files, so values set
+// here win over the theme's !default declarations. Palette source: .impeccable.md.
+// Court navy #0b1c3d propagates to links, headings, buttons, and nav icons.
+
+$link-color:           #0b1c3d; // links, .btn default text, nav expand icons
+$btn-primary-color:    #0b1c3d; // .btn-primary bg (theme mixin lightens/darkens)
+$body-heading-color:   #0b1c3d; // h1–h6 text color
+$nav-child-link-color: #0b1c3d; // child nav link text

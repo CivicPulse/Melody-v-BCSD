@@ -17,14 +17,11 @@ A citizen's guide to Georgia's latest high-profile **Open Records Act** case —
 
 [Read the Case Report]({{ site.baseurl }}/docs/case-report/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Browse Court Filings]({{ site.baseurl }}/filings/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View on GitHub](https://github.com/CivicPulse/Melody-v-BCSD){: .btn .fs-5 .mb-4 .mb-md-0 }
-
-{: .warning .fs-2 }
-> **AI-generated content.** This site was built using AI from publicly available court filings, news articles, and blog posts. AI makes mistakes — review the linked source material and come to your own conclusions.
+[View on GitHub](https://github.com/CivicPulse/Melody-v-BCSD){: .btn .btn-outline .fs-4 .mb-4 .mb-md-0 }
 
 ---
 
-## What this case is about, in 60 seconds
+## What this case is about
 
 In June 2025, a reporter for [*The Macon Melody*](https://maconmelody.com/) — a Macon, Georgia newspaper — asked the **Bibb County School District (BCSD)** a simple question under the Georgia Open Records Act:
 
@@ -56,13 +53,13 @@ The plaintiff's **Motion for Partial Summary Judgment**, filed March 10, 2026, i
 
 | Section | What you'll find |
 |---------|------------------|
-| **[Case Report]({{ site.baseurl }}/docs/case-report/)** | The full narrative report: parties, timeline, strategic read, predicted outcome. |
-| **[Timeline]({{ site.baseurl }}/docs/timeline/)** | Every docket event from filing through today, in chronological order. |
-| **[Parties & Counsel]({{ site.baseurl }}/docs/parties/)** | Who's who — attorneys, their firms, and the judge. |
-| **[Legal Background]({{ site.baseurl }}/docs/legal-background/)** | Plain-English primer on Georgia's Open Records Act, FERPA, IDEA, and the statutes cited in this case. |
-| **[Glossary]({{ site.baseurl }}/docs/glossary/)** | Every legal term of art used in the filings — defined for non-lawyers. |
-| **[References]({{ site.baseurl }}/docs/references/)** | Every statute, regulation, and case cited on this site — with links to full text and page locations. |
-| **[Court Filings]({{ site.baseurl }}/filings/)** | Every filed document with a plain-English summary, deep dive, and link to the original PDF. |
+| **[Case Report]({{ site.baseurl }}/docs/case-report/)** | The long-form narrative: how the case started, each side's legal theory, the strategic read, and a predicted outcome. Start here. |
+| **[Timeline]({{ site.baseurl }}/docs/timeline/)** | Every filing and court event in date order, from the August 2025 complaint through the April 29, 2026 hearing. |
+| **[Parties & Counsel]({{ site.baseurl }}/docs/parties/)** | Full roster — attorneys, firms, client representatives, and the judge. |
+| **[Legal Background]({{ site.baseurl }}/docs/legal-background/)** | Plain-English explainers for the Open Records Act, FERPA, and IDEA — how each law works and how they interact in this case. |
+| **[Glossary]({{ site.baseurl }}/docs/glossary/)** | Every legal term of art defined in plain English. If a term on another page confuses you, start here. |
+| **[References]({{ site.baseurl }}/docs/references/)** | Every statute, regulation, and case cited on this site, with links to full text on Justia and eCFR. |
+| **[Court Filings]({{ site.baseurl }}/filings/)** | All 25 documents, each with a plain-English summary and link to the original PDF. Browse chronologically or by category (pleadings, discovery, MSJ, and more). |
 
 ---
 
@@ -96,6 +93,9 @@ The plaintiff's **Motion for Partial Summary Judgment**, filed March 10, 2026, i
 ---
 
 ## About this site
+
+{: .note .fs-2 }
+> **Note:** This site was built using AI from publicly available court filings, news articles, and blog posts. AI makes mistakes — review the linked source material and come to your own conclusions.
 
 This site is a **citizen-journalism archive** built by [Kerry Hatcher](https://www.kerryhatcher.com) — a Bibb County parent, transparency blogger, and **2026 candidate for the Bibb County Board of Education (At-Large Post 7)**. Hatcher is **not affiliated with *The Macon Melody***; the paper is published by **Georgia Trust for Local News, LLC**, whose Publisher Emeritus is **DuBose Porter** and whose Executive Editor is [**Caleb Slinkard**](https://maconmelody.com/author/caleb-slinkard/). The reporter whose June 2, 2025 Open Records Request drives this case is senior accountability reporter [**Laura Corley**](https://maconmelody.com/author/laura-corley/).
 

@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
-  <!-- Open Graph / Twitter card. Re-render via: scripts/build-og.sh -->
 
   <!-- Background: deep court-navy, keeps headline legible on light+dark chat clients -->
   <rect width="1200" height="630" fill="#0b1c3d"/>
 
-  <!-- Subtle left-edge rule for a "document" feel -->
+  <!-- Subtle left-edge rule for a "document" feel — terminates at footer strip -->
   <rect x="72" y="72" width="4" height="486" fill="#c9a23a"/>
 
   <!-- Eyebrow: docket label -->
@@ -25,27 +24,17 @@
   </text>
   <text x="104" y="312"
         font-family="Georgia, 'Times New Roman', serif"
-        font-style="italic" font-size="44"
-        fill="#e6ecf5">
+        font-style="italic" font-size="52"
+        fill="#ffffff">
     v. Bibb County School District
   </text>
 
-  <!--
-    TAGLINE — the hook people read in chat previews.
-    Keep under ~95 characters so it fits without wrapping on Twitter/LinkedIn.
-    YOU WILL FILL THIS IN (see chat).
-  -->
-  <text x="104" y="428"
+  <!-- Tagline: the hook people read in chat previews -->
+  <text x="104" y="400"
         font-family="Georgia, 'Times New Roman', serif"
         font-size="34"
         fill="#ffffff">
     Public money. Public settlement. Public right to know?
-  </text>
-  <text x="104" y="476"
-        font-family="Georgia, 'Times New Roman', serif"
-        font-size="34"
-        fill="#ffffff">
-    A Georgia Open Records Act case.
   </text>
 
   <!-- Footer strip: source attribution -->
@@ -54,6 +43,7 @@
         font-family="Georgia, 'Times New Roman', serif"
         font-size="22" letter-spacing="2"
         fill="#c9a23a">
-    CIVICPULSE &#xB7; CITIZEN'S GUIDE &#xB7; ANNOTATED FILINGS
+    CIVICPULSE &#xB7; 2025-CV-083495 &#xB7; ANNOTATED FILINGS
   </text>
+
 </svg>
