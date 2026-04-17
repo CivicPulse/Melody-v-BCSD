@@ -17,13 +17,26 @@ A chronological record of every significant event in *Melody v. (versus) BCSD* (
 
 | Date | Event |
 |------|------|
+| **2024-07-18** | Bibb County Board of Education unanimously approves a settlement involving Student JH — "off-camera, and at the tail end of a regular board meeting." The dollar amount is never publicly disclosed. ([Macon Melody, Aug 12 2025](https://maconmelody.com/macon-melody-sues-bibb-county-school-board-for-settlement-expense/); [Hatcher, Mar 29 2025](https://www.kerryhatcher.com/delayed-but-determined/)) |
 | **early 2025** (exact date not specified in the pleadings) | Reporter [**Laura Corley**](https://maconmelody.com/author/laura-corley/) submits an earlier, broader Open Records Request to Bibb County School District (BCSD) concerning the July 18, 2024 board-approved settlement. BCSD denies, citing *Mullins v. City of Griffin*. Corley files a complaint with the Georgia Attorney General's (AG) Open Government Mediation Program. (Complaint ¶¶ 23–27.) |
 | **2025-04-24** | **Georgia Attorney General's Office issues an informal opinion** to Corley and BCSD's pre-litigation counsel (Andrew Davidson of Jones Cork LLP) rejecting BCSD's reliance on *Mullins v. City of Griffin*, 886 F. Supp. 21 (N.D. Ga. 1995) (citation = volume 886 of the Federal Supplement — a book of federal trial court decisions — page 21, decided 1995 in the Northern District of Georgia, a federal trial court). The AG tells BCSD the case does not support non-disclosure. (Complaint Ex. F.) |
 | **2025-06-02** | Corley submits a narrower, follow-up Open Records Request asking for *just* the dollar amounts of 2024 settlements. |
 | **2025-06-05** | BCSD formally denies through Chief Communications Officer **Stephanie Hartley**, citing FERPA (Family Educational Rights and Privacy Act) and IDEA (Individuals with Disabilities Education Act), and voluntarily discloses the student's initials ("JH") in its denial letter. |
 
 {: .note }
-> **A separate, parallel records dispute ran on a different track.** Kerry Hatcher — the builder of this site, a Bibb parent, and a 2026 Board of Education candidate — filed his own Open Records Requests with BCSD during early 2025 concerning **Alexander II Magnet School safety and policing records**. Hatcher's dispute is distinct from the [Macon Melody's](https://maconmelody.com/) settlement-amount dispute documented on this timeline, but Hatcher separately complained to the AG's Open Government Mediation Program around the same time. His personal blog covers that parallel dispute in detail.
+> **A separate, parallel records dispute ran on a different track.** Kerry Hatcher — the builder of this site, a Bibb parent, and a 2026 Board of Education candidate — filed his own Open Records Requests with BCSD during early 2025 seeking **the same settlement records** as well as **Alexander II Magnet School safety and policing records**. Hatcher separately complained to the AG's Open Government Mediation Program around the same time as Corley. The dated entries below document that parallel track; Hatcher's blog posts are the primary sources.
+
+### Parallel records dispute — Hatcher's ORA requests
+
+| Date | Event | Source |
+|------|-------|--------|
+| **2025-03-14** | BCSD confirms charges for Hatcher's Open Records Request seeking settlement records (settlement parties and terms, BOE meeting recording, accounting ledger, date of notice of intent to sue). | [Still Waiting…](https://www.kerryhatcher.com/still-waiting-a-transparency-update-from-bibb-county-schools-and-the-state-superintendent/) |
+| **2025-03-20** | Bibb County School Board meeting; Hatcher speaks publicly and submits three additional ORA requests (United Way emails, police calls for service, first-grade disruption emails). | [A Successful Beginning](https://www.kerryhatcher.com/a-successful-beginning-not-an-end/) |
+| **2025-03-28** | BCSD misses its own promised deadline to produce the requested settlement records. | [Delayed but Determined](https://www.kerryhatcher.com/delayed-but-determined/) · [Still Waiting…](https://www.kerryhatcher.com/still-waiting-a-transparency-update-from-bibb-county-schools-and-the-state-superintendent/) |
+| **2025-04-10** | BCSD attorney emails Hatcher: district "unable to produce documents" pending review of "federal student privacy protections." | [Still Waiting…](https://www.kerryhatcher.com/still-waiting-a-transparency-update-from-bibb-county-schools-and-the-state-superintendent/) |
+| **2025-04-14** | State Superintendent's Chief Legal Officer responds: "The allegations are outside the purview of the State School Superintendent." | [Still Waiting…](https://www.kerryhatcher.com/still-waiting-a-transparency-update-from-bibb-county-schools-and-the-state-superintendent/) |
+| **~2025-04-16** | Hatcher files a formal request with the Georgia AG's Open Government Mediation Program. | [Still Waiting…](https://www.kerryhatcher.com/still-waiting-a-transparency-update-from-bibb-county-schools-and-the-state-superintendent/) |
+| **by 2025-05-14** | AG's Mediation Program concludes BCSD's position "isn't supported by Georgia law" and encourages enforcement in Superior Court. | [The Road Ahead](https://www.kerryhatcher.com/the-road-ahead-2/) |
 
 ## The lawsuit begins (August – October 2025)
 
@@ -32,6 +45,7 @@ A chronological record of every significant event in *Melody v. (versus) BCSD* (
 | **2025-08-03** | Complaint signed and dated. | [Complaint]({{ site.baseurl }}/filings/complaint/) |
 | **2025-08-04** | **Complaint filed** in Bibb County Superior Court (Civil Action No. 2025-CV-083495). | [Complaint]({{ site.baseurl }}/filings/complaint/) |
 | **2025-08-05** | Case initiation form and summons docketed. Plaintiff also files Rule Nisi Motion (Rule Nisi = Latin for "unless" — a show-cause order) seeking an early show-cause hearing. | [Rule Nisi Motion]({{ site.baseurl }}/filings/rule-nisi-motion/) |
+| **2025-08-12** | Macon Melody [publishes article announcing the lawsuit](https://maconmelody.com/macon-melody-sues-bibb-county-school-board-for-settlement-expense/), describing "more than a year of back-and-forth" with BCSD and arguing: "A dollar amount is not an educational record." | — |
 | **2025-08-14** | Parties stipulate: BCSD waives service, answer deadline extended to 10/13/2025. | [Service Waiver]({{ site.baseurl }}/filings/service-stipulation/) |
 | **2025-08-20** | BCSD attorneys **Bennett D. Bryan** and **Caroline L. Scalf** (Parker Poe Adams & Bernstein LLP, Atlanta) file Notices of Appearance (NoAs — filings by which an attorney formally enters the case as counsel for a party). | [BDB NoA]({{ site.baseurl }}/filings/bdb-notice-of-appearance/) · [CLS NoA]({{ site.baseurl }}/filings/cls-notice-of-appearance/) |
 | **2025-10-13** | BCSD files its **Answer** (8 affirmative defenses) and **Response in Opposition** to the Rule Nisi Motion. | [Answer]({{ site.baseurl }}/filings/answer/) · [Rule Nisi Response]({{ site.baseurl }}/filings/rule-nisi-response/) |

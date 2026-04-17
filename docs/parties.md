@@ -91,4 +91,4 @@ BCSD's "Ninth Defense" (added in its Amended Answer) argues the student should b
 
 The 2024 board-approved settlement itself arose from a **separate civil lawsuit** brought on behalf of the student's family against BCSD. That underlying case — not docketed on this site — was the factual matter that produced the dollar figure at the heart of this Open Records dispute.
 
-For context on that underlying matter, see the 13WMAZ reporting linked from the [Case Report]({{ site.baseurl }}/docs/case-report/) and the [Home page]({{ site.baseurl }}/).
+That underlying case has not been publicly identified in court filings and is not documented on this site.

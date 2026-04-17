@@ -260,8 +260,6 @@ This is not an agency running out the clock through neglect. It is building a pa
 - [Kerry Hatcher — Delayed, But Determined](https://www.kerryhatcher.com/delayed-but-determined/)
 - [Kerry Hatcher — The Road Ahead](https://www.kerryhatcher.com/the-road-ahead-2/)
 - [The Macon Melody](https://maconmelody.com/)
-- [13WMAZ — Family's attorney suing Bibb County School District following 2023 assault](https://www.13wmaz.com/article/news/local/familys-attorney-suing-bibb-county-school-district-following-2023-assault/93-2d3183ab-664d-44bd-89c9-5ef62dbf3538)
-- [13WMAZ — Family of special needs student sues Bibb schools](https://www.13wmaz.com/article/news/local/macon/family-of-special-needs-student-sues-bibb-schools/93-0309fea6-095f-490d-a1a6-28799e09f2b2)
 
 **Case law**
 - [*Mullins v. City of Griffin*, 886 F. Supp. 21 (N.D. Ga. 1995)](https://law.justia.com/cases/federal/district-courts/FSupp/886/21/1797050/)
