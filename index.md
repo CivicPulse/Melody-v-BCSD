@@ -19,6 +19,9 @@ A citizen's guide to Georgia's latest high-profile **Open Records Act** case —
 [Browse Court Filings]({{ site.baseurl }}/filings/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View on GitHub](https://github.com/CivicPulse/Melody-v-BCSD){: .btn .fs-5 .mb-4 .mb-md-0 }
 
+{: .warning .fs-2 }
+> **AI-generated content.** This site was built using AI from publicly available court filings, news articles, and blog posts. AI makes mistakes — review the linked source material and come to your own conclusions.
+
 ---
 
 ## What this case is about, in 60 seconds
