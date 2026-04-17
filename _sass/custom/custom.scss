@@ -1,0 +1,62 @@
+// Mobile readability overrides for the just-the-docs remote theme.
+// The theme treats <h4> as a tiny uppercase eyebrow label (~9.6px), which
+// is unreadable when the heading text is substantive (e.g. a filing title).
+// We also bump mobile body copy to 16px for long-form legal prose.
+
+// The theme's `h4, .text-delta` rule uses `!important`, so our overrides
+// must also use `!important` to win the cascade. Root font-size is 14px in
+// this theme, so we use explicit pixel values where we want true 16px.
+.main-content {
+  h4 {
+    font-size: 16px !important;
+    font-weight: 500 !important;
+    text-transform: none !important;
+    letter-spacing: normal !important;
+    color: inherit;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+  }
+
+  // Bump mobile hierarchy so h2 reads as a section break, not a sub-paragraph.
+  @media (max-width: 48em) {
+    font-size: 16px;           // true 16px body for phone readability
+    line-height: 1.5;
+
+    h1 { font-size: 26px !important; }
+    h2 { font-size: 20px !important; font-weight: 600 !important; margin-top: 1.75em; }
+    h3 { font-size: 17px !important; font-weight: 600 !important; }
+    h4 { font-size: 16px !important; font-weight: 600 !important; }
+  }
+}
+
+// Visual cue that a wide table can scroll horizontally.
+// just-the-docs wraps every table in `.table-wrapper` with overflow-x:auto,
+// but provides no indicator — mobile users can miss that content is clipped.
+.table-wrapper {
+  position: relative;
+
+  &::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 1.5rem;
+    pointer-events: none;
+    background: linear-gradient(
+      to right,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(255, 255, 255, 0.85) 100%
+    );
+    opacity: 0;
+    transition: opacity 0.15s ease;
+  }
+
+  // Only show the fade hint when the table actually overflows.
+  // scrollWidth > clientWidth is the CSS signal; we approximate via a
+  // container query-ish trick: show the hint by default on mobile, where
+  // the Parties table and any other wide table is guaranteed to overflow.
+  @media (max-width: 48em) {
+    &::after { opacity: 1; }
+  }
+}

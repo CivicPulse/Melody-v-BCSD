@@ -76,69 +76,69 @@ Links are relative to this report and open the PDFs in the same folder.
 
 ### A. Pleadings & Initiation
 
-#### [Civil‑Domestic‑Case‑Initiation‑Form.pdf]({{ site.baseurl }}/pdfs/Civil-Domestic-Case-Initiation-Form.pdf)
+#### [Civil Domestic Case Initiation Form]({{ site.baseurl }}/pdfs/Civil-Domestic-Case-Initiation-Form.pdf)
 Standard Georgia case‑filing cover sheet. Dated 8/3/2025, docketed 8/5/2025. Categorizes case as "Other General Civil" (rather than Injunction/Mandamus); certifies O.C.G.A. § 9‑11‑7.1 redaction compliance. Opens the 2025‑CV‑083495 docket.
 
-#### [Summons-Fillable.pdf]({{ site.baseurl }}/pdfs/Summons-Fillable.pdf)
+#### [Summons (Fillable)]({{ site.baseurl }}/pdfs/Summons-Fillable.pdf)
 Standard 30‑day civil summons issued 8/5/2025 by Deputy Clerk Stephanie Waller, served on BCSD. Superseded in practice by the 8/14/2025 waiver/extension stipulation.
 
-#### [20250804_Melody_Complaint_and_Exhibits.pdf]({{ site.baseurl }}/pdfs/20250804_Melody_Complaint_and_Exhibits.pdf)
+#### [Complaint and Exhibits (8/4/2025)]({{ site.baseurl }}/pdfs/20250804_Melody_Complaint_and_Exhibits.pdf)
 **Heart of the case.** Plaintiff's Complaint under O.C.G.A. § 50‑18‑70 *et seq.*, filed 8/4/2025. Alleges BCSD violated the Open Records Act by refusing to release the dollar amount of a 2024 board‑approved settlement on the pretext that FERPA protects the figure. Recites key facts: the 6/2/2025 request for "dollar amounts only"; the 6/5/2025 denial; BCSD's voluntary disclosure of "JH" initials in its own 7/18/2024 board minutes; the district's own historical practice of disclosing settlement amounts in prior board minutes (2017 and 2019 examples with named initials and dollar figures); and the April 2025 AG letter rejecting BCSD's invocation of *Mullins*. Exhibits A–F attached (ORA request, denial email, 2019 minutes, 2017 minutes, 2024 "JH" minutes, AG letter). Relief: (1) order compelling disclosure, (2) declaratory finding of ORA violation, (3) attorney fees under § 50‑18‑73(b).
 
-#### [Answer-Macon_Melody_v._BCSD.pdf]({{ site.baseurl }}/pdfs/Answer-Macon_Melody_v._BCSD.pdf)
+#### [Original Answer (BCSD)]({{ site.baseurl }}/pdfs/Answer-Macon_Melody_v._BCSD.pdf)
 **Original Answer** filed 10/13/2025 by Scalf/Bryan. Asserts **eight affirmative defenses** — critically, the Sixth raises **both FERPA and IDEA** confidentiality. Contains helpful admissions for plaintiff: (a) BCSD admits the 7/18/2024 board minutes publicly named "Student JH" in connection with the settlement vote; (b) admits historical disclosure of settlement amounts in other years' minutes; (c) admits it denied the 6/2/2025 request; (d) admits receipt of the AG letter. Seventh Defense preemptively asserts "substantial justification" for fee‑shifting purposes.
 
-#### [2025.12.29_Amended_Answer_and_Defenses.pdf]({{ site.baseurl }}/pdfs/2025.12.29_Amended_Answer_and_Defenses.pdf)
+#### [Amended Answer and Defenses (12/29/2025)]({{ site.baseurl }}/pdfs/2025.12.29_Amended_Answer_and_Defenses.pdf)
 **Amended Answer** filed 12/29/2025 at 1:07 p.m. Adds a single **Ninth Defense: failure to join indispensable party** (O.C.G.A. § 9‑11‑19(a)). Though the filing does not name the missing party, context (and later filings) make clear BCSD is pointing at the student JH and/or parents. The eight prior defenses are preserved.
 
 ### B. Appearance & Substitution of Counsel
 
-#### [2025.08.20_BDB_Notice_of_Appearance.pdf]({{ site.baseurl }}/pdfs/2025.08.20_BDB_Notice_of_Appearance.pdf)
+#### [Bryan Notice of Appearance (8/20/2025)]({{ site.baseurl }}/pdfs/2025.08.20_BDB_Notice_of_Appearance.pdf)
 Bennett D. Bryan (Parker Poe, Atlanta) enters appearance for BCSD. Filed 8/20/2025 2:32 p.m. "BDB" = Bryan's initials.
 
-#### [2025.08.20_CLS_Notice_of_Appearance.pdf]({{ site.baseurl }}/pdfs/2025.08.20_CLS_Notice_of_Appearance.pdf)
+#### [Scalf Notice of Appearance (8/20/2025)]({{ site.baseurl }}/pdfs/2025.08.20_CLS_Notice_of_Appearance.pdf)
 Caroline L. Scalf (Parker Poe, Atlanta) enters co‑counsel appearance for BCSD. Filed two minutes after Bryan. "CLS" = Scalf's initials. Two‑attorney out‑of‑town defense team signals BCSD is not treating this as routine.
 
-#### [260107_MM_Notice_of_Appearance.pdf]({{ site.baseurl }}/pdfs/260107_MM_Notice_of_Appearance.pdf)
+#### [Stanton Law Notice of Appearance (1/7/2026)]({{ site.baseurl }}/pdfs/260107_MM_Notice_of_Appearance.pdf)
 Lucas W. Andrews and Erika Pitzel of Stanton Law LLC (Atlanta) enter appearance for Plaintiff on 1/7/2026. Plaintiff is upgrading from a Macon solo to a larger Atlanta firm ahead of MSJ push.
 
-#### [260108_Substitution_MM_w_exhibit.pdf]({{ site.baseurl }}/pdfs/260108_Substitution_MM_w_exhibit.pdf)
+#### [Substitution of Counsel (1/8/2026)]({{ site.baseurl }}/pdfs/260108_Substitution_MM_w_exhibit.pdf)
 Formal Substitution of Counsel under USCR 4.3(3), filed 1/8/2026. **Joy Ramsingh withdraws; Stanton Law substitutes in.** Includes wet‑signed client consent from **DuBose Porter** on behalf of Georgia Trust for Local News LLC — confirms Porter's authority to act for the LLC (he serves as GTLN's Publisher Emeritus effective 2/2/2026 and founded GTLN in 2024).
 
-#### [Leave_of_Absence-Bennett_Bryan_The_Macon_Melody_v._BCSD_.pdf]({{ site.baseurl }}/pdfs/Leave_of_Absence-Bennett_Bryan_The_Macon_Melody_v._BCSD_.pdf)
+#### [Bryan Leave of Absence (3/26/2026)]({{ site.baseurl }}/pdfs/Leave_of_Absence-Bennett_Bryan_The_Macon_Melody_v._BCSD_.pdf)
 Defense counsel Bryan's USCR 16.1 leave‑of‑absence notice (filed 3/26/2026). Blocks out five summer 2026 windows (June 3–8, June 18–19, June 30–July 7, July 23–27, August 19–26). Routine calendaring — but it will constrain depositions, hearings, and trial during summer 2026.
 
 ### C. Rule Nisi Litigation (Fall 2025)
 
-#### [Macon_Melody_Motion.pdf]({{ site.baseurl }}/pdfs/Macon_Melody_Motion.pdf)
+#### [Plaintiff's Rule Nisi Motion (8/5/2025)]({{ site.baseurl }}/pdfs/Macon_Melody_Motion.pdf)
 **Plaintiff's Rule Nisi Motion**, filed 8/5/2025 by Ramsingh. Seeks an early show‑cause hearing to compress the case into a single merits proceeding per the ORA's "just, speedy, and inexpensive" directive. Relies on [*Appen Media Grp. v. City of Sandy Springs*, 374 Ga. App. 841 (2025)](https://law.justia.com/cases/georgia/court-of-appeals/2025/a24a1357.html); *Napper v. Ga. Television Co.* Attaches two out‑of‑state trial court decisions (*Herald Publ'g v. Coopersville Area Public Schools* (Mich.); *Heller v. Safford USD* (Ariz.)) plus the AG letter.
 
-#### [Macon_Melody_Stipulation_CLS_edits_JR_edits.pdf]({{ site.baseurl }}/pdfs/Macon_Melody_Stipulation_CLS_edits_JR_edits.pdf)
+#### [Service Waiver Stipulation (8/14/2025)]({{ site.baseurl }}/pdfs/Macon_Melody_Stipulation_CLS_edits_JR_edits.pdf)
 Joint stipulation (8/14/2025) — BCSD waives service; plaintiff extends response deadline to 10/13/2025. Collegial drafting ("CLS edits JR edits" in filename reflects negotiated exchange).
 
-#### [Macon_Melody-Response_to_Rule_Nisi_Motion.pdf]({{ site.baseurl }}/pdfs/Macon_Melody-Response_to_Rule_Nisi_Motion.pdf)
+#### [BCSD's Response in Opposition to Rule Nisi (10/13/2025)]({{ site.baseurl }}/pdfs/Macon_Melody-Response_to_Rule_Nisi_Motion.pdf)
 **BCSD's Response in Opposition** (10/13/2025). Argues case is not ripe for a summary hearing — requires discovery, protective orders, and *in camera* (Latin for "in chambers" — private judge-only review) review. Frames the ORA request as "just the tip of the iceberg" amid "nearly a dozen" requests, accusing plaintiff of a "coordinated and targeted community effort to pierce a student's confidentiality rights." Introduces the key defense theory: 34 C.F.R. § 99.3's "reasonable belief the requester knows the student's identity" prong. Notes "the student's family has objected." Telegraphs a forthcoming summary judgment motion.
 
-#### [Macon_Melody_Reply_and_Exhibits.pdf]({{ site.baseurl }}/pdfs/Macon_Melody_Reply_and_Exhibits.pdf)
+#### [Plaintiff's Reply in Support of Rule Nisi (10/17/2025)]({{ site.baseurl }}/pdfs/Macon_Melody_Reply_and_Exhibits.pdf)
 **Plaintiff's Reply** (10/17/2025) with five exhibits. Dismantles BCSD's discovery argument via *Smith v. Northside Hosp.*, 347 Ga. App. 700 (2018) and *Atchison v. Hosp. Auth. of St. Marys*, 245 Ga. 494 (1980) (discovery on ORA requesters barred because right is public, not personal). Adds First Amendment / reporter's shield overlay (O.C.G.A. § 24‑5‑508; *Atlanta J.‑Const. v. Jewell*). Memorably characterizes *in camera* review of a dollar amount as "ridiculous (and would take the Court less than five seconds to complete)." Exhibits 1–3 are the Atlanta Police Foundation ("Cop City") rulings; Ex. 4–5 show a SOS case with a final hearing set 14 days after filing.
 
 ### D. Discovery (Winter 2025 – Spring 2026)
 
-#### [2025.12.29_BCSD_Rule_5.2_COS_1st_RPD_and_RFA_.pdf]({{ site.baseurl }}/pdfs/2025.12.29_BCSD_Rule_5.2_COS_1st_RPD_and_RFA_.pdf)
+#### [BCSD's 1st RFAs/RFPs — Certificate of Service (12/29/2025)]({{ site.baseurl }}/pdfs/2025.12.29_BCSD_Rule_5.2_COS_1st_RPD_and_RFA_.pdf)
 USCR 5.2 Certificate of Service (COS — a one-page document swearing a party served a pleading or discovery request on the other side) — BCSD served **First RFPs + First RFAs** on plaintiff 12/29/2025 at 1:10 p.m. (three minutes after filing the Amended Answer — coordinated). Substantive text not docketed (per Rule 5.2), but the 4/13/2026 Motion to Extend quotes key requests: RFA 8 (admit publication of "Weekly Beat" "stonewalled" column — **Admitted**), RFA 9 (admit Melody has linked JH settlement to Alexander II principal firings — **Denied**), and a parallel request about reporter Corley (**Denied**). The discovery's theme is establishing **identifiability of JH** via what the requester and her sources already know.
 
-#### [280128_COS.pdf]({{ site.baseurl }}/pdfs/280128_COS.pdf)
+#### [Plaintiff's Discovery Responses — Certificate of Service (1/28/2026)]({{ site.baseurl }}/pdfs/280128_COS.pdf)
 Plaintiff's COS (filename reads "280128" but actual date is 1/28/2026). Certifies Plaintiff's responses to BCSD's first RFAs and RFPs. Plaintiff *did* respond to discovery without first seeking a protective order — mild tension with the earlier Reply brief arguing discovery is barred in ORA cases.
 
-#### [2026.04.03_Rule_5.2_COS.pdf]({{ site.baseurl }}/pdfs/2026.04.03_Rule_5.2_COS.pdf)
+#### [BCSD's 1st Continuing Interrogatories — Certificate of Service (4/3/2026)]({{ site.baseurl }}/pdfs/2026.04.03_Rule_5.2_COS.pdf)
 USCR 5.2 COS — BCSD serves **First Continuing Interrogatories** on 4/3/2026, **10 days before discovery closes**. Since interrogatory responses are due in 30 days, they cannot be timely completed — this filing is the structural predicate for the discovery extension motion that followed.
 
-#### [2026.04.13_BCSD_Motion_to_Extend_Discovery.pdf]({{ site.baseurl }}/pdfs/2026.04.13_BCSD_Motion_to_Extend_Discovery.pdf)
+#### [BCSD's Motion to Extend Discovery (4/13/2026)]({{ site.baseurl }}/pdfs/2026.04.13_BCSD_Motion_to_Extend_Discovery.pdf)
 BCSD moves on 4/13/2026 (the discovery cutoff day) to extend discovery ~90 days through 7/13/2026. Grounds: develop the FERPA "requester‑knowledge" PII theory; depose reporters [**Laura Corley**](https://maconmelody.com/author/laura-corley/) and [**Casey Choung**](https://maconmelody.com/author/caseymaconmelody-com/) and non‑party sources; compel adequate responses after claimed deficient amended responses (3/19/2026); and develop the indispensable‑party argument. Implicit threat to reporter's privilege under O.C.G.A. § 24‑5‑508. Paragraph 1 footnote shifts blame for case delay to the court's non‑ruling on Rule Nisi — a subtle rhetorical move.
 
 ### E. Partial Motion for Summary Judgment
 
-#### [260310_MPSJ_w_EXHIBITS.pdf]({{ site.baseurl }}/pdfs/260310_MPSJ_w_EXHIBITS.pdf)
+#### [Plaintiff's Motion for Partial Summary Judgment — with Exhibits (3/10/2026)]({{ site.baseurl }}/pdfs/260310_MPSJ_w_EXHIBITS.pdf)
 **The most important filing in the case.** Plaintiff's **Motion for Partial Summary Judgment as to Defendant's Sixth and Ninth Defenses**, filed 3/10/2026 by Lucas W. Andrews (Stanton Law). 35 pages total (19‑page memorandum + two appended exhibits). Core holdings pressed:
 
 1. FERPA/IDEA protect only **"education records"** ([20 U.S.C. § 1232g(a)(4)(A)](https://www.law.cornell.edu/uscode/text/20/1232g)). A dollar amount paid to settle a tort claim is not an education record — it does not "directly relate" to a student and does not concern "education." *Red & Black Publ'g v. Bd. of Regents*, 262 Ga. 848 (1993) limits FERPA to records of "academic performance, financial aid, or scholastic probation."
@@ -148,21 +148,21 @@ BCSD moves on 4/13/2026 (the discovery cutoff day) to extend discovery ~90 days 
 
 **Relief sought:** dismiss Sixth and Ninth Defenses; rule BCSD is an "agency" and the records are "public records" under the ORA. **Exhibits:** Ex. A = *Herald Publishing Co. v. Coopersville Area Public Schools* (Mich. Cir. Ct., 2010) full opinion ordering disclosure; Ex. B = *Heller v. Safford USD* (Ariz. Super. Ct., 2011) order. Authorities marshaled include *Dahmer v. W. Ky. Univ.*, *Wallace v. Cranbrook Educ. Cmty.*, *Ellis v. Cleveland Mun. Sch. Dist.*, *Bauer v. Kincaid*, *Poway USD v. Superior Ct.*
 
-#### [2026.04.01_Stipulation_Extending_Time_BCSD_to_Respond_to_Partial_MSJ.pdf]({{ site.baseurl }}/pdfs/2026.04.01_Stipulation_Extending_Time_BCSD_to_Respond_to_Partial_MSJ.pdf)
+#### [Stipulation Extending MSJ Response Deadline (4/1/2026)]({{ site.baseurl }}/pdfs/2026.04.01_Stipulation_Extending_Time_BCSD_to_Respond_to_Partial_MSJ.pdf)
 Joint stipulation extending BCSD's response to Partial MSJ to **4/23/2026** — just six days before the hearing. Signals the parties expect oral argument to carry the load.
 
-#### [83495.pdf]({{ site.baseurl }}/pdfs/83495.pdf) and [83495_NOH.pdf]({{ site.baseurl }}/pdfs/83495_NOH.pdf)
+#### [Notice of Hearing — Original]({{ site.baseurl }}/pdfs/83495.pdf) and [Reissued (4/14/2026)]({{ site.baseurl }}/pdfs/83495_NOH.pdf)
 **Notice of Hearing** (first signed 4/2/2026; reissued/re‑signed 4/14/2026). Sets the motions hearing for **4/29/2026 at 2:00 p.m., Courtroom E, before Judge Ken Smith**. Standard "ripe for judgment" boilerplate warning.
 
-#### [c01f6245-8367-4756-ac20-8bfc62eb78e3.pdf]({{ site.baseurl }}/pdfs/c01f6245-8367-4756-ac20-8bfc62eb78e3.pdf)
+#### [Order Extending Discovery (4/14/2026)]({{ site.baseurl }}/pdfs/c01f6245-8367-4756-ac20-8bfc62eb78e3.pdf)
 **Order Extending Discovery** — signed 4/14/2026 by Judge Smith. Grants BCSD's 4/13/2026 motion; discovery extended through **7/13/2026**. Meaningful BCSD procedural win because it leaves discovery open past the MSJ hearing — a predicate for a Ga. CPA § 9‑11‑56(f) (Georgia Civil Practice Act) "not ripe" argument.
 
 ### F. Research / Retrieval Artifacts (not filings)
 
-#### [re_SearchGA-Georgia_Trust_for_Local_News_d_b_a_The_Macon_Melody_vs._The_Bibb_County_School_District_2025-CV-083495.pdf]({{ site.baseurl }}/pdfs/re_SearchGA-Georgia_Trust_for_Local_News_d_b_a_The_Macon_Melody_vs._The_Bibb_County_School_District_2025-CV-083495.pdf)
+#### [re:SearchGA Docket Printout]({{ site.baseurl }}/pdfs/re_SearchGA-Georgia_Trust_for_Local_News_d_b_a_The_Macon_Melody_vs._The_Bibb_County_School_District_2025-CV-083495.pdf)
 Full Tyler `re:SearchGA` docket printout (28 events) retrieved 4/17/2026 by kerry@kerryhatcher.com. This is the master roadmap that identifies every filing's UUID (Universally Unique Identifier — a long random string used to label a file).
 
-#### [re_SearchGA-Receipt.pdf]({{ site.baseurl }}/pdfs/re_SearchGA-Receipt.pdf)
+#### [re:SearchGA Purchase Receipt]({{ site.baseurl }}/pdfs/re_SearchGA-Receipt.pdf)
 Receipt for 26 documents / 229 pages purchased for **$117.88**. Maps UUID → filename. Indicates the most expensive filings were Plaintiff's Reply to Rule Nisi ($28.00), the Complaint ($19.00), and the MPSJ ($17.50).
 
 ---
