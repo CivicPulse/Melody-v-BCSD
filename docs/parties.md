@@ -82,8 +82,6 @@ Under both state and federal law, courts keep the identity of minor students con
 
 The public record does **not** confirm what kind of underlying claim produced the JH settlement. The settlement was voted on at the July 18, 2024 BCSD board meeting; the board minutes simply read "Settlement for Student JH (ACTION). The Board voted unanimously to approve this action item." No amount was recorded.
 
-{: .warning }
-> **A common confusion worth flagging.** Separate news reporting by 13WMAZ has covered a 2023 alleged sexual assault of a 13-year-old special-needs student at **Howard Middle School** by a paraprofessional named Cedric Goolsby. The family's tort lawsuit in that matter was **filed in August 2025** — more than a year after the July 2024 JH settlement — so the two matters are almost certainly **separate incidents**, not the same case. Do not assume the JH settlement and the Howard Middle / Goolsby case are the same matter without further evidence.
 
 BCSD's "Ninth Defense" (added in its Amended Answer) argues the student should be joined as an indispensable party. The student's parents are not parties to this ORA (Open Records Act) lawsuit, and joining them would require revealing JH's identity — an outcome the plaintiff argues the parents would themselves be unlikely to want.
 
