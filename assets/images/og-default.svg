@@ -5,38 +5,30 @@
   <rect width="1200" height="630" fill="#0b1c3d"/>
 
   <!-- Gold left-edge rule -->
-  <rect x="72" y="72" width="4" height="520" fill="#c9a23a"/>
-
-  <!-- Eyebrow: docket label -->
-  <text x="104" y="148"
-        font-family="Georgia, 'Times New Roman', serif"
-        font-size="28" letter-spacing="3"
-        fill="#c9a23a">
-    CIVIL ACTION NO. 2025-CV-083495 &#xB7; BIBB COUNTY SUPERIOR COURT
-  </text>
+  <rect x="72" y="72" width="4" height="488" fill="#c9a23a"/>
 
   <!-- Primary headline -->
-  <text x="104" y="292"
+  <text x="104" y="260"
         font-family="Georgia, 'Times New Roman', serif"
-        font-weight="700" font-size="92"
+        font-weight="700" font-size="96"
         fill="#ffffff">
     The Macon Melody
   </text>
 
   <!-- Defendant -->
-  <text x="104" y="390"
+  <text x="104" y="378"
         font-family="Georgia, 'Times New Roman', serif"
-        font-style="italic" font-size="58"
+        font-style="italic" font-size="80"
         fill="#ffffff">
     v. Bibb County School District
   </text>
 
-  <!-- Tagline -->
-  <text x="104" y="510"
+  <!-- Docket label at bottom -->
+  <text x="104" y="588"
         font-family="Georgia, 'Times New Roman', serif"
-        font-size="36"
-        fill="#ffffff">
-    Public money. Public settlement. Public right to know?
+        font-size="24" letter-spacing="4"
+        fill="#c9a23a">
+    CIVIL ACTION NO. 2025-CV-083495 &#xB7; BIBB COUNTY SUPERIOR COURT
   </text>
 
 </svg>
