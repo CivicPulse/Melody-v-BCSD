@@ -8,7 +8,7 @@
   <rect x="72" y="72" width="4" height="488" fill="#c9a23a"/>
 
   <!-- Primary headline -->
-  <text x="104" y="260"
+  <text x="104" y="210"
         font-family="Georgia, 'Times New Roman', serif"
         font-weight="700" font-size="96"
         fill="#ffffff">
@@ -16,19 +16,25 @@
   </text>
 
   <!-- Defendant -->
-  <text x="104" y="378"
+  <text x="104" y="328"
         font-family="Georgia, 'Times New Roman', serif"
         font-style="italic" font-size="80"
         fill="#ffffff">
     v. Bibb County School District
   </text>
 
-  <!-- Docket label at bottom -->
-  <text x="104" y="588"
+  <!-- Docket label — two lines -->
+  <text x="104" y="448"
         font-family="Georgia, 'Times New Roman', serif"
-        font-size="24" letter-spacing="4"
+        font-size="26" letter-spacing="3"
         fill="#c9a23a">
-    CIVIL ACTION NO. 2025-CV-083495 &#xB7; BIBB COUNTY SUPERIOR COURT
+    CIVIL ACTION NO. 2025-CV-083495
+  </text>
+  <text x="104" y="488"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="26" letter-spacing="3"
+        fill="#c9a23a">
+    BIBB COUNTY SUPERIOR COURT
   </text>
 
 </svg>
