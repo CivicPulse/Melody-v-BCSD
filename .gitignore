@@ -12,3 +12,6 @@ Gemfile.lock
 node_modules/
 .idea/
 .vscode/
+# MCP tool scratch directories
+.firecrawl/
+.playwright-mcp/
