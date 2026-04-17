@@ -65,7 +65,7 @@ FERPA does **not** categorically seal every document that mentions a student. Co
 ### The exhibits explained (A–F)
 
 - **Exhibit A — The ORA Request** (the Open Records Request, or ORR — the formal written ask for public records)**.** Reporter Laura Corley's June 2, 2025 email asking for the 2024 settlement dollar amounts and explicitly stating she is "not seeking access to any other information within any settlement agreements, only the dollar amounts."
-- **Exhibit B — The Denial.** The June 5, 2025 email response from BCSD Open Records Officer Stephanie Hartley refusing the request, followed by Corley's reply seeking the legal basis.
+- **Exhibit B — The Denial.** The June 5, 2025 email response from BCSD Chief Communications Officer (and spokesperson) Stephanie Hartley refusing the request, followed by Corley's reply seeking the legal basis.
 - **Exhibit C — 2019 Board Minutes.** Board minutes from February 28, 2019 showing that BCSD has historically disclosed settlement amounts with named students in its public minutes.
 - **Exhibit D — 2017 Board Minutes.** Board minutes from October 19, 2017 showing the same pattern of prior disclosure.
 - **Exhibit E — 7/18/2024 JH Minutes.** The July 18, 2024 board minutes stating "Settlement for Student JH (ACTION). The Board voted unanimously to approve this action item." This is the public document that names "Student JH" by those initials.

@@ -15,9 +15,9 @@ permalink: /docs/parties/
 
 ### Georgia Trust for Local News, LLC, d/b/a (doing business as) *The Macon Melody*
 
-A Georgia limited liability company that operates *The Macon Melody*, a local independent newspaper serving Macon-Bibb County. Filed suit to enforce Georgia's Open Records Act (ORA) after the school district refused to disclose a settlement dollar amount.
+A Georgia limited liability company that operates *The Macon Melody*, a nonprofit community newsroom serving Macon-Bibb County (launched June 2024 with a $5 million Knight Foundation grant). GTLN is itself a subsidiary of the National Trust for Local News, a 501(c)(3) nonprofit. Filed suit to enforce Georgia's Open Records Act (ORA) after the school district refused to disclose a settlement dollar amount.
 
-**Principal / client representative:** **DuBose Porter** — former Minority Leader of the Georgia House of Representatives, longtime community newspaper publisher, and a widely respected figure in Georgia journalism and politics. His signature on the January 2026 substitution-of-counsel document confirms his role as the plaintiff's principal.
+**Principal / LLC signatory:** **DuBose Porter** — former Minority Leader of the Georgia House of Representatives (1982–2011), former Chair of the Democratic Party of Georgia, and longtime owner of The Courier Herald in Dublin, Georgia. Porter founded the Georgia Trust for Local News and currently serves as its **Publisher Emeritus** (effective February 2, 2026). His signature on the January 2026 substitution-of-counsel document confirms his authority to act for the LLC. Day-to-day operational control of GTLN sits with **Danyale Starley** (Interim Executive Director) and **Pam Burney** (General Manager). Newsroom leadership is held by **Caleb Slinkard**, Executive Editor of The Macon Melody.
 
 ### Plaintiff's attorneys (current)
 
@@ -26,7 +26,7 @@ A Georgia limited liability company that operates *The Macon Melody*, a local in
 | **Lucas W. Andrews** | Stanton Law, LLC (Atlanta) | 019533 | Lead counsel (since 1/7/2026) |
 | **Erika Pitzel** | Stanton Law, LLC (Atlanta) | 752242 | Co-counsel |
 
-**About Stanton Law, LLC:** A mid-sized Atlanta employment and commercial litigation boutique. Plaintiff's move from a Macon solo to Stanton Law — timed roughly two months before the Partial MSJ (Motion for Summary Judgment — asking the judge to decide without a trial) — signals that plaintiff is marshaling serious litigation horsepower for the summary judgment push.
+**About Stanton Law, LLC:** A small Atlanta boutique (roughly a dozen attorneys) focused primarily on management-side employment counseling for businesses, with a commercial-litigation practice. Plaintiff's move from a Macon solo to Stanton Law — timed roughly two months before the Partial MSJ (Motion for Summary Judgment — asking the judge to decide without a trial) — signals that plaintiff is marshaling additional litigation horsepower for the summary judgment push.
 
 ### Plaintiff's attorneys (former)
 
@@ -51,7 +51,7 @@ A public school district serving Macon-Bibb County, Georgia. BCSD is an "agency"
 | **Bennett D. Bryan (BDB)** | Parker Poe Adams & Bernstein LLP (Atlanta) | 157009 | Co-counsel |
 | **Caroline L. Scalf (CLS)** | Parker Poe Adams & Bernstein LLP (Atlanta) | 413024 | Co-counsel |
 
-**About Parker Poe Adams & Bernstein LLP:** A large regional law firm headquartered in the Carolinas with an Atlanta office. Representing school districts and public entities is a core practice area. Hiring two attorneys from a major regional firm — rather than a local Macon firm or in-house counsel — signals that BCSD is treating this case as significant and is prepared to spend meaningfully on its defense.
+**About Parker Poe Adams & Bernstein LLP:** A large regional law firm headquartered in Charlotte, North Carolina, with 300+ attorneys across offices in NC, SC, GA, and DC. Representing school districts and public entities is a core practice area. Hiring two attorneys from a major regional firm — rather than a local Macon firm or in-house counsel — signals that BCSD is treating this case as significant and is prepared to spend meaningfully on its defense.
 
 {: .note }
 > **"BDB", "CLS", and "MM" in filenames:** Defense attorneys typically use their initials to name files. "BDB" = Bennett D. Bryan; "CLS" = Caroline L. Scalf. The "MM" prefix on two plaintiff filenames (`260107_MM_Notice_of_Appearance.pdf`, `260108_Substitution_MM_w_exhibit.pdf`) stands for **"Macon Melody"** — the plaintiff, not an attorney.
@@ -66,7 +66,7 @@ A public school district serving Macon-Bibb County, Georgia. BCSD is an "agency"
 | **Courtroom** | Courtroom E, Bibb County Courthouse |
 | **Clerk** | **Erica L. Woodford**, Bibb County Superior Court Clerk |
 
-**About Judge Ken Smith:** An experienced Bibb County Superior Court judge. He has handled both the Rule Nisi (Latin for "unless" — a show-cause order) briefing and the discovery-extension motion — meaning he has already read considerable material about this case and its FERPA (Family Educational Rights and Privacy Act — the federal law protecting student education records) / IDEA (Individuals with Disabilities Education Act — the federal law governing special-education services) arguments. His 4/14/2026 decision to extend discovery gives BCSD 90 more days but does *not* foreclose his ability to rule on the Partial MSJ as a matter of law at the 4/29/2026 hearing.
+**About Judge Ken Smith:** A Bibb County Superior Court judge appointed by Governor Brian Kemp in January 2024. He has handled both the Rule Nisi (Latin for "unless" — a show-cause order) briefing and the discovery-extension motion — meaning he has already read considerable material about this case and its FERPA (Family Educational Rights and Privacy Act — the federal law protecting student education records) / IDEA (Individuals with Disabilities Education Act — the federal law governing special-education services) arguments. His 4/14/2026 decision to extend discovery gives BCSD 90 more days but does *not* foreclose his ability to rule on the Partial MSJ as a matter of law at the 4/29/2026 hearing.
 
 ---
 
@@ -80,7 +80,10 @@ Under both state and federal law, courts keep the identity of minor students con
 - The vote was unanimous.
 - No dollar figure was read aloud or recorded in the minutes (breaking a historical pattern in which settlement amounts *were* publicly disclosed in minutes — see Exhibits C and D to the Complaint).
 
-Separate news reporting by 13WMAZ indicates the underlying civil suit that generated the settlement involves allegations that **a special-needs student was assaulted on a Bibb County school campus in 2023**. The settlement resolved the district's liability in that tort action.
+The public record does **not** confirm what kind of underlying claim produced the JH settlement. The settlement was voted on at the July 18, 2024 BCSD board meeting; the board minutes simply read "Settlement for Student JH (ACTION). The Board voted unanimously to approve this action item." No amount was recorded.
+
+{: .warning }
+> **A common confusion worth flagging.** Separate news reporting by 13WMAZ has covered a 2023 alleged sexual assault of a 13-year-old special-needs student at **Howard Middle School** by a paraprofessional named Cedric Goolsby. The family's tort lawsuit in that matter was **filed in August 2025** — more than a year after the July 2024 JH settlement — so the two matters are almost certainly **separate incidents**, not the same case. Do not assume the JH settlement and the Howard Middle / Goolsby case are the same matter without further evidence.
 
 BCSD's "Ninth Defense" (added in its Amended Answer) argues the student should be joined as an indispensable party. The student's parents are not parties to this ORA (Open Records Act) lawsuit, and joining them would require revealing JH's identity — an outcome the plaintiff argues the parents would themselves be unlikely to want.
 

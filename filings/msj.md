@@ -22,7 +22,7 @@ doc_type: "Motion for Partial Summary Judgment"
 
 This is the single most consequential filing the newspaper has made so far. On March 10, 2026, The Macon Melody — through its lead counsel Lucas W. Andrews at Stanton Law LLC in Atlanta — asked Judge Ken Smith to decide, *before any trial*, that two of Bibb County School District's (BCSD's) main legal defenses cannot succeed as a matter of law. That kind of request is called a **motion for partial summary judgment**, or "MSJ" for short (MSJ = Motion for Summary Judgment; "partial" because it only attacks part of the case).
 
-The 35-page package contains a 19-page memorandum of law, a statement of undisputed facts, and two out-of-state court opinions appended as exhibits. Every page is aimed at one question: when a public school board votes in open session to pay a settlement to a student's family, can the district hide the dollar amount behind federal student-privacy statutes (FERPA — the Family Educational Rights and Privacy Act — and IDEA — the Individuals with Disabilities Education Act, the federal law governing special-education services)? The newspaper says no, and it has marshaled Georgia Supreme Court precedent, federal regulations, and persuasive rulings from Michigan, Arizona, Ohio, Missouri, Kentucky, New Jersey, California, Delaware, and the U.S. Supreme Court to prove it.
+The ~35-page package contains an 18-page memorandum of law, a statement of undisputed facts, and two out-of-state court opinions appended as exhibits. Every page is aimed at one question: when a public school board votes in open session to pay a settlement to a student's family, can the district hide the dollar amount behind federal student-privacy statutes (FERPA — the Family Educational Rights and Privacy Act — and IDEA — the Individuals with Disabilities Education Act, the federal law governing special-education services)? The newspaper says no, and it has marshaled Georgia Supreme Court precedent, federal regulations, and persuasive rulings from Michigan, Arizona, Ohio, Missouri, Kentucky, New Jersey, California, Delaware, and the U.S. Supreme Court to prove it.
 
 The motion targets two specific affirmative defenses BCSD raised in its Answer: the **Sixth Defense** (FERPA and IDEA bar disclosure) and the **Ninth Defense** (the lawsuit cannot proceed without joining the student and parents as indispensable parties). Knock those out, and BCSD's case for secrecy largely collapses.
 
@@ -35,7 +35,7 @@ The motion also asks the court to affirmatively rule on two undisputed baseline 
 | Filed | March 10, 2026 |
 | Filed by | Lucas W. Andrews (Stanton Law LLC, Atlanta) |
 | Document type | Motion for Partial Summary Judgment + Memorandum + Exhibits A & B |
-| Pages | 35 (19-page memorandum plus appended exhibits) |
+| Pages | ~35 (18-page memorandum of law plus motion, statement of facts, and two exhibits) |
 | Targets | Sixth Defense (FERPA/IDEA) and Ninth Defense (indispensable parties) |
 | Relief requested | Dismissal of two defenses; declaratory rulings that BCSD is an "agency" and the records are "public records" under the ORA |
 | Hearing | April 29, 2026, 2:00 p.m., Courtroom E, before Judge Ken Smith |

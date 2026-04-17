@@ -17,12 +17,13 @@ A chronological record of every significant event in *Melody v. (versus) BCSD* (
 
 | Date | Event |
 |------|------|
-| **2025-03-14** | First ORA (Open Records Act) request from *The Macon Melody* (by publisher Kerry Hatcher) asking BCSD for information about the July 18, 2024 board-approved settlement. |
-| **2025-03-28** | BCSD misses its statutory 3-business-day deadline for production. |
-| **2025-04-11** | BCSD's estimated delivery date — also missed. |
-| **2025-04-24** | **Georgia Attorney General's Office issues an informal opinion** rejecting BCSD's reliance on *Mullins v. City of Griffin*, 886 F. Supp. 21 (N.D. Ga. 1995) (citation = volume 886 of the Federal Supplement — a book of federal trial court decisions — page 21, decided 1995 in the Northern District of Georgia, a federal trial court). The AG (Attorney General) tells BCSD the case does not support non-disclosure. |
-| **2025-06-02** | Reporter **Laura Corley** submits a narrower, follow-up ORA request asking for *just* the dollar amounts of 2024 settlements. |
-| **2025-06-05** | BCSD formally denies, citing FERPA (Family Educational Rights and Privacy Act) and IDEA (Individuals with Disabilities Education Act), and voluntarily discloses the student's initials ("JH") in its denial letter. |
+| **early 2025** (exact date not specified in the pleadings) | Reporter **Laura Corley** submits an earlier, broader Open Records Request to Bibb County School District (BCSD) concerning the July 18, 2024 board-approved settlement. BCSD denies, citing *Mullins v. City of Griffin*. Corley files a complaint with the Georgia Attorney General's (AG) Open Government Mediation Program. (Complaint ¶¶ 23–27.) |
+| **2025-04-24** | **Georgia Attorney General's Office issues an informal opinion** to Corley and BCSD's pre-litigation counsel (Andrew Davidson of Jones Cork LLP) rejecting BCSD's reliance on *Mullins v. City of Griffin*, 886 F. Supp. 21 (N.D. Ga. 1995) (citation = volume 886 of the Federal Supplement — a book of federal trial court decisions — page 21, decided 1995 in the Northern District of Georgia, a federal trial court). The AG tells BCSD the case does not support non-disclosure. (Complaint Ex. F.) |
+| **2025-06-02** | Corley submits a narrower, follow-up Open Records Request asking for *just* the dollar amounts of 2024 settlements. |
+| **2025-06-05** | BCSD formally denies through Chief Communications Officer **Stephanie Hartley**, citing FERPA (Family Educational Rights and Privacy Act) and IDEA (Individuals with Disabilities Education Act), and voluntarily discloses the student's initials ("JH") in its denial letter. |
+
+{: .note }
+> **A separate, parallel records dispute ran on a different track.** Kerry Hatcher — the builder of this site, a Bibb parent, and a 2026 Board of Education candidate — filed his own Open Records Requests with BCSD during early 2025 concerning **Alexander II Magnet School safety and policing records**. Hatcher's dispute is distinct from the Macon Melody's settlement-amount dispute documented on this timeline, but Hatcher separately complained to the AG's Open Government Mediation Program around the same time. His personal blog covers that parallel dispute in detail.
 
 ## The lawsuit begins (August – October 2025)
 
@@ -42,7 +43,7 @@ A chronological record of every significant event in *Melody v. (versus) BCSD* (
 |------|------|--------|
 | **2025-12-29** | BCSD files **Amended Answer** (adds Ninth Defense: failure to join indispensable party) and simultaneously serves its **First RFAs + First RFPs** (Requests for Admission — asks the other side to admit or deny specific facts under oath; Requests for Production — asks for documents) on plaintiff. | [Amended Answer]({{ site.baseurl }}/filings/amended-answer/) · [RFA/RPD COS]({{ site.baseurl }}/filings/rfa-rpd-cos/) |
 | **2026-01-07** | **Stanton Law LLC** (Atlanta) appears for plaintiff. | [Stanton Law NoA]({{ site.baseurl }}/filings/stanton-notice-of-appearance/) |
-| **2026-01-08** | Formal substitution of counsel — Joy Ramsingh withdraws; Stanton Law substitutes in; signed by publisher **DuBose Porter**. | [Substitution]({{ site.baseurl }}/filings/substitution/) |
+| **2026-01-08** | Formal substitution of counsel — Joy Ramsingh withdraws; Stanton Law substitutes in; signed by **DuBose Porter** on behalf of Georgia Trust for Local News, LLC. | [Substitution]({{ site.baseurl }}/filings/substitution/) |
 | **2026-01-28** | Plaintiff serves discovery responses (later amended 3/19/2026). | [Plaintiff COS]({{ site.baseurl }}/filings/plaintiff-discovery-cos/) |
 | **2026-03-10** | **Plaintiff files Motion for Partial Summary Judgment** (MSJ — a request asking the judge to rule without a trial) on BCSD's Sixth and Ninth Defenses. | [MSJ]({{ site.baseurl }}/filings/msj/) |
 | **2026-03-26** | Defense counsel Bryan files Notice of Leave of Absence blocking out multiple summer 2026 windows. | [Leave of Absence]({{ site.baseurl }}/filings/leave-of-absence/) |

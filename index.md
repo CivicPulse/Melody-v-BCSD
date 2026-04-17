@@ -93,7 +93,9 @@ The plaintiff's **Motion for Partial Summary Judgment**, filed March 10, 2026, i
 
 ## About this site
 
-This site is a **citizen-journalism archive** built by [Kerry Hatcher](https://www.kerryhatcher.com), the publisher of *The Macon Melody* and a Bibb County Board of Education candidate. Every court filing is linked to its original PDF, obtained from Tyler re:SearchGA (the official Georgia court records portal). Every legal concept is explained for non-lawyers.
+This site is a **citizen-journalism archive** built by [Kerry Hatcher](https://www.kerryhatcher.com) — a Bibb County parent, transparency blogger, and **2026 candidate for the Bibb County Board of Education (At-Large Post 7)**. Hatcher is **not affiliated with *The Macon Melody***; the paper is published by **Georgia Trust for Local News, LLC**, whose Publisher Emeritus is **DuBose Porter** and whose Executive Editor is **Caleb Slinkard**. The reporter whose June 2, 2025 Open Records Request drives this case is senior accountability reporter **Laura Corley**.
+
+Every court filing linked here was obtained from Tyler re:SearchGA (the official Georgia court records portal) and costs are documented in the [receipt]({{ site.baseurl }}/filings/docket-receipt/). Every legal concept is explained for non-lawyers.
 
 Nothing on this site is legal advice. It is public-interest journalism.
 

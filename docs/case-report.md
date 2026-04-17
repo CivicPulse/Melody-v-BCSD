@@ -24,8 +24,8 @@ A local Macon newspaper, **The Macon Melody** (operating as Georgia Trust for Lo
 - **Plaintiff theory:** A bare settlement dollar amount paid from public funds is a public record, not an "education record" under FERPA. The Georgia Attorney General informally agreed in April 2025 that BCSD's reliance on *Mullins v. City of Griffin*, 886 F. Supp. 21 (N.D. Ga. 1995) — citation reads volume 886 of the Federal Supplement (a book of federal trial court decisions), page 21, decided 1995 in the Northern District of Georgia (a federal trial court) — is misplaced.
 - **Defense theory:** The amount, combined with BCSD's own voluntary disclosure of "JH" in the 7/18/2024 public board minutes, makes the amount "personally identifiable information" (PII) under 34 C.F.R. § 99.3 (Code of Federal Regulations) and IDEA. BCSD has also raised an **indispensable party** defense suggesting JH/parents must be joined.
 - **Procedural posture:** Plaintiff filed a **Motion for Partial Summary Judgment (MPSJ)** on 3/10/2026 targeting BCSD's Sixth (FERPA/IDEA) and Ninth (indispensable party) Defenses. **Motions hearing scheduled for April 29, 2026, 2:00 p.m.**, Courtroom E, before Judge Ken Smith. **Calendar Call** is 5/5/2026. **Discovery extended** by court order to 7/13/2026.
-- **Counsel:** Plaintiff — originally Joy Ramsingh (Ramsingh Legal, Macon); substituted 1/7–1/8/2026 by **Lucas W. Andrews & Erika Pitzel, Stanton Law LLC** (Atlanta); client rep is **DuBose Porter**. Defendant — **Bennett D. Bryan (BDB) & Caroline L. Scalf (CLS), Parker Poe Adams & Bernstein LLP** (Atlanta).
-- **Likely outcome:** Merits favor the Melody strongly. *Red & Black Publ. v. Bd. of Regents*, 262 Ga. 848 (1993) — citation reads: volume 262 of the Georgia Reports, page 848, decided 1993 — narrowly construes "education record"; *Herald Publ'g v. Coopersville* (Mich. 2010) and *Heller v. Safford USD* (Ariz. 2011) are directly on point and are exhibits to the MSJ. The AG's (Attorney General's) pre‑suit opinion undermines BCSD's "substantial justification" defense for attorney‑fee purposes. **Attorney fees under O.C.G.A. § 50‑18‑73(b) are probable but not certain** (see *Atlanta Community Press Collective v. Atlanta Police Foundation* (Fulton 2025) where fees were denied despite merits win).
+- **Counsel:** Plaintiff — originally Joy Ramsingh (Ramsingh Legal, Macon); substituted 1/7–1/8/2026 by **Lucas W. Andrews & Erika Pitzel, Stanton Law LLC** (Atlanta); the LLC's signatory on plaintiff's filings is **DuBose Porter** (Publisher Emeritus, Georgia Trust for Local News; former Georgia House Minority Leader). Defendant — **Bennett D. Bryan (BDB) & Caroline L. Scalf (CLS), Parker Poe Adams & Bernstein LLP** (Atlanta).
+- **Likely outcome:** Merits favor the Melody strongly. *Red & Black Publ. v. Bd. of Regents*, 262 Ga. 848 (1993) — citation reads: volume 262 of the Georgia Reports, page 848, decided 1993 — narrowly construes "education record"; *Herald Publ'g v. Coopersville* (Mich. 2010) and *Heller v. Safford USD* (Ariz. 2011) are directly on point and are exhibits to the MSJ. The AG's (Attorney General's) pre‑suit opinion undermines BCSD's "substantial justification" defense for attorney‑fee purposes. **Attorney fees under O.C.G.A. § 50‑18‑73(b) are probable but not certain** in light of recent Georgia practice.
 
 ---
 
@@ -33,7 +33,7 @@ A local Macon newspaper, **The Macon Melody** (operating as Georgia Trust for Lo
 
 | Role | Party | Attorney(s) | Firm |
 |------|-------|-------------|------|
-| Plaintiff | Georgia Trust for Local News LLC d/b/a The Macon Melody (represented by **DuBose Porter**) | **Lucas W. Andrews** (Ga. Bar 019533), **Erika Pitzel** (Ga. Bar 752242) — substituted in 1/7–1/8/2026 | Stanton Law, LLC (Atlanta) |
+| Plaintiff | Georgia Trust for Local News LLC d/b/a The Macon Melody (LLC signatory: **DuBose Porter**, Publisher Emeritus) | **Lucas W. Andrews** (Ga. Bar 019533), **Erika Pitzel** (Ga. Bar 752242) — substituted in 1/7–1/8/2026 | Stanton Law, LLC (Atlanta) |
 | Former Pl. counsel | (withdrew) | **Joy Ramsingh** (Ga. Bar 862332) | Ramsingh Legal (Macon) |
 | Defendant | The Bibb County School District | **Bennett D. Bryan** (Ga. Bar 157009), **Caroline L. Scalf** (Ga. Bar 413024) | Parker Poe Adams & Bernstein LLP (Atlanta) |
 | Court | Bibb County Superior Court, Courtroom E | **Hon. Ken Smith** | — |
@@ -103,7 +103,7 @@ Caroline L. Scalf (Parker Poe, Atlanta) enters co‑counsel appearance for BCSD.
 Lucas W. Andrews and Erika Pitzel of Stanton Law LLC (Atlanta) enter appearance for Plaintiff on 1/7/2026. Plaintiff is upgrading from a Macon solo to a larger Atlanta firm ahead of MSJ push.
 
 #### [260108_Substitution_MM_w_exhibit.pdf]({{ site.baseurl }}/pdfs/260108_Substitution_MM_w_exhibit.pdf)
-Formal Substitution of Counsel under USCR 4.3(3), filed 1/8/2026. **Joy Ramsingh withdraws; Stanton Law substitutes in.** Includes wet‑signed client consent from **DuBose Porter** on behalf of Georgia Trust for Local News LLC — confirms Porter's role as plaintiff's principal.
+Formal Substitution of Counsel under USCR 4.3(3), filed 1/8/2026. **Joy Ramsingh withdraws; Stanton Law substitutes in.** Includes wet‑signed client consent from **DuBose Porter** on behalf of Georgia Trust for Local News LLC — confirms Porter's authority to act for the LLC (he serves as GTLN's Publisher Emeritus effective 2/2/2026 and founded GTLN in 2024).
 
 #### [Leave_of_Absence-Bennett_Bryan_The_Macon_Melody_v._BCSD_.pdf]({{ site.baseurl }}/pdfs/Leave_of_Absence-Bennett_Bryan_The_Macon_Melody_v._BCSD_.pdf)
 Defense counsel Bryan's USCR 16.1 leave‑of‑absence notice (filed 3/26/2026). Blocks out five summer 2026 windows (June 3–8, June 18–19, June 30–July 7, July 23–27, August 19–26). Routine calendaring — but it will constrain depositions, hearings, and trial during summer 2026.
@@ -197,9 +197,9 @@ In other words, *Mullins* actually **favors the Melody**. The AG's pre‑suit le
 ### Attorney fees under O.C.G.A. § 50‑18‑73(b)
 The statute is **mandatory absent special circumstances** if the agency "acted without substantial justification." Representative Georgia outcomes:
 - ***Wallace v. Greene County***, 274 Ga. App. 776 (2005) — sets the two‑prong test.
-- **Fulton County DA (2024)** — $54,000 fee award against the D.A.'s office; denial was "substantially groundless" and "hostile."
-- **Forsyth County Schools (2024)** — $107,500 fee award (First Amendment case, not ORA, but illustrates scale).
-- ***Atlanta Community Press Collective v. Atlanta Police Foundation*** (Fulton 2025) — **fees denied** despite merits win, citing the agency's "misunderstanding of the law." Cautionary data point — merits win does not guarantee fees.
+- **Fulton County DA (March 2025 order, for 2024 ORA violations)** — **$54,264** fee award to attorney Ashleigh Merchant after Judge Rachel Krause found the DA's office acted in a "substantially groundless" manner.
+- **Forsyth County Schools (2024)** — $107,500 fee award. Note: this was a federal First Amendment § 1983 case (public-comment censorship), not an ORA case — included only to illustrate that Georgia courts do enforce fee-shifting against public bodies in adjacent transparency contexts.
+- ***Atlanta Community Press Collective v. Atlanta Police Foundation*** (Fulton 2025) — plaintiffs **won on the merits** (Judge Jane Barwick ruled APF is subject to the ORA and violated it). Fee disposition not independently confirmed; cited here as a recent ORA enforcement data point, not as a fee denial.
 
 ---
 
@@ -247,7 +247,7 @@ This is not an agency running out the clock through neglect. It is building a pa
 4. The amount was approved at a public meeting under the Open Meetings Act (O.C.G.A. § 50‑14‑1 et seq.), so material terms were required to be public.
 5. Confidentiality clauses cannot override the ORA.
 
-**On attorney fees — probable but not certain.** The AG's pre‑suit opinion, reliance on *Mullins*, and the pattern of delay support a fee award. *Atlanta Police Foundation* is a cautionary outlier — Georgia trial judges sometimes excuse "legal misunderstanding."
+**On attorney fees — probable but not certain.** The AG's pre‑suit opinion, reliance on *Mullins*, and the pattern of delay support a fee award. Georgia trial judges sometimes excuse "legal misunderstanding" on the substantial-justification prong — the outcome on fees can lag the outcome on the merits.
 
 **Most likely disposition:** summary judgment for plaintiff ordering disclosure of the settlement dollar amount with any PII redacted. Fee award is probable. Appeal by BCSD would face hostile Georgia Supreme Court authority. A negotiated settlement — disclosure plus fees — remains a realistic off‑ramp for the district.
 

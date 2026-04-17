@@ -44,7 +44,7 @@ Every legal term of art that appears in the *Melody v. BCSD* filings, defined fo
 
 ## E
 
-**Education Record (under FERPA)** — A record that (1) directly relates to a student and (2) is maintained by an educational agency. The Georgia Supreme Court narrows this to records of "academic performance, financial aid, or scholastic probation."
+**Education Record (under FERPA)** — A record that (1) directly relates to a student and (2) is maintained by an educational agency. The Georgia Supreme Court in *Red & Black Publ'g v. Bd. of Regents* read this narrowly, holding that student disciplinary records were "not the type" of records FERPA was "intended to protect." The shorthand summary that FERPA is limited to "academic performance, financial aid, or scholastic probation" is a commentator's paraphrase, not a direct quote from the opinion.
 
 **et al.** — Latin for "and others." Used in case captions when there are multiple parties on one side.
 

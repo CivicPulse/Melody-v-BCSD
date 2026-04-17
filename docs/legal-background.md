@@ -39,12 +39,12 @@ The law's opening section (O.C.G.A. § 50-18-70(a)) actually puts it more formal
 
 This is the part that keeps government agencies honest. If the court finds the agency "acted without substantial justification" in refusing to turn over records, the law says the court **"shall" award the requester their attorney's fees** — unless special circumstances exist.
 
-The word "shall" is important. It's the difference between "may" (discretionary) and "shall" (mandatory). Even if some Georgia judges have been forgiving in practice (see *Atlanta Community Press Collective v. Atlanta Police Foundation*, 2025), the statute's baseline is that the government pays the winner's lawyer bill when it loses.
+The word "shall" is important. It's the difference between "may" (discretionary) and "shall" (mandatory). The statute's baseline is that the government pays the winner's lawyer bill when the court finds no substantial justification for the denial.
 
-**Typical fee awards:**
+**Representative fee awards:**
 
-- **Fulton County DA's office (2024)** — ordered to pay **$54,000**.
-- **Forsyth County Schools (2024)** — paid **$107,500** in a related transparency case.
+- **Fulton County DA's office (March 2025 order, for 2024 ORA violations)** — ordered to pay **$54,264** to attorney Ashleigh Merchant after Judge Rachel Krause found the DA's office acted in a "substantially groundless" manner.
+- **Forsyth County Schools (2024)** — paid **$107,500**. Note: this was a federal First Amendment § 1983 case (not an ORA case) involving public-comment censorship at school board meetings. Included here only to illustrate that Georgia courts *do* enforce fee-shifting against public bodies in adjacent transparency contexts.
 
 ---
 
@@ -56,7 +56,7 @@ FERPA (20 U.S.C. § 1232g — U.S.C. = United States Code, the federal statute b
 
 ### What it actually protects
 
-FERPA protects "**education records**." The statute defines them as records that (a) **directly relate** to a student and (b) are **maintained by an educational agency**. The U.S. Supreme Court has read this narrowly (*Owasso ISD v. Falvo*, 534 U.S. 426 (2002) — case citations read: volume / reporter / page / year, so this is volume 534 of the United States Reports, page 426, decided 2002), and the Georgia Supreme Court has read it even more narrowly (*Red & Black Publ'g Co. v. Bd. of Regents*, 262 Ga. 848 (1993)) — limiting FERPA's scope to records about "academic performance, financial aid, or scholastic probation."
+FERPA protects "**education records**." The statute defines them as records that (a) **directly relate** to a student and (b) are **maintained by an educational agency**. The U.S. Supreme Court has read this narrowly (*Owasso ISD v. Falvo*, 534 U.S. 426 (2002) — case citations read: volume / reporter / page / year, so this is volume 534 of the United States Reports, page 426, decided 2002). The Georgia Supreme Court in *Red & Black Publ'g Co. v. Bd. of Regents*, 262 Ga. 848 (1993), similarly rejected an expansive reading, holding that student disciplinary records were not the type of records FERPA was "intended to protect." *Red & Black* is often paraphrased as limiting FERPA's scope to records about academic performance, financial aid, or scholastic probation — but that phrasing is a secondary-source summary, not a direct quote from the opinion.
 
 ### What it does NOT protect
 
@@ -70,15 +70,14 @@ FERPA protects "**education records**." The statute defines them as records that
 FERPA regulations (34 C.F.R. § 99.3 — C.F.R. = Code of Federal Regulations) define PII as:
 
 1. The student's name.
-2. The student's parents' names.
-3. Address.
-4. Social Security number.
-5. Biometric records.
-6. Date of birth.
-7. Photograph.
-8. "Other information that, alone or in combination, is **linked or linkable to a specific student** that would allow a reasonable person in the school community, who does not have personal knowledge of the relevant circumstances, to identify the student with reasonable certainty."
+2. The name of the student's parent **or other family members**.
+3. The address of the student **or the student's family**.
+4. A personal identifier (Social Security number, student number, or biometric record).
+5. Other indirect identifiers (date of birth, place of birth, mother's maiden name).
+6. "Other information that, alone or in combination, is **linked or linkable to a specific student** that would allow a reasonable person in the school community, who does not have personal knowledge of the relevant circumstances, to identify the student with reasonable certainty."
+7. Information **requested by a person whom the educational agency reasonably believes knows the identity of the student** to whom the education record relates.
 
-This last catch-all is the core of the Bibb County School District's defense. BCSD argues that because the *Macon Melody* reporter allegedly knows or can infer who "JH" is, the dollar amount of the settlement *becomes* PII in the reporter's hands.
+The last two catch-alls — especially item 7 — are the core of the Bibb County School District's defense. BCSD argues that because the *Macon Melody* reporter allegedly knows or can infer who "JH" is, the dollar amount of the settlement *becomes* PII in the reporter's hands.
 
 ### The redaction safety valve — 34 C.F.R. § 99.31(b)(1)
 
@@ -120,7 +119,7 @@ A student newspaper at the University of Georgia asked to see records of the UGA
 
 ### What the Georgia Supreme Court held
 
-The Court **ordered the records released**. It held that FERPA protects only a narrow set of records — specifically, those relating to "student academic performance, financial aid, or scholastic probation." Student disciplinary records did not fall within that definition; they were *not* "education records" under FERPA.
+The Court **ordered the records released**. It held that student disciplinary records are **"not the type"** of records FERPA was "intended to protect" and therefore are not "education records" under FERPA. Georgia lawyers commonly shorthand this holding as limiting FERPA to records about academic performance, financial aid, or scholastic probation — but that phrasing is a commentator's paraphrase, not a direct quote from the opinion.
 
 ### Why this matters for *Melody v. BCSD*
 
