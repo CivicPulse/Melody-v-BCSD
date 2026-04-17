@@ -6,10 +6,13 @@ layout: default
 permalink: /docs/case-report/
 ---
 
-# Case Report — *Georgia Trust for Local News LLC d/b/a The Macon Melody v. Bibb County School District*
+# Case Report — *Georgia Trust for Local News LLC d/b/a (doing business as) The Macon Melody v. (versus) Bibb County School District*
 
 **Civil Action No. 2025‑CV‑083495** · Bibb County Superior Court (State of Georgia) · Judge Ken Smith
 Report prepared 2026‑04‑17.
+
+{: .note }
+> **Legal shorthand used here:** *ORA* = Open Records Act. *ORR* = Open Records Request. *BCSD* = Bibb County School District. *FERPA* = Family Educational Rights and Privacy Act (federal student-privacy law). *IDEA* = Individuals with Disabilities Education Act (federal special-education law). *PII* = personally identifiable information. *MSJ* / *MPSJ* = Motion for (Partial) Summary Judgment. *O.C.G.A.* = Official Code of Georgia Annotated (Georgia's state statute book); *§* = "section"; *et seq.* is Latin for "and following"; *et al.* is Latin for "and others". *U.S.C.* = United States Code (federal statute book). *C.F.R.* = Code of Federal Regulations. *F. Supp.* = Federal Supplement (a book of federal trial court decisions). *N.D. Ga.* = Northern District of Georgia (a federal trial court). *Ga. App.* = Georgia Court of Appeals reporter. *USCR* = Uniform Superior Court Rules. *COS* = Certificate of Service. *NoA* = Notice of Appearance. *RFA* / *RFP* / *RPD* = Request for Admission / Request for Production. *Rule Nisi* = Latin for "unless" (a show-cause order). *in camera* = Latin for "in chambers" (private judge-only review). *Ga. CPA* = Georgia Civil Practice Act. *GFAF* = Georgia First Amendment Foundation. *RCFP* = Reporters Committee for Freedom of the Press. *UUID* = Universally Unique Identifier. Case citations read: volume / reporter / page / year.
 
 ---
 
@@ -17,12 +20,12 @@ Report prepared 2026‑04‑17.
 
 A local Macon newspaper, **The Macon Melody** (operating as Georgia Trust for Local News, LLC), sued **Bibb County School District (BCSD)** on **August 4, 2025** under Georgia's Open Records Act (O.C.G.A. § 50‑18‑70 *et seq.*) after BCSD refused to disclose **the dollar amount of a single 2024 board‑approved settlement** (involving minor student "JH"). BCSD claims the dollar figure is a FERPA/IDEA‑protected "education record" because the requester allegedly can identify the student.
 
-- **Reporter:** Laura Corley sent the Open Records request on 6/2/2025; BCSD denied on 6/5/2025.
-- **Plaintiff theory:** A bare settlement dollar amount paid from public funds is a public record, not an "education record" under FERPA. The Georgia Attorney General informally agreed in April 2025 that BCSD's reliance on *Mullins v. City of Griffin*, 886 F. Supp. 21 (N.D. Ga. 1995) is misplaced.
-- **Defense theory:** The amount, combined with BCSD's own voluntary disclosure of "JH" in the 7/18/2024 public board minutes, makes the amount "personally identifiable information" under 34 C.F.R. § 99.3 and IDEA. BCSD has also raised an **indispensable party** defense suggesting JH/parents must be joined.
-- **Procedural posture:** Plaintiff filed a **Motion for Partial Summary Judgment** on 3/10/2026 targeting BCSD's Sixth (FERPA/IDEA) and Ninth (indispensable party) Defenses. **Motions hearing scheduled for April 29, 2026, 2:00 p.m.**, Courtroom E, before Judge Ken Smith. **Calendar Call** is 5/5/2026. **Discovery extended** by court order to 7/13/2026.
+- **Reporter:** Laura Corley sent the Open Records Request (ORR) on 6/2/2025; BCSD denied on 6/5/2025.
+- **Plaintiff theory:** A bare settlement dollar amount paid from public funds is a public record, not an "education record" under FERPA. The Georgia Attorney General informally agreed in April 2025 that BCSD's reliance on *Mullins v. City of Griffin*, 886 F. Supp. 21 (N.D. Ga. 1995) — citation reads volume 886 of the Federal Supplement (a book of federal trial court decisions), page 21, decided 1995 in the Northern District of Georgia (a federal trial court) — is misplaced.
+- **Defense theory:** The amount, combined with BCSD's own voluntary disclosure of "JH" in the 7/18/2024 public board minutes, makes the amount "personally identifiable information" (PII) under 34 C.F.R. § 99.3 (Code of Federal Regulations) and IDEA. BCSD has also raised an **indispensable party** defense suggesting JH/parents must be joined.
+- **Procedural posture:** Plaintiff filed a **Motion for Partial Summary Judgment (MPSJ)** on 3/10/2026 targeting BCSD's Sixth (FERPA/IDEA) and Ninth (indispensable party) Defenses. **Motions hearing scheduled for April 29, 2026, 2:00 p.m.**, Courtroom E, before Judge Ken Smith. **Calendar Call** is 5/5/2026. **Discovery extended** by court order to 7/13/2026.
 - **Counsel:** Plaintiff — originally Joy Ramsingh (Ramsingh Legal, Macon); substituted 1/7–1/8/2026 by **Lucas W. Andrews & Erika Pitzel, Stanton Law LLC** (Atlanta); client rep is **DuBose Porter**. Defendant — **Bennett D. Bryan (BDB) & Caroline L. Scalf (CLS), Parker Poe Adams & Bernstein LLP** (Atlanta).
-- **Likely outcome:** Merits favor the Melody strongly. *Red & Black Publ. v. Bd. of Regents*, 262 Ga. 848 (1993) narrowly construes "education record"; *Herald Publ'g v. Coopersville* (Mich. 2010) and *Heller v. Safford USD* (Ariz. 2011) are directly on point and are exhibits to the MSJ. The AG's pre‑suit opinion undermines BCSD's "substantial justification" defense for attorney‑fee purposes. **Attorney fees under O.C.G.A. § 50‑18‑73(b) are probable but not certain** (see *Atlanta Community Press Collective v. Atlanta Police Foundation* (Fulton 2025) where fees were denied despite merits win).
+- **Likely outcome:** Merits favor the Melody strongly. *Red & Black Publ. v. Bd. of Regents*, 262 Ga. 848 (1993) — citation reads: volume 262 of the Georgia Reports, page 848, decided 1993 — narrowly construes "education record"; *Herald Publ'g v. Coopersville* (Mich. 2010) and *Heller v. Safford USD* (Ariz. 2011) are directly on point and are exhibits to the MSJ. The AG's (Attorney General's) pre‑suit opinion undermines BCSD's "substantial justification" defense for attorney‑fee purposes. **Attorney fees under O.C.G.A. § 50‑18‑73(b) are probable but not certain** (see *Atlanta Community Press Collective v. Atlanta Police Foundation* (Fulton 2025) where fees were denied despite merits win).
 
 ---
 
@@ -43,15 +46,15 @@ A local Macon newspaper, **The Macon Melody** (operating as Georgia Trust for Lo
 
 | Date | Event |
 |------|------|
-| 2025‑06‑02 | Laura Corley (reporter) sends ORA request for 2024 settlement **dollar amounts only**. |
+| 2025‑06‑02 | Laura Corley (reporter) sends ORA (Open Records Act) request for 2024 settlement **dollar amounts only**. |
 | 2025‑06‑05 | BCSD denies — cites FERPA/IDEA; discloses unsolicited "JH" initials. |
 | 2025‑04‑24 (prior req.) | Georgia AG letter rejecting BCSD's reliance on *Mullins v. City of Griffin*. |
 | **2025‑08‑04** | **Complaint filed** (Ramsingh Legal) — Rule Nisi Motion filed the next day. |
 | 2025‑08‑14 | Parties stipulate: BCSD waives service; answer deadline extended to 10/13/2025. |
-| 2025‑08‑20 | BDB and CLS file Notices of Appearance for BCSD. |
+| 2025‑08‑20 | BDB and CLS file Notices of Appearance (NoAs — filings by which an attorney formally enters the case) for BCSD. |
 | 2025‑10‑13 | BCSD files **Answer** (8 affirmative defenses) **and Response to Rule Nisi Motion**. |
 | 2025‑10‑17 | Plaintiff files **Reply in Support of Rule Nisi** (5 exhibits; *Smith v. Northside Hosp.* authority). |
-| 2025‑12‑29 | BCSD files **Amended Answer** adding a **Ninth Defense** (indispensable party) + serves **first RFPs + RFAs**. |
+| 2025‑12‑29 | BCSD files **Amended Answer** adding a **Ninth Defense** (indispensable party) + serves **first RFPs + RFAs** (Requests for Production — asks for documents — and Requests for Admission — asks the other side to admit or deny specific facts under oath). |
 | 2026‑01‑07 | Stanton Law files Notice of Appearance. |
 | 2026‑01‑08 | Formal Substitution of Counsel; Ramsingh withdraws. |
 | 2026‑01‑28 | Plaintiff serves discovery responses (amended 3/19/2026 after Rule 6.4 meet‑and‑confer). |
@@ -114,7 +117,7 @@ Defense counsel Bryan's USCR 16.1 leave‑of‑absence notice (filed 3/26/2026).
 Joint stipulation (8/14/2025) — BCSD waives service; plaintiff extends response deadline to 10/13/2025. Collegial drafting ("CLS edits JR edits" in filename reflects negotiated exchange).
 
 #### [Macon_Melody-Response_to_Rule_Nisi_Motion.pdf]({{ site.baseurl }}/pdfs/Macon_Melody-Response_to_Rule_Nisi_Motion.pdf)
-**BCSD's Response in Opposition** (10/13/2025). Argues case is not ripe for a summary hearing — requires discovery, protective orders, and *in camera* review. Frames the ORA request as "just the tip of the iceberg" amid "nearly a dozen" requests, accusing plaintiff of a "coordinated and targeted community effort to pierce a student's confidentiality rights." Introduces the key defense theory: 34 C.F.R. § 99.3's "reasonable belief the requester knows the student's identity" prong. Notes "the student's family has objected." Telegraphs a forthcoming summary judgment motion.
+**BCSD's Response in Opposition** (10/13/2025). Argues case is not ripe for a summary hearing — requires discovery, protective orders, and *in camera* (Latin for "in chambers" — private judge-only review) review. Frames the ORA request as "just the tip of the iceberg" amid "nearly a dozen" requests, accusing plaintiff of a "coordinated and targeted community effort to pierce a student's confidentiality rights." Introduces the key defense theory: 34 C.F.R. § 99.3's "reasonable belief the requester knows the student's identity" prong. Notes "the student's family has objected." Telegraphs a forthcoming summary judgment motion.
 
 #### [Macon_Melody_Reply_and_Exhibits.pdf]({{ site.baseurl }}/pdfs/Macon_Melody_Reply_and_Exhibits.pdf)
 **Plaintiff's Reply** (10/17/2025) with five exhibits. Dismantles BCSD's discovery argument via *Smith v. Northside Hosp.*, 347 Ga. App. 700 (2018) and *Atchison v. Hosp. Auth. of St. Marys*, 245 Ga. 494 (1980) (discovery on ORA requesters barred because right is public, not personal). Adds First Amendment / reporter's shield overlay (O.C.G.A. § 24‑5‑508; *Atlanta J.‑Const. v. Jewell*). Memorably characterizes *in camera* review of a dollar amount as "ridiculous (and would take the Court less than five seconds to complete)." Exhibits 1–3 are the Atlanta Police Foundation ("Cop City") rulings; Ex. 4–5 show a SOS case with a final hearing set 14 days after filing.
@@ -122,7 +125,7 @@ Joint stipulation (8/14/2025) — BCSD waives service; plaintiff extends respons
 ### D. Discovery (Winter 2025 – Spring 2026)
 
 #### [2025.12.29_BCSD_Rule_5.2_COS_1st_RPD_and_RFA_.pdf]({{ site.baseurl }}/pdfs/2025.12.29_BCSD_Rule_5.2_COS_1st_RPD_and_RFA_.pdf)
-USCR 5.2 Certificate of Service — BCSD served **First RFPs + First RFAs** on plaintiff 12/29/2025 at 1:10 p.m. (three minutes after filing the Amended Answer — coordinated). Substantive text not docketed (per Rule 5.2), but the 4/13/2026 Motion to Extend quotes key requests: RFA 8 (admit publication of "Weekly Beat" "stonewalled" column — **Admitted**), RFA 9 (admit Melody has linked JH settlement to Alexander II principal firings — **Denied**), and a parallel request about reporter Corley (**Denied**). The discovery's theme is establishing **identifiability of JH** via what the requester and her sources already know.
+USCR 5.2 Certificate of Service (COS — a one-page document swearing a party served a pleading or discovery request on the other side) — BCSD served **First RFPs + First RFAs** on plaintiff 12/29/2025 at 1:10 p.m. (three minutes after filing the Amended Answer — coordinated). Substantive text not docketed (per Rule 5.2), but the 4/13/2026 Motion to Extend quotes key requests: RFA 8 (admit publication of "Weekly Beat" "stonewalled" column — **Admitted**), RFA 9 (admit Melody has linked JH settlement to Alexander II principal firings — **Denied**), and a parallel request about reporter Corley (**Denied**). The discovery's theme is establishing **identifiability of JH** via what the requester and her sources already know.
 
 #### [280128_COS.pdf]({{ site.baseurl }}/pdfs/280128_COS.pdf)
 Plaintiff's COS (filename reads "280128" but actual date is 1/28/2026). Certifies Plaintiff's responses to BCSD's first RFAs and RFPs. Plaintiff *did* respond to discovery without first seeking a protective order — mild tension with the earlier Reply brief arguing discovery is barred in ORA cases.
@@ -152,12 +155,12 @@ Joint stipulation extending BCSD's response to Partial MSJ to **4/23/2026** — 
 **Notice of Hearing** (first signed 4/2/2026; reissued/re‑signed 4/14/2026). Sets the motions hearing for **4/29/2026 at 2:00 p.m., Courtroom E, before Judge Ken Smith**. Standard "ripe for judgment" boilerplate warning.
 
 #### [c01f6245-8367-4756-ac20-8bfc62eb78e3.pdf]({{ site.baseurl }}/pdfs/c01f6245-8367-4756-ac20-8bfc62eb78e3.pdf)
-**Order Extending Discovery** — signed 4/14/2026 by Judge Smith. Grants BCSD's 4/13/2026 motion; discovery extended through **7/13/2026**. Meaningful BCSD procedural win because it leaves discovery open past the MSJ hearing — a predicate for a Ga. CPA § 9‑11‑56(f) "not ripe" argument.
+**Order Extending Discovery** — signed 4/14/2026 by Judge Smith. Grants BCSD's 4/13/2026 motion; discovery extended through **7/13/2026**. Meaningful BCSD procedural win because it leaves discovery open past the MSJ hearing — a predicate for a Ga. CPA § 9‑11‑56(f) (Georgia Civil Practice Act) "not ripe" argument.
 
 ### F. Research / Retrieval Artifacts (not filings)
 
 #### [re_SearchGA-Georgia_Trust_for_Local_News_d_b_a_The_Macon_Melody_vs._The_Bibb_County_School_District_2025-CV-083495.pdf]({{ site.baseurl }}/pdfs/re_SearchGA-Georgia_Trust_for_Local_News_d_b_a_The_Macon_Melody_vs._The_Bibb_County_School_District_2025-CV-083495.pdf)
-Full Tyler `re:SearchGA` docket printout (28 events) retrieved 4/17/2026 by kerry@kerryhatcher.com. This is the master roadmap that identifies every filing's UUID.
+Full Tyler `re:SearchGA` docket printout (28 events) retrieved 4/17/2026 by kerry@kerryhatcher.com. This is the master roadmap that identifies every filing's UUID (Universally Unique Identifier — a long random string used to label a file).
 
 #### [re_SearchGA-Receipt.pdf]({{ site.baseurl }}/pdfs/re_SearchGA-Receipt.pdf)
 Receipt for 26 documents / 229 pages purchased for **$117.88**. Maps UUID → filename. Indicates the most expensive filings were Plaintiff's Reply to Rule Nisi ($28.00), the Complaint ($19.00), and the MPSJ ($17.50).
@@ -286,9 +289,9 @@ This is not an agency running out the clock through neglect. It is building a pa
 - [Georgia AG — Open Records Act Guide (PDF)](https://law.georgia.gov/document/publication/186385699r1pdf/download)
 - [Georgia AG — Open Government Mediation Program](https://law.georgia.gov/open-government-mediation-program)
 - [Georgia AG — Guide to Access of School Records (PDF)](https://law.georgia.gov/document/document/110054237guide-access-school-records-citizenspdf/download)
-- [GFAF — "Green Book": Georgia Public Schools and the Open Records Act](https://gfaf.org/wp-content/uploads/2018/10/GREEN_BOOK_FINAL.pdf)
+- [GFAF (Georgia First Amendment Foundation) — "Green Book": Georgia Public Schools and the Open Records Act](https://gfaf.org/wp-content/uploads/2018/10/GREEN_BOOK_FINAL.pdf)
 - [GFAF — Judges should protect Open Records rights by awarding fees (June 2025)](https://gfaf.org/2025/06/judges-should-protect-georgians-open-records-rights-by-awarding-legal-fees-to-victorious-plaintiffs/)
-- [RCFP — Open Government Guide: Georgia](https://www.rcfp.org/open-government-guide/georgia/)
+- [RCFP (Reporters Committee for Freedom of the Press) — Open Government Guide: Georgia](https://www.rcfp.org/open-government-guide/georgia/)
 - [SPLC — Commonly Requested FERPA Records](https://splc.org/commonly-requested-ferpa-records/)
 - [ABA Communications Lawyer — Removing FERPA's "Invisibility Cloak" (2022)](https://www.americanbar.org/groups/communications_law/publications/communications_lawyer/2022-winter/removing-ferpas-invisibility-cloak-records-showing-public-employees-behaving-badly/)
 - [US DoE — PII for Education Records](https://studentprivacy.ed.gov/content/personally-identifiable-information-education-records)

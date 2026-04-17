@@ -15,5 +15,5 @@ Start here if you're new to the case. The pages in this section explain the disp
 - **[Case Report]({{ site.baseurl }}/docs/case-report/)** — the long-form narrative of the case.
 - **[Timeline]({{ site.baseurl }}/docs/timeline/)** — every docket event in date order.
 - **[Parties & Counsel]({{ site.baseurl }}/docs/parties/)** — who's who.
-- **[Legal Background]({{ site.baseurl }}/docs/legal-background/)** — the Open Records Act, FERPA, IDEA, and how they interact.
+- **[Legal Background]({{ site.baseurl }}/docs/legal-background/)** — the Open Records Act (ORA), FERPA (the federal law protecting student education records), IDEA (the federal law governing special-education services), and how they interact.
 - **[Glossary]({{ site.baseurl }}/docs/glossary/)** — every legal term defined.

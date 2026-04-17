@@ -14,6 +14,8 @@ This page explains, for non-lawyers, the laws at the heart of *Melody v. BCSD*. 
 
 ## 1. Georgia's Open Records Act (ORA) — O.C.G.A. § 50-18-70 *et seq.*
 
+*(O.C.G.A. = Official Code of Georgia Annotated — Georgia's compiled state statutes. § means "section." *et seq.* is Latin for "and following" — meaning "and the sections after this one.")*
+
 ### What it is
 
 The Open Records Act is Georgia's sunshine law. It creates a **legal right** for any citizen, journalist, or business to inspect and copy the records of state and local government agencies — including school districts, police departments, cities, and counties.
@@ -50,11 +52,11 @@ The word "shall" is important. It's the difference between "may" (discretionary)
 
 ### What it is
 
-FERPA (20 U.S.C. § 1232g) is the main federal law protecting student privacy. It was passed in 1974 because Congress was concerned that schools were sharing student records too freely — with employers, credit bureaus, police, and the public.
+FERPA (20 U.S.C. § 1232g — U.S.C. = United States Code, the federal statute book) is the main federal law protecting student privacy. It was passed in 1974 because Congress was concerned that schools were sharing student records too freely — with employers, credit bureaus, police, and the public.
 
 ### What it actually protects
 
-FERPA protects "**education records**." The statute defines them as records that (a) **directly relate** to a student and (b) are **maintained by an educational agency**. The U.S. Supreme Court has read this narrowly (*Owasso ISD v. Falvo*, 534 U.S. 426 (2002)), and the Georgia Supreme Court has read it even more narrowly (*Red & Black Publ'g Co. v. Bd. of Regents*, 262 Ga. 848 (1993)) — limiting FERPA's scope to records about "academic performance, financial aid, or scholastic probation."
+FERPA protects "**education records**." The statute defines them as records that (a) **directly relate** to a student and (b) are **maintained by an educational agency**. The U.S. Supreme Court has read this narrowly (*Owasso ISD v. Falvo*, 534 U.S. 426 (2002) — case citations read: volume / reporter / page / year, so this is volume 534 of the United States Reports, page 426, decided 2002), and the Georgia Supreme Court has read it even more narrowly (*Red & Black Publ'g Co. v. Bd. of Regents*, 262 Ga. 848 (1993)) — limiting FERPA's scope to records about "academic performance, financial aid, or scholastic probation."
 
 ### What it does NOT protect
 
@@ -65,7 +67,7 @@ FERPA protects "**education records**." The statute defines them as records that
 
 ### The "personally identifiable information" (PII) catch-all
 
-FERPA regulations (34 C.F.R. § 99.3) define PII as:
+FERPA regulations (34 C.F.R. § 99.3 — C.F.R. = Code of Federal Regulations) define PII as:
 
 1. The student's name.
 2. The student's parents' names.
@@ -90,7 +92,7 @@ A **bare dollar amount** — with name, initials, DOB, address, case number, and
 
 ### What it is
 
-IDEA (20 U.S.C. § 1400 *et seq.*) requires public schools to provide a "free appropriate public education" to students with disabilities. It was passed in 1975.
+IDEA (20 U.S.C. § 1400 *et seq.* — *et seq.* is Latin for "and following," meaning "and the sections after this one") requires public schools to provide a "free appropriate public education" to students with disabilities. It was passed in 1975.
 
 ### IDEA's confidentiality provisions
 
@@ -128,6 +130,8 @@ Plaintiff's position is that a settlement dollar figure paid from the district's
 
 ## 6. The case BCSD relies on: *Mullins v. City of Griffin*, 886 F. Supp. 21 (N.D. Ga. 1995)
 
+*(Citation reads: volume 886 of the Federal Supplement — a book of federal trial court decisions — page 21, decided 1995 by the Northern District of Georgia, a federal trial court.)*
+
 ### What *Mullins* actually is
 
 *Mullins* was a **sexual-harassment lawsuit** brought by an adult city employee (Linda Gail Burel Mullins) against the City of Griffin and its police chief. The parties settled the case under a confidentiality order. Thomson Newspapers intervened, arguing the settlement should be disclosed because public funds were used.
@@ -146,7 +150,7 @@ This is significant because of the Open Records Act's fee-shifting rule: if the 
 
 ## 7. Rule Nisi / Show Cause hearings
 
-In Georgia Superior Court, a **Rule Nisi** is an order requiring a party to appear on a specific date and "show cause" why the requested relief should not be granted. It's a way to compress an ordinary lawsuit into a single evidentiary hearing rather than a yearlong case.
+In Georgia Superior Court, a **Rule Nisi** (Latin for "unless" — a show-cause order) is an order requiring a party to appear on a specific date and "show cause" why the requested relief should not be granted. It's a way to compress an ordinary lawsuit into a single evidentiary hearing rather than a yearlong case.
 
 Georgia law specifically contemplates Rule Nisi hearings in Open Records Act cases under O.C.G.A. § 50-18-73. Plaintiff's August 2025 Rule Nisi Motion asked for exactly that kind of fast-track hearing. BCSD opposed it, arguing the case involved disputed facts that required discovery. The court did not set an early hearing.
 
@@ -179,7 +183,7 @@ Why it's relevant here: BCSD's April 2026 Motion to Extend Discovery signals an 
 
 ## Want more?
 
-- **[Georgia First Amendment Foundation — "Green Book"](https://gfaf.org/wp-content/uploads/2018/10/GREEN_BOOK_FINAL.pdf)** — the definitive guide to Georgia Public Schools and the Open Records Act.
-- **[Georgia AG — Open Records Act Guide](https://law.georgia.gov/document/publication/186385699r1pdf/download)** — the state's official plain-language explainer.
-- **[Reporters Committee for Freedom of the Press — Georgia Open Government Guide](https://www.rcfp.org/open-government-guide/georgia/)** — comprehensive reference.
+- **[Georgia First Amendment Foundation (GFAF) — "Green Book"](https://gfaf.org/wp-content/uploads/2018/10/GREEN_BOOK_FINAL.pdf)** — the definitive guide to Georgia Public Schools and the Open Records Act.
+- **[Georgia AG (Attorney General) — Open Records Act Guide](https://law.georgia.gov/document/publication/186385699r1pdf/download)** — the state's official plain-language explainer.
+- **[Reporters Committee for Freedom of the Press (RCFP) — Georgia Open Government Guide](https://www.rcfp.org/open-government-guide/georgia/)** — comprehensive reference.
 - **[US Dept. of Education — FERPA Overview](https://studentprivacy.ed.gov/ferpa)** — the federal primer.

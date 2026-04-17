@@ -12,18 +12,21 @@ doc_type: "Motion to Extend Discovery"
 # BCSD's Motion to Extend Discovery
 
 {: .note }
-> **Filed** 2026-04-13 · **By** Caroline L. Scalf and Bennett D. Bryan (Parker Poe), for Bibb County School District · **Document type** Motion to Extend Discovery
+> **Filed** 2026-04-13 · **By** Caroline L. Scalf ("CLS") and Bennett D. Bryan ("BDB") (Parker Poe), for Bibb County School District ("BCSD") · **Document type** Motion to Extend Discovery
 > **[View the PDF →]({{ site.baseurl }}/pdfs/2026.04.13_BCSD_Motion_to_Extend_Discovery.pdf){: .btn .btn-outline }**
+
+{: .note }
+> **Legal shorthand used on this page:** **BCSD** = Bibb County School District. **FERPA** = Family Educational Rights and Privacy Act (federal student-records law). **PII** = personally identifiable information. **ORA** = Open Records Act. **USCR** = Uniform Superior Court Rules (Georgia Superior Court's procedural rulebook). **RFA** = Request for Admission. **RFP** = Request for Production (of documents). **MSJ** = Motion for Summary Judgment (asking the judge to rule without a trial). **JH** = the minor student at the center of the case. **O.C.G.A. §** = Official Code of Georgia Annotated, section (Georgia's state statutes). **U.S.C. §** = United States Code, section (the federal statute book). **C.F.R.** = Code of Federal Regulations (where federal rules live). **Ga. CPA** = Georgia Civil Practice Act (the state court procedure rules).
 
 ## What is this document?
 
 On the very day the discovery period was scheduled to close — April 13, 2026, at 2:40 PM — Bibb County School District filed this motion asking Judge Ken Smith to extend discovery by roughly ninety days, through July 13, 2026.
 
-The motion argues that BCSD needs more time to do several things it says are essential to its defense: develop the FERPA "requester-knowledge" theory that's been the district's core legal position; depose two Macon Melody reporters, Laura Corley and Casey Choung, and possibly "non-party sources" as well; push back on what BCSD calls deficient amended discovery responses the Melody served on March 19, 2026 (after a USCR 6.4 meet-and-confer the parties held on March 16); and develop the new "indispensable party" defense BCSD added to its Amended Answer on December 29, 2025.
+The motion argues that BCSD needs more time to do several things it says are essential to its defense: develop the FERPA (Family Educational Rights and Privacy Act — the federal student-records law) "requester-knowledge" theory that's been the district's core legal position; depose two Macon Melody reporters, Laura Corley and Casey Choung, and possibly "non-party sources" as well; push back on what BCSD calls deficient amended discovery responses the Melody served on March 19, 2026 (after a USCR 6.4 meet-and-confer — a Uniform Superior Court Rule 6.4 meeting where lawyers are required to try to resolve discovery disputes themselves before asking the judge — the parties held on March 16); and develop the new "indispensable party" defense BCSD added to its Amended Answer on December 29, 2025.
 
-The motion raises — again — the argument that "a student's records are at issue in this litigation, but the student whose privacy rights are at-issue has not been made a party." In a footnote to Paragraph 1, BCSD lays responsibility for some of the delay at the court's own door, noting the judge has not yet ruled on the long-pending Rule Nisi Motion.
+The motion raises — again — the argument that "a student's records are at issue in this litigation, but the student whose privacy rights are at-issue has not been made a party." In a footnote to Paragraph 1, BCSD lays responsibility for some of the delay at the court's own door, noting the judge has not yet ruled on the long-pending Rule Nisi (Latin for "unless" — a court order requiring the other side to show why relief should not be granted) Motion.
 
-One more thing the motion does, more implicitly than explicitly: by naming reporters as deposition targets, it raises the specter of a fight over Georgia's reporter's privilege under O.C.G.A. § 24-5-508. That fight, if it comes, would not just be about this case. It would be about whether a school district can use an Open Records Act lawsuit to force a newspaper's reporters into sworn testimony about their sources.
+One more thing the motion does, more implicitly than explicitly: by naming reporters as deposition targets, it raises the specter of a fight over Georgia's reporter's privilege under O.C.G.A. § 24-5-508 (Official Code of Georgia Annotated, section 24-5-508 — the Georgia reporter's-shield statute). That fight, if it comes, would not just be about this case. It would be about whether a school district can use an Open Records Act lawsuit to force a newspaper's reporters into sworn testimony about their sources.
 
 ## At a glance
 
@@ -38,7 +41,7 @@ One more thing the motion does, more implicitly than explicitly: by naming repor
 
 ### USCR 5.1 and the standard discovery period
 
-Georgia's **Uniform Superior Court Rule 5.1** sets the default discovery period at six months from the date the last defendant answers or appears, whichever is later. Parties can agree to shorter or longer periods, and courts can extend the window on motion.
+Georgia's **Uniform Superior Court Rule 5.1** (USCR 5.1) sets the default discovery period at six months from the date the last defendant answers or appears, whichever is later. Parties can agree to shorter or longer periods, and courts can extend the window on motion.
 
 In this case, the six-month default expired in April 2026 — which is why the April 13 cutoff mattered. BCSD's motion asks the court to reset that clock by an additional ninety days.
 
@@ -58,7 +61,7 @@ Whether a court grants the motion usually turns less on the written record than 
 
 ### The "requester knowledge" FERPA theory — what BCSD is building
 
-FERPA — the federal Family Educational Rights and Privacy Act, 20 U.S.C. § 1232g — bars schools that receive federal funds from releasing "personally identifiable information" from education records without parental consent. The implementing regulation at **34 C.F.R. § 99.3** defines PII to include, among other things, "information requested by a person who the educational agency or institution reasonably believes knows the identity of the student to whom the education record relates."
+FERPA — the federal Family Educational Rights and Privacy Act, 20 U.S.C. § 1232g (Title 20 of the United States Code — the federal statute book — section 1232g) — bars schools that receive federal funds from releasing "personally identifiable information" (PII) from education records without parental consent. The implementing regulation at **34 C.F.R. § 99.3** (Title 34 of the Code of Federal Regulations — where federal rules live — section 99.3) defines PII to include, among other things, "information requested by a person who the educational agency or institution reasonably believes knows the identity of the student to whom the education record relates."
 
 That last clause is the door BCSD is trying to walk through. The district's theory is:
 
@@ -66,7 +69,7 @@ That last clause is the door BCSD is trying to walk through. The district's theo
 2. Given what they know, they — and the public reading their reporting — could identify student JH if even the dollar amount of the settlement were released.
 3. Therefore, under § 99.3's "reasonable belief" prong, the dollar amount is PII as to this particular requester and must be withheld.
 
-To win on that theory, BCSD needs **evidence** of what Melody reporters actually know. That's what the First RFAs (December 29, 2025), the claimed-deficient amended responses (March 19, 2026), the First Continuing Interrogatories (April 3, 2026), and the proposed reporter depositions are all designed to produce. The motion to extend discovery is essentially an argument that the district hasn't yet collected enough of that evidence.
+To win on that theory, BCSD needs **evidence** of what Melody reporters actually know. That's what the First RFAs (Requests for Admission — written fact-admit-or-deny questions, dated December 29, 2025), the claimed-deficient amended responses (March 19, 2026), the First Continuing Interrogatories (written questions the other side must answer under oath, April 3, 2026), and the proposed reporter depositions (sworn out-of-court interviews transcribed by a court reporter) are all designed to produce. The motion to extend discovery is essentially an argument that the district hasn't yet collected enough of that evidence.
 
 ### What deposing reporters means (reporter's shield, O.C.G.A. § 24-5-508)
 
@@ -80,9 +83,9 @@ It's worth noting that the motion frames the reporter depositions matter-of-fact
 
 ### Ga. CPA § 9-11-56(f) — how this sets up a "not ripe" response to plaintiff's MSJ
 
-Georgia's Civil Practice Act, **O.C.G.A. § 9-11-56(f)**, gives a party opposing summary judgment a way to say: "Not yet — I need discovery to respond." The rule lets the nonmoving party file an affidavit explaining what discovery they still need and why. If the court credits the affidavit, it can deny or continue the summary judgment motion until that discovery is completed.
+Georgia's Civil Practice Act (Ga. CPA — the state court procedure rules), **O.C.G.A. § 9-11-56(f)** (section 9-11-56(f)), gives a party opposing summary judgment a way to say: "Not yet — I need discovery to respond." The rule lets the nonmoving party file an affidavit explaining what discovery they still need and why. If the court credits the affidavit, it can deny or continue the summary judgment motion until that discovery is completed.
 
-The Melody has a partial Motion for Summary Judgment pending, with a hearing set for April 29, 2026. At that hearing, expect BCSD to argue — with this newly-granted discovery extension as its centerpiece — that summary judgment is premature. BCSD will point to the July 13, 2026 new cutoff, wave at the depositions and interrogatory responses not yet completed, and ask the court to either deny the MSJ or carry it over until discovery concludes.
+The Melody has a partial Motion for Summary Judgment (MPSJ — a request that the judge decide part of the case in the moving side's favor without a trial) pending, with a hearing set for April 29, 2026. At that hearing, expect BCSD to argue — with this newly-granted discovery extension as its centerpiece — that summary judgment is premature. BCSD will point to the July 13, 2026 new cutoff, wave at the depositions and interrogatory responses not yet completed, and ask the court to either deny the MSJ (Motion for Summary Judgment) or carry it over until discovery concludes.
 
 This is the whole point. Every piece of the discovery sequence — the RFAs in December, the meet-and-confer in March, the interrogatories on April 3, this motion on April 13, the order on April 14 — has been pointed at converting the April 29 MSJ hearing from a merits decision into a "not ripe" argument.
 

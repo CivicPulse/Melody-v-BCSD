@@ -51,9 +51,9 @@ What a COS is **not**: the discovery itself. This filing tells the court the Mel
 
 ### The tension between plaintiff's "no discovery in ORA cases" position and the fact they responded anyway
 
-The Georgia Open Records Act, O.C.G.A. § 50-18-70 et seq., creates a **summary** procedure. When an agency refuses to produce a public record, the requester can sue, and the statute contemplates a quick legal ruling — usually on cross-motions and a paper record — rather than drawn-out factual litigation. The Melody's Reply in support of Rule Nisi argued exactly that: this case is about whether a board-approved settlement dollar figure is a public record, full stop. BCSD's intentions, the requester's subjective knowledge, the identity of sources — none of that should be relevant.
+The Georgia Open Records Act, O.C.G.A. § 50-18-70 et seq. (Official Code of Georgia Annotated, section 50-18-70 "et seq." — Latin for "and following" — meaning that section plus the ones that follow it), creates a **summary** procedure. When an agency refuses to produce a public record, the requester can sue, and the statute contemplates a quick legal ruling — usually on cross-motions and a paper record — rather than drawn-out factual litigation. The Melody's Reply in support of Rule Nisi argued exactly that: this case is about whether a board-approved settlement dollar figure is a public record, full stop. BCSD's intentions, the requester's subjective knowledge, the identity of sources — none of that should be relevant.
 
-And yet, when BCSD served written discovery on December 29, 2025, the Melody didn't move for a protective order under O.C.G.A. § 9-11-26(c). It didn't ask the court to stop the discovery. It answered. On the record. Under oath.
+And yet, when BCSD served written discovery on December 29, 2025, the Melody didn't move for a protective order under O.C.G.A. § 9-11-26(c) (section 9-11-26(c) of Georgia's code — the rule that lets a party ask the court to block or limit abusive discovery). It didn't ask the court to stop the discovery. It answered. On the record. Under oath.
 
 Why? Several plausible reasons, not mutually exclusive:
 
@@ -66,7 +66,7 @@ Why? Several plausible reasons, not mutually exclusive:
 
 By responding without first seeking a protective order, the Melody has effectively **consented to** the discovery process in this case, at least procedurally. That does not waive the underlying argument that the Open Records Act is meant to be summary — the Melody can and should still press that argument at the merits hearing. But it does make it harder to persuade Judge Smith that discovery is improper as a matter of law, because the record shows the plaintiff went along with it.
 
-It also means every answer the Melody gave is now permanently on the record. If the case survives to the Motion for Summary Judgment stage (currently set for April 29, 2026), BCSD will be able to cite those responses back at the newspaper. If the case goes to trial, the responses will bind the Melody's witnesses. The Melody's operational decisions about what to admit, what to deny, and what to object to, made privately between counsel in late January 2026, will shape everything that comes after.
+It also means every answer the Melody gave is now permanently on the record. If the case survives to the Motion for Summary Judgment (MSJ — a request that the judge decide the case without a trial because there is no genuine factual dispute) stage (currently set for April 29, 2026), BCSD will be able to cite those responses back at the newspaper. If the case goes to trial, the responses will bind the Melody's witnesses. The Melody's operational decisions about what to admit, what to deny, and what to object to, made privately between counsel in late January 2026, will shape everything that comes after.
 
 ## Why this matters
 
