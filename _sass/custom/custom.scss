@@ -108,6 +108,57 @@ a:not([class]):hover {
   font-family: Georgia, "Times New Roman", serif;
 }
 
+// Desktop heading scale — push beyond theme defaults for editorial authority.
+// just-the-docs applies !important to heading sizes via bare tag selectors
+// (specificity 0,0,1). Our .main-content h? rules have specificity 0,1,1 and
+// win in the !important layer, so these override the theme without hacks.
+@media (min-width: 50rem) {
+  .main-content {
+    h1 {
+      font-size: 2.75rem !important;
+      line-height: 1.1;
+      letter-spacing: -0.025em;
+    }
+
+    h2 {
+      font-size: 1.625rem !important;
+      letter-spacing: -0.015em;
+    }
+
+    h3 {
+      font-size: 1.2rem !important;
+      letter-spacing: -0.01em;
+    }
+  }
+
+  // Tighter tracking on the .fs-9 homepage hero — newspaper nameplate feel.
+  .main-content .fs-9 {
+    letter-spacing: -0.03em !important;
+    line-height: 1.05 !important;
+  }
+}
+
+// Blockquotes: replace near-invisible gray left rule (#eeebee) with gold.
+// Scoped to non-callout blockquotes — quoted text and pullquotes only.
+.main-content blockquote:not(.warning):not(.note):not(.tip):not(.key):not([class$="-title"]) {
+  border-left: 4px solid var(--gold) !important;
+  font-style: italic;
+}
+
+// .key callout — court dateline treatment.
+// Replaces generic amber (#e7af06) with brand gold; thicker left rule.
+// The border shorthand sets all four sides first; border-left overrides the left.
+blockquote.key {
+  border: 1px solid color-mix(in srgb, var(--gold) 35%, transparent) !important;
+  border-left: 5px solid var(--gold) !important;
+  background-color: color-mix(in srgb, var(--gold) 8%, white) !important;
+
+  &::before {
+    color: var(--navy) !important;
+    letter-spacing: 0.06em;
+  }
+}
+
 // h2 section rule — thin gold border-bottom as an editorial section break.
 .main-content h2 {
   padding-bottom: 0.3em;
