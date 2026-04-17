@@ -1,49 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
 
-  <!-- Background: deep court-navy, keeps headline legible on light+dark chat clients -->
+  <!-- Background -->
   <rect width="1200" height="630" fill="#0b1c3d"/>
 
-  <!-- Subtle left-edge rule for a "document" feel — terminates at footer strip -->
-  <rect x="72" y="72" width="4" height="486" fill="#c9a23a"/>
+  <!-- Gold left-edge rule -->
+  <rect x="72" y="72" width="4" height="520" fill="#c9a23a"/>
 
   <!-- Eyebrow: docket label -->
-  <text x="104" y="132"
+  <text x="104" y="148"
         font-family="Georgia, 'Times New Roman', serif"
-        font-size="24" letter-spacing="4"
+        font-size="28" letter-spacing="3"
         fill="#c9a23a">
     CIVIL ACTION NO. 2025-CV-083495 &#xB7; BIBB COUNTY SUPERIOR COURT
   </text>
 
-  <!-- Case name: primary headline -->
-  <text x="104" y="228"
+  <!-- Primary headline -->
+  <text x="104" y="292"
         font-family="Georgia, 'Times New Roman', serif"
-        font-weight="700" font-size="76"
+        font-weight="700" font-size="92"
         fill="#ffffff">
     The Macon Melody
   </text>
-  <text x="104" y="312"
+
+  <!-- Defendant -->
+  <text x="104" y="390"
         font-family="Georgia, 'Times New Roman', serif"
-        font-style="italic" font-size="52"
+        font-style="italic" font-size="58"
         fill="#ffffff">
     v. Bibb County School District
   </text>
 
-  <!-- Tagline: the hook people read in chat previews -->
-  <text x="104" y="400"
+  <!-- Tagline -->
+  <text x="104" y="510"
         font-family="Georgia, 'Times New Roman', serif"
-        font-size="34"
+        font-size="36"
         fill="#ffffff">
     Public money. Public settlement. Public right to know?
-  </text>
-
-  <!-- Footer strip: source attribution -->
-  <rect x="0" y="558" width="1200" height="72" fill="#081630"/>
-  <text x="104" y="602"
-        font-family="Georgia, 'Times New Roman', serif"
-        font-size="22" letter-spacing="2"
-        fill="#c9a23a">
-    CIVICPULSE &#xB7; 2025-CV-083495 &#xB7; ANNOTATED FILINGS
   </text>
 
 </svg>
