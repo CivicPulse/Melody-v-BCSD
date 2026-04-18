@@ -16,6 +16,7 @@ A citizen's guide to Georgia's latest high-profile **Open Records Act** case —
 {: .fs-5 .fw-300 }
 
 [Read the Case Report]({{ site.baseurl }}/docs/case-report/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Background: How We Got Here]({{ site.baseurl }}/docs/background/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Browse Court Filings]({{ site.baseurl }}/filings/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View on GitHub](https://github.com/CivicPulse/Melody-v-BCSD){: .btn .btn-outline .fs-4 .mb-4 .mb-md-0 }
 
@@ -54,12 +55,14 @@ The plaintiff's **Motion for Partial Summary Judgment**, filed March 10, 2026, i
 | Section | What you'll find |
 |---------|------------------|
 | **[Case Report]({{ site.baseurl }}/docs/case-report/)** | The long-form narrative: how the case started, each side's legal theory, the strategic read, and a predicted outcome. Start here. |
+| **[Background]({{ site.baseurl }}/docs/background/)** | The ~14-month pre-lawsuit record — the two Attorney General mediation letters, the GA Department of Education response, and the parallel Open Records Requests that preceded the complaint. |
 | **[Timeline]({{ site.baseurl }}/docs/timeline/)** | Every filing and court event in date order, from the August 2025 complaint through the April 29, 2026 hearing. |
 | **[Parties & Counsel]({{ site.baseurl }}/docs/parties/)** | Full roster — attorneys, firms, client representatives, and the judge. |
 | **[Legal Background]({{ site.baseurl }}/docs/legal-background/)** | Plain-English explainers for the Open Records Act, FERPA, and IDEA — how each law works and how they interact in this case. |
 | **[Glossary]({{ site.baseurl }}/docs/glossary/)** | Every legal term of art defined in plain English. If a term on another page confuses you, start here. |
 | **[References]({{ site.baseurl }}/docs/references/)** | Every statute, regulation, and case cited on this site, with links to full text on Justia and eCFR. |
-| **[Court Filings]({{ site.baseurl }}/filings/)** | All 25 documents, each with a plain-English summary and link to the original PDF. Browse chronologically or by category (pleadings, discovery, MSJ, and more). |
+| **[Documents]({{ site.baseurl }}/documents/)** | Pre-litigation primary sources — the Attorney General letters, the GA DOE response letter, BCSD's denial letter to a parallel civic-parent requester, the Parker Poe ORR cost schedule, and the parallel Open Records Requests from March 2025. |
+| **[Court Filings]({{ site.baseurl }}/filings/)** | All 25 court filings, each with a plain-English summary and link to the original PDF. Browse chronologically or by category (pleadings, discovery, MSJ, and more). |
 
 ---
 

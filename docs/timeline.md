@@ -15,28 +15,28 @@ A chronological record of every significant event in *Melody v. (versus) BCSD* (
 
 ## Pre-litigation
 
+For a plain-English narrative of the pre-litigation record, see the [Background]({{ site.baseurl }}/docs/background/) page. The primary-source documents referenced below are archived in the [Pre-Litigation Record]({{ site.baseurl }}/documents/pre-litigation/) section.
+
 | Date | Event |
 |------|------|
 | **2024-07-18** | Bibb County Board of Education unanimously approves a settlement involving Student JH — "off-camera, and at the tail end of a regular board meeting." The dollar amount is never publicly disclosed. ([Macon Melody, Aug 12 2025](https://maconmelody.com/macon-melody-sues-bibb-county-school-board-for-settlement-expense/); [Hatcher, Mar 29 2025](https://www.kerryhatcher.com/delayed-but-determined/)) |
-| **early 2025** (exact date not specified in the pleadings) | Reporter [**Laura Corley**](https://maconmelody.com/author/laura-corley/) submits an earlier, broader Open Records Request to Bibb County School District (BCSD) concerning the July 18, 2024 board-approved settlement. BCSD denies, citing *Mullins v. City of Griffin*. Corley files a complaint with the Georgia Attorney General's (AG) Open Government Mediation Program. (Complaint ¶¶ 23–27.) |
-| **2025-04-24** | **Georgia Attorney General's Office issues an informal opinion** to Corley and BCSD's pre-litigation counsel (Andrew Davidson of Jones Cork LLP) rejecting BCSD's reliance on *Mullins v. City of Griffin*, 886 F. Supp. 21 (N.D. Ga. 1995) (citation = volume 886 of the Federal Supplement — a book of federal trial court decisions — page 21, decided 1995 in the Northern District of Georgia, a federal trial court). The AG tells BCSD the case does not support non-disclosure. (Complaint Ex. F.) |
+| **2024-07-29** | Reporter [**Laura Corley**](https://maconmelody.com/author/laura-corley/) files her first Open Records Request to BCSD concerning the July 18, 2024 board-approved settlement. |
+| **2024-10-25** | **[AG Letter A — Opening]({{ site.baseurl }}/documents/pre-litigation/ag-letter-opening/).** Senior Assistant AG Kristen Settlemire opens the Open Government Mediation Program dispute between Corley and BCSD. The letter is addressed to Andrew Davidson at Jones Cork, LLP (BCSD's then-general counsel) and cites *Mullins v. City of Griffin*, 886 F. Supp. 21 (N.D. Ga. 1995) as authority for disclosure of settlement agreements. |
+| **2025-01-03** | Jones Cork LLP formally terminates its BCSD representation. |
+| **2025-01-16** | BCSD board approves Parker Poe Adams & Bernstein LLP as **interim general counsel** (7–1 vote). Board President James Freeman states on the record that the earlier executive-session discussion of "Pending Litigation" was held without legal counsel present. |
+| **2025-02-28** | Two Alexander II Magnet School teachers file an Open Records Request for personnel records on three of their own BCSD colleagues. |
+| **2025-03-05** | Parker Poe partner Sherry H. Culves responds to the teacher ORR with a $1,590 / 40-hour cost estimate — the earliest confirmed Parker Poe ORA touchpoint in the record (see [Parker Poe ORR Cost Schedule]({{ site.baseurl }}/documents/pre-litigation/orr-cost-schedule/)). |
+| **2025-03-11 – 15** | Bibb County parent **Kerry Hatcher** files three Open Records Requests running in parallel with Corley's journalism track: the [JH Settlement ORR (3/11)]({{ site.baseurl }}/documents/orr/hatcher-jh-settlement/), LEO Calls for Service (3/12), and 1st Grade Disruptions (3/15) — see [Collateral ORRs]({{ site.baseurl }}/documents/orr/hatcher-collateral/). |
+| **2025-03-14** | **[BCSD Denial Letter to Hatcher]({{ site.baseurl }}/documents/pre-litigation/bcsd-denial-hatcher/).** Culves issues a full FERPA-based denial of Hatcher's JH Settlement ORR, deploying the 34 C.F.R. § 99.3 "requester-knowledge" theory in writing and confirming that "the recording publicly available on YouTube is the only available recording" of the 7/18/24 meeting. |
+| **2025-03-20** | Parker Poe issues cost estimates on Hatcher's LEO Calls and 1st Grade Disruptions ORRs ($459.42 and $153.83 respectively). Same day, the BCSD board meets and approves lateral personnel transfers; Hatcher speaks in public comment. |
+| **2025-03-28** | BCSD misses its own promised deadline to produce the requested settlement records. |
+| **2025-04-10** | Parker Poe emails Hatcher: district "unable to produce documents" pending review of "federal student privacy protections." |
+| **2025-04-14** | **[GA DOE Response Letter]({{ site.baseurl }}/documents/pre-litigation/doe-response/).** Georgia Department of Education Chief Legal Officer Stacey Suber-Drake declines state intervention in a separate parent-driven escalation and redirects those parents to the AG Open Government Mediation Program. |
+| **~2025-04-16** | Hatcher files his own intake with the AG Open Government Mediation Program. |
+| **2025-04-24** | **[AG Letter B — Close-Out]({{ site.baseurl }}/documents/pre-litigation/ag-letter-closeout/)** (Complaint Exhibit F). Settlemire closes the Corley mediation at impasse, stating that *Mullins v. City of Griffin*, 886 F. Supp. 21 (N.D. Ga. 1995) does not support BCSD's non-disclosure position, and points the parties to [O.C.G.A. § 50-18-73(a)](https://law.justia.com/codes/georgia/2024/title-50/chapter-18/article-4/section-50-18-73/) private enforcement. |
 | **2025-06-02** | Corley submits a narrower, follow-up Open Records Request asking for *just* the dollar amounts of 2024 settlements. |
 | **2025-06-05** | BCSD formally denies through Chief Communications Officer **Stephanie Hartley**, citing FERPA (Family Educational Rights and Privacy Act) and IDEA (Individuals with Disabilities Education Act), and voluntarily discloses the student's initials ("JH") in its denial letter. |
-
-{: .note }
-> **A separate, parallel records dispute ran on a different track.** Kerry Hatcher — the builder of this site, a Bibb parent, and a 2026 Board of Education candidate — filed his own Open Records Requests with BCSD during early 2025 seeking **the same settlement records** as well as **Alexander II Magnet School safety and policing records**. Hatcher separately complained to the AG's Open Government Mediation Program around the same time as Corley. The dated entries below document that parallel track; Hatcher's blog posts are the primary sources.
-
-### Parallel records dispute — Hatcher's ORA requests
-
-| Date | Event | Source |
-|------|-------|--------|
-| **2025-03-14** | BCSD confirms charges for Hatcher's Open Records Request seeking settlement records (settlement parties and terms, BOE meeting recording, accounting ledger, date of notice of intent to sue). | [Still Waiting…](https://www.kerryhatcher.com/still-waiting-a-transparency-update-from-bibb-county-schools-and-the-state-superintendent/) |
-| **2025-03-20** | Bibb County School Board meeting; Hatcher speaks publicly and submits three additional ORA requests (United Way emails, police calls for service, first-grade disruption emails). | [A Successful Beginning](https://www.kerryhatcher.com/a-successful-beginning-not-an-end/) |
-| **2025-03-28** | BCSD misses its own promised deadline to produce the requested settlement records. | [Delayed but Determined](https://www.kerryhatcher.com/delayed-but-determined/) · [Still Waiting…](https://www.kerryhatcher.com/still-waiting-a-transparency-update-from-bibb-county-schools-and-the-state-superintendent/) |
-| **2025-04-10** | BCSD attorney emails Hatcher: district "unable to produce documents" pending review of "federal student privacy protections." | [Still Waiting…](https://www.kerryhatcher.com/still-waiting-a-transparency-update-from-bibb-county-schools-and-the-state-superintendent/) |
-| **2025-04-14** | State Superintendent's Chief Legal Officer responds: "The allegations are outside the purview of the State School Superintendent." | [Still Waiting…](https://www.kerryhatcher.com/still-waiting-a-transparency-update-from-bibb-county-schools-and-the-state-superintendent/) |
-| **~2025-04-16** | Hatcher files a formal request with the Georgia AG's Open Government Mediation Program. | [Still Waiting…](https://www.kerryhatcher.com/still-waiting-a-transparency-update-from-bibb-county-schools-and-the-state-superintendent/) |
-| **by 2025-05-14** | AG's Mediation Program concludes BCSD's position "isn't supported by Georgia law" and encourages enforcement in Superior Court. | [The Road Ahead](https://www.kerryhatcher.com/the-road-ahead-2/) |
+| **2025-06-18** | BCSD board ratifies the Parker Poe engagement through competitive procurement (RFP 25-029) — a formalization of the interim engagement that had been in place since January 16, 2025. |
 
 ## The lawsuit begins (August – October 2025)
 

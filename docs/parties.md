@@ -56,6 +56,32 @@ A public school district serving Macon-Bibb County, Georgia. BCSD is an "agency"
 {: .note }
 > **"BDB", "CLS", and "MM" in filenames:** Defense attorneys typically use their initials to name files. "BDB" = Bennett D. Bryan; "CLS" = Caroline L. Scalf. The "MM" prefix on two plaintiff filenames (`260107_MM_Notice_of_Appearance.pdf`, `260108_Substitution_MM_w_exhibit.pdf`) stands for **"Macon Melody"** — the plaintiff, not an attorney.
 
+### Pre-litigation ORR counsel (Parker Poe)
+
+BCSD's response to the Open Records Requests that preceded this litigation was handled by a different Parker Poe team than the Bryan/Scalf litigation pair:
+
+| Attorney | Firm | Role in the record |
+|----------|------|-------------------|
+| **Sherry H. Culves** (Partner) | Parker Poe Adams & Bernstein LLP (Atlanta) | Signed BCSD's [March 14, 2025 denial letter]({{ site.baseurl }}/documents/pre-litigation/bcsd-denial-hatcher/) to Kerry Hatcher's JH-settlement ORR and the [parallel ORR cost estimates]({{ site.baseurl }}/documents/pre-litigation/orr-cost-schedule/) issued to Hatcher and two Alex II teachers in early 2025. |
+| **Lexi Trumble** (Associate) | Parker Poe Adams & Bernstein LLP (Atlanta) | Point of contact on BCSD ORR follow-up after the initial Culves denial. |
+
+### Former general counsel (BCSD)
+
+| Attorney | Firm | Dates |
+|----------|------|-------|
+| **Andrew Davidson, Esq.** | Jones Cork, LLP (Macon) | BCSD general counsel through January 3, 2025 (firm termination date). Named recipient of both [AG Letter A]({{ site.baseurl }}/documents/pre-litigation/ag-letter-opening/) (Oct. 25, 2024) and [AG Letter B]({{ site.baseurl }}/documents/pre-litigation/ag-letter-closeout/) (Apr. 24, 2025) — the AG's office appears to have continued using Davidson as the contact of record even after Jones Cork's termination. |
+
+---
+
+## State-level actors in the pre-litigation record
+
+These officials do not appear in the court docket — they are named on the two Georgia Attorney General mediation letters and the Georgia Department of Education response that are now archived under [Pre-Litigation Record]({{ site.baseurl }}/documents/pre-litigation/).
+
+| Official | Office | Role |
+|----------|--------|------|
+| **Kristen Settlemire** | Senior Assistant Attorney General, Georgia Department of Law | Authored both [AG Letter A]({{ site.baseurl }}/documents/pre-litigation/ag-letter-opening/) (opening, Oct. 25, 2024) and [AG Letter B]({{ site.baseurl }}/documents/pre-litigation/ag-letter-closeout/) (close-out, Apr. 24, 2025) in the Corley Open Government Mediation Program file. The close-out letter is Complaint Exhibit F. |
+| **Stacey Suber-Drake** | Chief Legal Officer, Georgia Department of Education | Signed the April 14, 2025 [GA DOE Response Letter]({{ site.baseurl }}/documents/pre-litigation/doe-response/) declining state intervention and redirecting parent-petitioners to the AG Open Government Mediation Program. |
+
 ---
 
 ## The Court

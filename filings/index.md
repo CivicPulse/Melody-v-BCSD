@@ -16,6 +16,9 @@ Every document filed in *Melody v. BCSD* (2025-CV-083495) has its own page here.
 4. **Why it matters** — the strategic significance.
 5. **A link to the original PDF.**
 
+{: .note }
+> **Looking for pre-lawsuit records?** Primary-source documents from the ~14-month Open Records / AG mediation / state-agency track that preceded this complaint — the two Georgia Attorney General letters, the Georgia DOE response, BCSD's denial letter to a parallel civic-parent requester, and the Parker Poe ORR cost schedule — are under [Documents → Pre-Litigation Record]({{ site.baseurl }}/documents/pre-litigation/). A plain-English narrative of how they fit together is on the [Background]({{ site.baseurl }}/docs/background/) page.
+
 ## Filings by category
 
 ### Pleadings & Answers

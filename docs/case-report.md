@@ -17,6 +17,9 @@ Report prepared 2026‑04‑17.
 
 ---
 
+{: .note }
+> **New reader?** Read the [Background]({{ site.baseurl }}/docs/background/) page first — a documentary reconstruction of the ~14-month pre-lawsuit record (the two Georgia Attorney General mediation letters, the GA Department of Education response, the parallel Open Records Requests, and BCSD's § 99.3 "requester-knowledge" FERPA theory in writing). The narrative below picks up at the August 2025 complaint and moves forward from there. Primary-source documents from the pre-lawsuit track are archived under [Documents → Pre-Litigation Record]({{ site.baseurl }}/documents/pre-litigation/).
+
 ## TL;DR — Status Summary
 
 A local Macon newspaper, [**The Macon Melody**](https://maconmelody.com/) (operating as Georgia Trust for Local News, LLC), sued **Bibb County School District (BCSD)** on **August 4, 2025** under Georgia's Open Records Act ([O.C.G.A. § 50‑18‑70](https://law.justia.com/codes/georgia/2024/title-50/chapter-18/article-4/section-50-18-70/) *et seq.*) after BCSD refused to disclose **the dollar amount of a single 2024 board‑approved settlement** (involving minor student "JH"). BCSD claims the dollar figure is a FERPA/IDEA‑protected "education record" because the requester allegedly can identify the student.

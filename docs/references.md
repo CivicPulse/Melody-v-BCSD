@@ -141,6 +141,23 @@ All USCR rules below are sections of a single PDF; the Link column points to the
 
 ---
 
+## Pre-Litigation Primary Sources
+
+Documents in the Open Records / AG mediation / state-agency track that preceded the *Melody v. BCSD* complaint. Each links to a dedicated site page with the PDF and plain-English context. See the [Background]({{ site.baseurl }}/docs/background/) page for the narrative.
+
+| Document | Date | Author | Link |
+|----------|------|--------|------|
+| AG Letter A — Opening | 2024-10-25 | Senior Asst AG Kristen Settlemire | [Page]({{ site.baseurl }}/documents/pre-litigation/ag-letter-opening/) · [PDF]({{ site.baseurl }}/pdfs/20241025_AG_Letter_Opening_Corley.pdf) |
+| BCSD Response to Alex II Teacher ORR | 2025-03-05 | Sherry H. Culves (Parker Poe) | [Page]({{ site.baseurl }}/documents/pre-litigation/orr-cost-schedule/) · [PDF]({{ site.baseurl }}/pdfs/20250305_BCSD_Response_Alex_II_Teachers_ORR.pdf) |
+| Hatcher JH Settlement ORR | 2025-03-11 | Kerry Hatcher | [Page]({{ site.baseurl }}/documents/orr/hatcher-jh-settlement/) · [PDF]({{ site.baseurl }}/pdfs/20250311_Hatcher_ORR_JH_Settlement.pdf) |
+| BCSD Denial Letter to Hatcher | 2025-03-14 | Sherry H. Culves (Parker Poe) | [Page]({{ site.baseurl }}/documents/pre-litigation/bcsd-denial-hatcher/) · [PDF]({{ site.baseurl }}/pdfs/20250314_BCSD_Denial_Hatcher_JH.pdf) |
+| Parker Poe Response — LEO Calls for Service | 2025-03-20 | Sherry H. Culves (Parker Poe) | [Page]({{ site.baseurl }}/documents/pre-litigation/orr-cost-schedule/) · [PDF]({{ site.baseurl }}/pdfs/20250320_PP_Response_LEO_Calls.pdf) |
+| Parker Poe Response — 1st Grade Disruptions | 2025-03-20 | Sherry H. Culves (Parker Poe) | [Page]({{ site.baseurl }}/documents/pre-litigation/orr-cost-schedule/) · [PDF]({{ site.baseurl }}/pdfs/20250320_PP_Response_1st_Grade.pdf) |
+| GA DOE Response Letter | 2025-04-14 | Stacey Suber-Drake (GA DOE) | [Page]({{ site.baseurl }}/documents/pre-litigation/doe-response/) · [PDF]({{ site.baseurl }}/pdfs/20250414_GADOE_Response_Alex_II_Parents.pdf) |
+| AG Letter B — Close-Out | 2025-04-24 | Senior Asst AG Kristen Settlemire | [Page]({{ site.baseurl }}/documents/pre-litigation/ag-letter-closeout/) · [PDF]({{ site.baseurl }}/pdfs/20250424_AG_Letter_Closeout_Corley.pdf) |
+
+---
+
 ## Secondary Sources & Government Resources
 
 | Source | Link | Pages |

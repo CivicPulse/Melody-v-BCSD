@@ -14,6 +14,8 @@ Every legal term of art that appears in the *Melody v. BCSD* filings, defined fo
 
 **Affirmative Defense** — A reason why the defendant should win even if everything the plaintiff says is true. Example: "Yes, we denied the records request, but FERPA required us to." The defendant bears the burden of proving the defense.
 
+**AG Open Government Mediation Program** — An informal dispute-resolution program run by the Georgia Attorney General's Office for Open Records Act and Open Meetings Act disagreements. A requester complains; the AG opens a file, asks the agency to defend its position, and issues informal opinions (not binding rulings). If the mediation reaches impasse, the AG points the parties to [O.C.G.A. § 50-18-73(a)](https://law.justia.com/codes/georgia/2024/title-50/chapter-18/article-4/section-50-18-73/) private enforcement in superior court. The [program website is here](https://law.georgia.gov/open-government-mediation-program). See also [AG Letter A]({{ site.baseurl }}/documents/pre-litigation/ag-letter-opening/) and [AG Letter B]({{ site.baseurl }}/documents/pre-litigation/ag-letter-closeout/).
+
 **Agency (under the Open Records Act)** — Any Georgia state or local government body, including school districts, counties, cities, police departments, and their boards. An agency is a "custodian" of public records.
 
 ## B
@@ -72,6 +74,8 @@ Every legal term of art that appears in the *Melody v. BCSD* filings, defined fo
 
 ## M
 
+***Mullins v. City of Griffin*** — 886 F. Supp. 21 (N.D. Ga. 1995) ([Justia](https://law.justia.com/cases/federal/district-courts/FSupp/886/21/1797050/)). A 1995 federal trial-court decision from the Northern District of Georgia. The case involved an adult city employee's sexual-harassment settlement and held that a newspaper could intervene to strike a confidentiality order over public-agency settlement funds. BCSD has cited *Mullins* pre-suit as authority for non-disclosure of the JH settlement; the Georgia Attorney General's office read the case in the other direction in both [AG Letter A]({{ site.baseurl }}/documents/pre-litigation/ag-letter-opening/) and [AG Letter B]({{ site.baseurl }}/documents/pre-litigation/ag-letter-closeout/). Letter B explicitly states the case "does not appear" to support BCSD's non-disclosure position.
+
 **Motion** — A written request for the court to do something — extend a deadline, rule on an issue, strike a defense, dismiss a claim, etc.
 
 **Motion for Summary Judgment (MSJ)** — A motion asking the court to decide the case (or a claim or defense) without a trial, on the ground that the law — not the disputed facts — determines the outcome. See [Legal Background]({{ site.baseurl }}/docs/legal-background/).
@@ -94,6 +98,8 @@ Every legal term of art that appears in the *Melody v. BCSD* filings, defined fo
 
 **Open Meetings Act** — Georgia's companion law for public-body meetings, codified at [O.C.G.A. § 50-14-1](https://law.justia.com/codes/georgia/2024/title-50/chapter-14/article-1/section-50-14-1/) *et seq.*.
 
+**Open Meetings Act — Settlement Disclosure, [O.C.G.A. § 50-14-3(b)](https://law.justia.com/codes/georgia/2024/title-50/chapter-14/article-1/section-50-14-3/)** — The Open Meetings Act provision requiring public-session disclosure of "the parties to, and principal terms of, any settlement agreement" approved by a public body. BCSD has taken the position (in its [March 14, 2025 denial letter to Hatcher]({{ site.baseurl }}/documents/pre-litigation/bcsd-denial-hatcher/)) that this state provision is in conflict with FERPA and "must yield to federal law."
+
 ## P
 
 **Partial Summary Judgment** — Summary judgment on some but not all of the case. Doesn't end the lawsuit; narrows what's left to decide.
@@ -113,6 +119,10 @@ Every legal term of art that appears in the *Melody v. BCSD* filings, defined fo
 **Ga. App. / Ga. / F. Supp. (citation reporters)** — Case citations follow the pattern *volume / reporter / page / year*. "Ga." is the Georgia Supreme Court reporter; "Ga. App." is the Georgia Court of Appeals reporter; "F. Supp." is the Federal Supplement (federal trial court decisions); "U.S." is the United States Reports (U.S. Supreme Court). Example: *Red & Black*, 262 Ga. 848 (1993) = volume 262 of the Georgia Reports, page 848, decided 1993.
 
 **Redaction** — Blacking-out or removing specific information from a document before production. FERPA itself contemplates redaction as a way to release records that contain both public and private information ([34 C.F.R. § 99.31(b)(1)](https://www.ecfr.gov/current/title-34/section-99.31)).
+
+***Red & Black Publ'g v. Bd. of Regents*** — 262 Ga. 848 (1993) ([Justia](https://law.justia.com/cases/georgia/supreme-court/1993/s92a1111-1.html)). Georgia Supreme Court decision reading FERPA's definition of "education record" narrowly. The plaintiff's [Motion for Partial Summary Judgment]({{ site.baseurl }}/filings/msj/) cites the case as binding Georgia precedent that a record must pertain to "academic performance, financial aid, or scholastic probation" to qualify as a FERPA education record — a reading that excludes a settlement dollar figure. See also [Case Report]({{ site.baseurl }}/docs/case-report/).
+
+**Requester-Knowledge Theory (34 C.F.R. § 99.3 "linked or linkable" prong)** — BCSD's FERPA argument that a record does not need to identify a student on its face to count as personally identifiable information, if the requester's own prior knowledge of the school community makes the student identifiable from the record. The theory is deployed in writing in BCSD's [March 14, 2025 denial letter]({{ site.baseurl }}/documents/pre-litigation/bcsd-denial-hatcher/) and is the target of the plaintiff's Motion for Partial Summary Judgment.
 
 **Reply** — The moving party's response to the opposing party's Response/Opposition.
 
