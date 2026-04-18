@@ -27,9 +27,9 @@ Every event below links to the underlying document. Where a document is not yet 
 
 ## 1. The July 18, 2024 board meeting
 
-On **July 18, 2024**, the Bibb County Board of Education held a regular meeting. Late in the evening session, with the YouTube livestream still running, the board approved an agenda item titled **"Settlement for Student JH (ACTION)."** The motion was made by Dr. Juawn Jackson and seconded by Dr. Sundra Woodford. The vote was **8–0** unanimous. The board's own minutes name the student only by the initials "JH"; no dollar figure was read aloud or entered into the minutes.
+On **July 18, 2024**, the Bibb County Board of Education held a regular meeting. Late in the evening session, the board approved an agenda item titled **"Settlement for Student JH (ACTION)."** Dr. Juawn Jackson made the motion; Dr. Sundra Woodford seconded. The vote was **8–0** unanimous. The board's own minutes name the student only by the initials "JH." No dollar figure appears in the minutes.
 
-The same meeting's consent agenda included **FSS-2 FY 2025 Attorney Fees** — a $720,000 allocation with outside counsel Jones Cork LLP, split into $220,000 for routine legal work and a **$500,000 "extraordinary legal services" blanket** sized well above ordinary operating needs. Both items appear in the same set of public minutes.
+The same meeting's consent agenda included **FSS-2 FY 2025 Attorney Fees** — a $720,000 allocation with outside counsel Jones Cork LLP, split into $220,000 for routine legal work and a **$500,000 "extraordinary legal services" blanket**. Both items appear in the same set of public minutes.
 
 The publicly available YouTube recording of the meeting ends before the JH vote. BCSD has subsequently confirmed in writing (see § 4 below) that **no other recording of the meeting exists**.
 
@@ -59,7 +59,11 @@ BCSD's ORA file did not stay with Jones Cork for long.
 
 On **January 3, 2025**, Jones Cork formally terminated its legal-services relationship with BCSD. No public statement accompanied the termination. The next regularly scheduled board meeting was thirteen days later.
 
-At the committee meeting on **January 16, 2025**, the board entered executive session at 5:32 p.m. with **"Pending Litigation"** among the stated subjects and returned at 6:01 p.m. — a twenty-nine-minute session conducted with no attorney present. At the evening board meeting that followed, BCSD's Deputy Superintendent Dr. Katika Lovett presented a memo recommending **Parker Poe Adams & Bernstein LLP** as **interim general counsel**. The board approved the recommendation 7–1, with Dr. Henry Ficklin dissenting on "Atlanta versus Macon" procurement grounds. Board President James Freeman — speaking in his final meeting in that role, and himself an attorney — stated on the record that BCSD had been left without legal representation that evening and that new board members had been "robbed of the opportunity" to hear legal counsel during the earlier executive session.
+At the committee meeting on **January 16, 2025**, the board entered executive session at 5:32 p.m. with **"Pending Litigation"** among the stated subjects and returned at 6:01 p.m. — a twenty-nine-minute session conducted with no attorney present.
+
+At the evening board meeting that followed, BCSD's Deputy Superintendent Dr. Katika Lovett presented a memo recommending **Parker Poe Adams & Bernstein LLP** as **interim general counsel**. The board approved the recommendation 7–1, with Dr. Henry Ficklin dissenting on "Atlanta versus Macon" procurement grounds.
+
+Board President **James Freeman** — himself an attorney, and presiding over his final meeting as Board President — then spoke on the record. In his own words, BCSD had been left without legal representation that evening, and new board members had been "robbed of the opportunity" to hear legal counsel during the earlier executive session.
 
 The January 16, 2025 meeting minutes record the procurement action and the 7–1 vote. Board President Freeman's contemporaneous on-the-record remarks are captured in BCSD's own posted YouTube recording of the meeting (YouTube ID: `GvB9BcJbbls`); the minutes themselves do not transcribe his statements.
 
@@ -83,7 +87,7 @@ In a fourteen-day window between late February and mid-March 2025, BCSD — thro
 - **LEO Calls for Service** at Alexander II (filed March 12, 2025; $459.42 / 10-hour cost estimate);
 - **1st Grade Disruptions** emails (filed March 15, 2025; $153.83 / 4-hour cost estimate).
 
-The March 14, 2025 denial letter is the single most consequential pre-lawsuit document in the record. It deploys the 34 C.F.R. § 99.3 "linked or linkable" personally-identifiable-information theory against Hatcher in writing — citing his status as an Alex II parent and his own advocacy website as the basis for BCSD's belief that the requester "knows the identity" of JH. The letter also contains BCSD's position that O.C.G.A. § 50-14-3 (the Open Meetings Act's settlement-disclosure provision) "must yield to federal law," and BCSD's factual admission that the YouTube recording "is the only available recording" of the July 18, 2024 meeting.
+The March 14, 2025 denial letter is central to the pre-lawsuit record for three reasons. First, it deploys the 34 C.F.R. § 99.3 "reasonable belief the requester knows the student's identity" prong of FERPA's personally-identifiable-information definition against Hatcher in writing — citing his status as an Alex II parent and his own advocacy website as the basis for BCSD's belief. Second, it contains BCSD's position that O.C.G.A. § 50-14-3(b)(1) (the Open Meetings Act's settlement-disclosure provision) "must yield to federal law." Third, it contains BCSD's factual admission that the YouTube recording "is the only available recording" of the July 18, 2024 meeting.
 
 **Track 3 — Journalist (continuing).** Corley's October 2024 AG mediation remained open through this period. A second Corley ORR — narrower, asking only for 2024 settlement *dollar amounts* — would follow on June 2, 2025.
 

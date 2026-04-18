@@ -29,7 +29,7 @@ A local Macon newspaper, [**The Macon Melody**](https://maconmelody.com/) (opera
 - **Defense theory:** The amount, combined with BCSD's own voluntary disclosure of "JH" in the 7/18/2024 public board minutes, makes the amount "personally identifiable information" (PII) under [34 C.F.R. § 99.3](https://www.ecfr.gov/current/title-34/section-99.3) (Code of Federal Regulations) and IDEA. BCSD has also raised an **indispensable party** defense suggesting JH/parents must be joined.
 - **Procedural posture:** Plaintiff filed a **Motion for Partial Summary Judgment (MPSJ)** on 3/10/2026 targeting BCSD's Sixth (FERPA/IDEA) and Ninth (indispensable party) Defenses. **Motions hearing scheduled for April 29, 2026, 2:00 p.m.**, Courtroom E, before Judge Ken Smith. **Calendar Call** is 5/5/2026. **Discovery extended** by court order to 7/13/2026.
 - **Counsel:** Plaintiff — originally Joy Ramsingh (Ramsingh Legal, Macon); substituted 1/7–1/8/2026 by **Lucas W. Andrews & Erika Pitzel, Stanton Law LLC** (Atlanta); the LLC's signatory on plaintiff's filings is **DuBose Porter** (Publisher Emeritus, Georgia Trust for Local News; former Georgia House Minority Leader). Defendant — **Bennett D. Bryan (BDB) & Caroline L. Scalf (CLS), Parker Poe Adams & Bernstein LLP** (Atlanta).
-- **Likely outcome:** Merits favor the Melody strongly. [*Red & Black Publ. v. Bd. of Regents*, 262 Ga. 848 (1993)](https://law.justia.com/cases/georgia/supreme-court/1993/s92a1111-1.html) — citation reads: volume 262 of the Georgia Reports, page 848, decided 1993 — narrowly construes "education record"; *Herald Publ'g v. Coopersville* (Mich. 2010) and *Heller v. Safford USD* (Ariz. 2011) are directly on point and are exhibits to the MSJ. The AG's (Attorney General's) pre‑suit opinion undermines BCSD's "substantial justification" defense for attorney‑fee purposes. **Attorney fees under [O.C.G.A. § 50‑18‑73(b)](https://law.justia.com/codes/georgia/2024/title-50/chapter-18/article-4/section-50-18-73/) are probable but not certain** in light of recent Georgia practice.
+- **Likely outcome:** Merits assessment depends on how the court reads *Red & Black* and the § 99.3 requester-knowledge theory; plaintiff's Motion for Partial Summary Judgment puts both squarely at issue. [*Red & Black Publ. v. Bd. of Regents*, 262 Ga. 848 (1993)](https://law.justia.com/cases/georgia/supreme-court/1993/s92a1111-1.html) — citation reads: volume 262 of the Georgia Reports, page 848, decided 1993 — narrowly construes "education record"; *Herald Publ'g v. Coopersville* (Mich. 2010) and *Heller v. Safford USD* (Ariz. 2011) are directly on point and are exhibits to the MSJ. The AG's (Attorney General's) pre‑suit opinion undermines BCSD's "substantial justification" defense for attorney‑fee purposes. **Attorney fees under [O.C.G.A. § 50‑18‑73(b)](https://law.justia.com/codes/georgia/2024/title-50/chapter-18/article-4/section-50-18-73/) are probable but not certain** in light of recent Georgia practice.
 
 ---
 
@@ -145,7 +145,7 @@ BCSD moves on 4/13/2026 (the discovery cutoff day) to extend discovery ~90 days 
 #### [Plaintiff's Motion for Partial Summary Judgment — with Exhibits (3/10/2026)]({{ site.baseurl }}/pdfs/260310_MPSJ_w_EXHIBITS.pdf)
 **The most important filing in the case.** Plaintiff's **Motion for Partial Summary Judgment as to Defendant's Sixth and Ninth Defenses**, filed 3/10/2026 by Lucas W. Andrews (Stanton Law). 35 pages total (19‑page memorandum + two appended exhibits). Core holdings pressed:
 
-1. FERPA/IDEA protect only **"education records"** ([20 U.S.C. § 1232g(a)(4)(A)](https://www.law.cornell.edu/uscode/text/20/1232g)). A dollar amount paid to settle a tort claim is not an education record — it does not "directly relate" to a student and does not concern "education." *Red & Black Publ'g v. Bd. of Regents*, 262 Ga. 848 (1993) limits FERPA to records of "academic performance, financial aid, or scholastic probation."
+1. FERPA/IDEA protect only **"education records"** ([20 U.S.C. § 1232g(a)(4)(A)](https://www.law.cornell.edu/uscode/text/20/1232g)). A dollar amount paid to settle a tort claim is not an education record — it does not "directly relate" to a student and does not concern "education." *Red & Black Publ'g v. Bd. of Regents*, 262 Ga. 848 (1993) reads FERPA narrowly, holding that student records outside the core academic file are "not the type" of records FERPA is "intended to protect" (often shorthanded, though not in a direct quote from the opinion, as limiting FERPA to academic performance, financial aid, or scholastic probation).
 2. Even if it were, **[34 C.F.R. § 99.31(b)(1)](https://www.ecfr.gov/current/title-34/section-99.31)** permits release of de‑identified records.
 3. BCSD's PII‑by‑identification theory fails because BCSD **itself voluntarily published JH's initials** in public board minutes — "cannot take advantage of its own violation to evade its obligations" (*K.L. v. Evesham Twp. Bd. of Educ.*, 423 N.J. Super. 337; [*The Fla. Star v. B.J.F.*, 491 U.S. 524 (1989)](https://supreme.justia.com/cases/federal/us/491/524/)).
 4. If the records aren't education records, the student/parents have no joinable interest (Ninth Defense collapses).
@@ -173,17 +173,17 @@ Receipt for 26 documents / 229 pages purchased for **$117.88**. Maps UUID → fi
 
 ## Legal Landscape & Precedent Review
 
-### [*Mullins v. City of Griffin*, 886 F. Supp. 21 (N.D. Ga. 1995)](https://law.justia.com/cases/federal/district-courts/FSupp/886/21/1797050/) — BCSD's fig leaf
-BCSD cited *Mullins* to the AG in April 2025 as authority for withholding. A reading of *Mullins* shows it:
+### [*Mullins v. City of Griffin*, 886 F. Supp. 21 (N.D. Ga. 1995)](https://law.justia.com/cases/federal/district-courts/FSupp/886/21/1797050/) — the case at the center of the pre-suit dispute
+BCSD cited *Mullins* to the AG in April 2025 as authority for withholding. The case:
 
-1. involved an **adult** city employee's sexual‑harassment suit — no student, no FERPA;
-2. **granted** a newspaper's motion to intervene and **struck** the confidentiality order;
-3. stands for the proposition that settlements paid with public funds cannot be shielded from the press by private confidentiality clauses.
+1. involved an **adult** city employee's sexual-harassment suit — no student, no FERPA;
+2. addressed a newspaper's attempt to access a settlement over objection by the parties, and modified the confidentiality order to permit limited disclosure;
+3. turned on the principle that settlements paid with public funds are generally subject to public access.
 
-In other words, *Mullins* actually **favors the Melody**. The AG's pre‑suit letter flagged this, and the district pressed ahead anyway — a fact plaintiff will weaponize on the "substantial justification" prong for attorney's fees.
+The Georgia Attorney General's office read *Mullins* in both [AG Letter A]({{ site.baseurl }}/documents/pre-litigation/ag-letter-opening/) and [AG Letter B]({{ site.baseurl }}/documents/pre-litigation/ag-letter-closeout/) as not supporting BCSD's non-disclosure position. Letter B (Apr. 24, 2025) states explicitly that *Mullins* "does not appear" to support the district's position. Plaintiff's briefing relies on that AG reading as part of the argument that BCSD lacked "substantial justification" for its refusal under [O.C.G.A. § 50-18-73(b)](https://law.justia.com/codes/georgia/2024/title-50/chapter-18/article-4/section-50-18-73/).
 
 ### Georgia precedent governing "education record" scope
-- ***Red & Black Publ'g v. Bd. of Regents***, 262 Ga. 848 (1993) — narrow reading of FERPA: education records are about "academic performance, financial aid, or scholastic probation." Directly on point.
+- ***Red & Black Publ'g v. Bd. of Regents***, 262 Ga. 848 (1993) — narrow reading of FERPA: records outside the core academic file are "not the type" of records FERPA "intended to protect" (commonly shorthanded in secondary sources as academic performance, financial aid, or scholastic probation — not a direct quote from the opinion). Directly on point.
 - ***Bd. of Regents v. Atlanta Journal***, 259 Ga. 214 (1989) — expenditure of public funds is public; foundational ORA/transparency case.
 - [***Smith v. Northside Hosp.***, 347 Ga. App. 700 (2018)](https://scholar.google.com/scholar_case?case=12417488551498498880) — agency cannot use discovery to examine the requester's motive or identity.
 - [***Appen Media Grp. v. City of Sandy Springs***, 374 Ga. App. 841 (2025)](https://law.justia.com/cases/georgia/court-of-appeals/2025/a24a1357.html) — recent authority reaffirming the agency's burden to justify withholding.
@@ -199,7 +199,7 @@ In other words, *Mullins* actually **favors the Melody**. The AG's pre‑suit le
 - U.S. Dep't of Education 2009 informal guidance suggests settlements arising from student attendance *may* be FERPA‑protected, but it is agency guidance (not binding) and has been criticized (ABA Commc'ns Law. 2022, "Removing FERPA's 'Invisibility Cloak'").
 
 ### Attorney fees under O.C.G.A. § 50‑18‑73(b)
-The statute is **mandatory absent special circumstances** if the agency "acted without substantial justification." Representative Georgia outcomes:
+Where the agency "acted without substantial justification," the statute directs the court to award fees **unless special circumstances would render an award unjust** — a two-pronged inquiry that leaves the court meaningful discretion on both halves. Representative Georgia outcomes:
 - ***Wallace v. Greene County***, 274 Ga. App. 776 (2005) — sets the two‑prong test.
 - **Fulton County DA (March 2025 order, for 2024 ORA violations)** — **$54,264** fee award to attorney Ashleigh Merchant after Judge Rachel Krause found the DA's office acted in a "substantially groundless" manner.
 - **Forsyth County Schools (2024)** — $107,500 fee award. Note: this was a federal First Amendment § 1983 case (public-comment censorship), not an ORA case — included only to illustrate that Georgia courts do enforce fee-shifting against public bodies in adjacent transparency contexts.
@@ -207,9 +207,9 @@ The statute is **mandatory absent special circumstances** if the agency "acted w
 
 ---
 
-## Strategic Read — Who Is Winning What
+## Strategic Read — Procedural vs. Merits Posture
 
-**Plaintiff is winning the legal argument; BCSD is winning the clock.**
+**On the merits, the stronger statutory and precedential authorities line up with plaintiff; on the procedural track, BCSD has secured the delay it sought.**
 
 **BCSD's procedural wins**
 - Beat back the Rule Nisi Motion (no early summary hearing in fall 2025).
@@ -229,7 +229,7 @@ The statute is **mandatory absent special circumstances** if the agency "acted w
 
 ---
 
-## BCSD's Integrated Delay Strategy (12/29/2025 → 4/13/2026)
+## Procedural Sequence (12/29/2025 → 4/13/2026)
 
 The sequence is too tight to be accidental. Within a four‑month window BCSD:
 1. Added an indispensable‑party defense (12/29) to tee up a Rule 19 joinder or Rule 12(b)(7) motion against the JH family.
@@ -238,13 +238,13 @@ The sequence is too tight to be accidental. Within a four‑month window BCSD:
 4. Filed a 90‑day discovery extension motion on the cutoff day itself.
 5. Simultaneously signaled reporter depositions (Corley, Choung) and subpoenas to "non‑party" sources — converting an ORA case into a potential reporter's‑shield fight under O.C.G.A. § 24‑5‑508.
 
-This is not an agency running out the clock through neglect. It is building a parallel factual record to defeat a pure‑law MSJ — and, if possible, push the case toward a Rule 19 joinder that the JH family would likely resist, creating a standing/procedural mess.
+The sequence is observable in the docket. Whether it reflects deliberate delay strategy or ordinary-course litigation posture is for the court to assess; plaintiff's fee-shifting brief argues the former. The practical effect is that BCSD has time to develop its § 99.3 requester-knowledge factual predicate and a viable § 9-11-56(f) "not ripe" argument for the 4/29/2026 hearing.
 
 ---
 
-## Predicted Outcome
+## Likely Trajectory
 
-**On the merits — plaintiff wins, likely on summary judgment.** BCSD's position is weak on at least five independent grounds:
+**On the merits — the stronger authorities favor plaintiff's reading.** BCSD's position is weak on at least five independent grounds:
 1. *Mullins* is inapposite and actually favors plaintiff.
 2. A bare dollar amount fails 34 C.F.R. § 99.3 as PII; redaction is a recognized cure.
 3. Georgia's *Red & Black* narrowly construes FERPA.

@@ -184,7 +184,7 @@ In other words, *Mullins* actually **favors the Melody**. The AG's pre‑suit le
 - U.S. Dep't of Education 2009 informal guidance suggests settlements arising from student attendance *may* be FERPA‑protected, but it is agency guidance (not binding) and has been criticized (ABA Commc'ns Law. 2022, "Removing FERPA's 'Invisibility Cloak'").
 
 ### Attorney fees under O.C.G.A. § 50‑18‑73(b)
-The statute is **mandatory absent special circumstances** if the agency "acted without substantial justification." Representative Georgia outcomes:
+Where the agency "acted without substantial justification," the statute directs the court to award fees **unless special circumstances would render an award unjust** — a two-pronged inquiry that leaves the court meaningful discretion on both halves. Representative Georgia outcomes:
 - ***Wallace v. Greene County***, 274 Ga. App. 776 (2005) — sets the two‑prong test.
 - **Fulton County DA (2024)** — $54,000 fee award against the D.A.'s office; denial was "substantially groundless" and "hostile."
 - **Forsyth County Schools (2024)** — $107,500 fee award (First Amendment case, not ORA, but illustrates scale).

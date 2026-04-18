@@ -2,6 +2,7 @@
 title: Documents
 nav_order: 4
 has_children: true
+layout: default
 permalink: /documents/
 ---
 
@@ -25,7 +26,6 @@ The Georgia Attorney General's two mediation letters, the Georgia DOE response, 
 
 The parallel ORR record — primarily Kerry Hatcher's civic-parent filings during March 2025, which ran alongside the *Macon Melody*'s journalism-track requests. The JH-settlement ORR at the core of Hatcher's batch asked BCSD for the same settlement records the Melody case now seeks.
 
-- [Requests Overview]({{ site.baseurl }}/documents/orr/)
 - [Hatcher JH Settlement ORR (Mar. 11, 2025)]({{ site.baseurl }}/documents/orr/hatcher-jh-settlement/)
 - [Hatcher Collateral ORRs (Mar. 2025)]({{ site.baseurl }}/documents/orr/hatcher-collateral/)
 

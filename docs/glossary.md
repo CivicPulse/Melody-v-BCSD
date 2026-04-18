@@ -1,7 +1,7 @@
 ---
 title: Glossary
 parent: Case Overview
-nav_order: 5
+nav_order: 6
 layout: default
 permalink: /docs/glossary/
 ---
@@ -98,7 +98,7 @@ Every legal term of art that appears in the *Melody v. BCSD* filings, defined fo
 
 **Open Meetings Act** — Georgia's companion law for public-body meetings, codified at [O.C.G.A. § 50-14-1](https://law.justia.com/codes/georgia/2024/title-50/chapter-14/article-1/section-50-14-1/) *et seq.*.
 
-**Open Meetings Act — Settlement Disclosure, [O.C.G.A. § 50-14-3(b)](https://law.justia.com/codes/georgia/2024/title-50/chapter-14/article-1/section-50-14-3/)** — The Open Meetings Act provision requiring public-session disclosure of "the parties to, and principal terms of, any settlement agreement" approved by a public body. BCSD has taken the position (in its [March 14, 2025 denial letter to Hatcher]({{ site.baseurl }}/documents/pre-litigation/bcsd-denial-hatcher/)) that this state provision is in conflict with FERPA and "must yield to federal law."
+**Open Meetings Act — Settlement Disclosure, [O.C.G.A. § 50-14-3(b)(1)](https://law.justia.com/codes/georgia/2024/title-50/chapter-14/article-1/section-50-14-3/)** — The Open Meetings Act provision requiring that any vote in executive session to settle litigation be ratified in a subsequent open meeting where the "parties and principal settlement terms are disclosed before the vote." BCSD has taken the position (in its [March 14, 2025 denial letter to Hatcher]({{ site.baseurl }}/documents/pre-litigation/bcsd-denial-hatcher/)) that this state provision is in conflict with FERPA and "must yield to federal law."
 
 ## P
 
@@ -120,9 +120,9 @@ Every legal term of art that appears in the *Melody v. BCSD* filings, defined fo
 
 **Redaction** — Blacking-out or removing specific information from a document before production. FERPA itself contemplates redaction as a way to release records that contain both public and private information ([34 C.F.R. § 99.31(b)(1)](https://www.ecfr.gov/current/title-34/section-99.31)).
 
-***Red & Black Publ'g v. Bd. of Regents*** — 262 Ga. 848 (1993) ([Justia](https://law.justia.com/cases/georgia/supreme-court/1993/s92a1111-1.html)). Georgia Supreme Court decision reading FERPA's definition of "education record" narrowly. The plaintiff's [Motion for Partial Summary Judgment]({{ site.baseurl }}/filings/msj/) cites the case as binding Georgia precedent that a record must pertain to "academic performance, financial aid, or scholastic probation" to qualify as a FERPA education record — a reading that excludes a settlement dollar figure. See also [Case Report]({{ site.baseurl }}/docs/case-report/).
+***Red & Black Publ'g v. Bd. of Regents*** — 262 Ga. 848 (1993) ([Justia](https://law.justia.com/cases/georgia/supreme-court/1993/s92a1111-1.html)). Georgia Supreme Court decision reading FERPA's definition of "education record" narrowly. The opinion holds that student records outside "academic performance, financial aid, or scholastic probation" are "not the type of records which Congress was concerned about" in enacting FERPA; the three-category phrase is a widely-circulated commentator paraphrase rather than a direct holding quote. The plaintiff's [Motion for Partial Summary Judgment]({{ site.baseurl }}/filings/msj/) cites the case as binding Georgia precedent that a settlement dollar figure falls outside FERPA's coverage. See also [Case Report]({{ site.baseurl }}/docs/case-report/).
 
-**Requester-Knowledge Theory (34 C.F.R. § 99.3 "linked or linkable" prong)** — BCSD's FERPA argument that a record does not need to identify a student on its face to count as personally identifiable information, if the requester's own prior knowledge of the school community makes the student identifiable from the record. The theory is deployed in writing in BCSD's [March 14, 2025 denial letter]({{ site.baseurl }}/documents/pre-litigation/bcsd-denial-hatcher/) and is the target of the plaintiff's Motion for Partial Summary Judgment.
+**Requester-Knowledge Theory (34 C.F.R. § 99.3 "reasonable belief" prong)** — BCSD's FERPA argument that a record does not need to identify a student on its face to count as personally identifiable information, if the school district has a "reasonable belief" that the requester knows the student's identity from prior context. The theory is deployed in writing in BCSD's [March 14, 2025 denial letter]({{ site.baseurl }}/documents/pre-litigation/bcsd-denial-hatcher/) and is the target of the plaintiff's Motion for Partial Summary Judgment.
 
 **Reply** — The moving party's response to the opposing party's Response/Opposition.
 

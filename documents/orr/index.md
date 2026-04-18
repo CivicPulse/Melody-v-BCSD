@@ -3,6 +3,7 @@ title: Open Records Requests
 parent: Documents
 nav_order: 2
 has_children: true
+layout: default
 permalink: /documents/orr/
 ---
 

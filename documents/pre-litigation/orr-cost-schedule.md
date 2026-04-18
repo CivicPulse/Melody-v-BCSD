@@ -48,7 +48,7 @@ The three cost-estimate responses (teacher ORR, LEO Calls, 1st Grade) share a si
 - **Same silence clause:** 30-day silence from the requester = withdrawn.
 - **Same production timeline:** approximately three weeks from payment confirmation.
 
-The [March 14 denial letter to Hatcher]({{ site.baseurl }}/documents/pre-litigation/bcsd-denial-hatcher/) is procedurally different — it is a full FERPA-based denial, not a cost estimate — but it cites a subset of the same exemption basket and is signed by the same attorney.
+The [March 14 denial letter to Hatcher]({{ site.baseurl }}/documents/pre-litigation/bcsd-denial-hatcher/) is procedurally different — it is a full FERPA-based denial, not a cost estimate — but it cites a subset of the same exemption basket and is signed by the same attorney. One reconciliation note: the **O.C.G.A. § 50-18-72(a)(25)** citation appears on the cost-estimate responses listed above but does **not** appear on the March 14 FERPA denial letter, which narrows its exemption list to the federal-confidentiality and FERPA-carve-out provisions directly relevant to a student-records refusal.
 
 ## Why this pattern matters for *Melody v. BCSD*
 

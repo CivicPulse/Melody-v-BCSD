@@ -61,7 +61,7 @@ The letter asks BCSD to do three things:
 
 The Melody complaint filed August 4, 2025 attaches the AG's **April 24, 2025 close-out letter** — not this opening letter — as Exhibit F. The close-out letter explicitly rejects BCSD's reliance on *Mullins*. This opening letter is the upstream predicate: it shows the AG had already flagged the same underlying legal problem in writing, six months before the close-out letter, while Jones Cork was still BCSD's counsel of record.
 
-For the plaintiff's fee-shifting theory under [O.C.G.A. § 50-18-73(b)](https://law.justia.com/codes/georgia/2024/title-50/chapter-18/article-4/section-50-18-73/) — which makes attorney's fees "mandatory absent special circumstances" where the agency acted "without substantial justification" — this letter is the earliest documented state-level pushback on the *Mullins* theory. BCSD had the AG's adverse informal view of its legal authority nine months before the Melody complaint was filed.
+For the plaintiff's fee-shifting theory under [O.C.G.A. § 50-18-73(b)](https://law.justia.com/codes/georgia/2024/title-50/chapter-18/article-4/section-50-18-73/) — under which the court awards attorney's fees where the agency acted "without substantial justification," unless special circumstances would render an award unjust — this letter is the earliest documented state-level pushback on the *Mullins* theory. BCSD had the AG's adverse informal view of its legal authority nine months before the Melody complaint was filed.
 
 ## Why this matters
 
